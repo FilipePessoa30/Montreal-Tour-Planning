@@ -1,0 +1,35 @@
+# Ignorar arquivos grandes
+OTP/otp-2.5.0-shaded.jar
+GTFS/stop_times.txt
+PBF/quebec-latest.osm.pbf
+
+# Ignorar outras coisas que não precisa versionar (exemplos):
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+build/
+dist/
+
+# Claude Assistant files - Memory and local settings
+.claude/
+**/.claude/
+*.claude
+.claude/memory.md
+.claude/settings.local.json
+.claude/*.json
+.claude/*.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Results and temporary files
+temp/
+*.tmp
+*.bak
+*.swp
