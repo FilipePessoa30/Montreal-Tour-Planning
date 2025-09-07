@@ -1,0 +1,57 @@
+=== Teste: MOVNSConstructor ===
+Carregando dados de: c:\Users\Filip\OneDrive\Área de Trabalho\montreal\Montreal-Tour-Planning\places\attractions.csv c:\Users\Filip\OneDrive\Área de Trabalho\montreal\Montreal-Tour-Planning\places\hotels.csv
+Base (raiz) em: c:\Users\Filip\OneDrive\Área de Trabalho\montreal\Montreal-Tour-Planning
+Loaded 50 attractions.
+Loaded 100 hotels.
+Created entity sets with 100 hotels and 50 attractions
+Name mappings created for 50 attractions and 100 hotels.
+Loaded 50 attractions and 100 hotels with travel matrices.
+Pre-calculating attraction availability...
+Found 49 attractions open on Saturday
+Found 48 attractions open on Sunday
+Building compatibility matrices...
+Built compatibility matrices with:
+  - 5000 hotel-to-attraction connections
+  - 2419 attraction-to-attraction connections
+  - 3400 attraction-to-hotel connections
+Validating data consistency...
+Validating 50 attractions...
+Found 50/50 valid attractions
+Validating 100 hotels...
+Found 100/100 working hotels
+Inicialização concluída em 2.05s
+Gerando população inicial (size=20)...
+Starting solution generation with 100 compatible hotels
+Generating solutions prioritizing maximum attractions...
+Generated solution with 10 attractions
+Generated solution with 10 attractions
+Generated solution with 10 attractions
+Generated solution with 10 attractions
+Generating solutions prioritizing maximum quality...
+Generated solution with quality rating 50.9
+Generated solution with quality rating 51.5
+Generated solution with quality rating 55.1
+Generated solution with quality rating 56.2
+Generating solutions prioritizing minimum travel time...
+Generated solution with travel time 788.4 minutes
+Generated solution with travel time 547.6 minutes
+Generated solution with travel time 676.1 minutes
+Generated solution with travel time 928.3 minutes
+Generating solutions prioritizing minimum cost...
+Generated solution with cost CA$ 109.02
+Generated solution with cost CA$ 112.52
+Generated solution with cost CA$ 67.02
+Generated solution with cost CA$ 112.52
+Generating random solutions...
+Generated solution 20/20 with 7 attractions
+Generated 20 valid solutions in 0.03 seconds.
+População gerada em 0.03s: 20 soluções
+Resumo: válidas=20, inválidas=0
+
+Exemplo de solução:
+Hotel: Le Petit Hotel Vieux-Montréal | Saint-Paul
+Dia 1 atrações: ['Notre-Dame Basilica', 'Notre-Dame-de-Bon-Secours Chapel', 'Musée du Montréal juif - Museum of Jewish Montreal', "L'original Art Gallery", 'Leonard Cohen Mural']
+Dia 1 modos: ['WALK', 'CAR', 'WALK', 'WALK', 'WALK', 'WALK']
+Dia 2 atrações: ['City Hall', 'Cathédrale Christ Church Cathedral', 'Musée Marguerite-Bourgeoys', 'Crystal Dreams St Denis - Montreal', 'Biodôme De Montreal']
+Dia 2 modos: ['WALK', 'CAR', 'WALK', 'WALK', 'WALK', 'WALK']
+Objetivos: [10, 54.4, 1109.8666666666668, 532.7166666666667]
