@@ -13,7 +13,7 @@ from movns.movns import MOVNS
 
 def run_movns(attractions_file: str, hotels_file: str, matrices_path: str,
              solution_count: int = 100, iterations: int = 100, no_improv_stop: int = 20,
-             output_dir: str = "results"):
+             output_dir: str = "results", max_time: Optional[float] = None):
     print("Montreal Tour Planning with MOVNS")
     start_time = time.time()
     
@@ -35,7 +35,8 @@ def run_movns(attractions_file: str, hotels_file: str, matrices_path: str,
     print(f"   - Initial population exported to {initial_file}")
     
     print("\n4. Running MOVNS Algorithm")
-    final_population = movns.run(max_iterations=iterations, max_no_improvement=no_improv_stop)
+    final_population = movns.run(max_iterations=iterations, max_no_improvement=no_improv_stop,
+                                 max_time=max_time)
     run_time = time.time() - start_time
     print(f"   - MOVNS completed in {run_time:.2f} seconds")
     print(f"   - Final Pareto set size: {len(final_population)}")
@@ -231,6 +232,8 @@ def main():
                         help="Stop after this many iterations without improvement")
     parser.add_argument("--output", "-o", default="results",
                         help="Output directory for results")
+    parser.add_argument("--max-time", "-t", type=float, default=None,
+                        help="Maximum wall-clock time in seconds")
     
     args = parser.parse_args()
     
@@ -241,7 +244,8 @@ def main():
         solution_count=args.solutions,
         iterations=args.iterations,
         no_improv_stop=args.no_improvement,
-        output_dir=args.output
+        output_dir=args.output,
+        max_time=args.max_time
     )
 
 if __name__ == "__main__":

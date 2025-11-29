@@ -55,7 +55,7 @@ class MOVNS:
         print(f"Initial Pareto set size: {len(self.pareto_set)}")
         return self.pareto_set
     
-    def run(self, max_iterations=100, max_no_improvement=20) -> List[Solution]:
+    def run(self, max_iterations=100, max_no_improvement=20, max_time: Optional[float] = None) -> List[Solution]:
         if not self.pareto_set:
             raise ValueError("Pareto set not initialized. Call initialize_population first.")
         
@@ -63,11 +63,14 @@ class MOVNS:
         
         iteration = 0
         no_improvement = 0
+        overall_start_time = time.time()
         
         pareto_sizes = [len(self.pareto_set)]
         
+        time_limit_reached = False
+        
         while iteration < max_iterations and no_improvement < max_no_improvement:
-            start_time = time.time()
+            iteration_start = time.time()
             current_size = len(self.pareto_set)
             improved = False
             
@@ -94,7 +97,7 @@ class MOVNS:
                 no_improvement += 1
             
             iteration += 1
-            elapsed = time.time() - start_time
+            elapsed = time.time() - iteration_start
             pareto_sizes.append(len(self.pareto_set))
             
             metrics = self._calculate_iteration_metrics(iteration, elapsed)
@@ -104,8 +107,15 @@ class MOVNS:
                   f"Pareto set size: {len(self.pareto_set)} | "
                   f"No improvement: {no_improvement}/{max_no_improvement} | "
                   f"Time: {elapsed:.2f}s")
+            
+            if max_time is not None and (time.time() - overall_start_time) >= max_time:
+                print(f"Stopping: time limit of {max_time}s reached")
+                time_limit_reached = True
+                break
         
-        if iteration >= max_iterations:
+        if time_limit_reached:
+            pass
+        elif iteration >= max_iterations:
             print(f"Stopping: maximum iterations ({max_iterations}) reached")
         else:
             print(f"Stopping: {max_no_improvement} iterations without improvement")
