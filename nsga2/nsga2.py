@@ -1,6 +1,7 @@
 import random
 import copy
-from typing import List
+import time
+from typing import List, Optional
 from models import Solution
 from crossover import Crossover
 from mutation import Mutator
@@ -18,13 +19,18 @@ class NSGA2:
         self.population = self.constructor.generate_initial_population(self.population_size, mandatory_attractions)
         return self.population
 
-    def run(self, generations=50, crossover_prob=0.9, mutation_prob=0.2) -> List[Solution]:
+    def run(self, generations=50, crossover_prob=0.9, mutation_prob=0.2,
+            max_time: Optional[float] = None) -> List[Solution]:
         if not self.population:
             raise ValueError("Population not initialized")
         p_t = self.population
         f = self.fast_non_dominated_sort(p_t)
         self.pareto_front_sizes.append(len(f[0]))
+        start_time = time.time()
         for t in range(generations):
+            if max_time is not None and (time.time() - start_time) >= max_time:
+                print(f"Stopping NSGA-II: time limit of {max_time}s reached at generation {t}")
+                break
             q_t = []
             while len(q_t) < self.population_size:
                 parent1 = self._tournament_selection(p_t, 2)
