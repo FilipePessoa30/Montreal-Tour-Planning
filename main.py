@@ -25,6 +25,8 @@ def main():
                         help='Stop after N iterations without improvement')
     parser.add_argument('--output', default='movns-results',
                         help='Output directory for results')
+    parser.add_argument('--archive-max', type=int, default=60,
+                        help='Maximum size of Pareto archive (default: 60)')
     
     args = parser.parse_args()
     
@@ -39,12 +41,13 @@ def main():
         run_movns(
             attractions_file=args.attractions,
             hotels_file=args.hotels,
-            matrices_path=args.matrices,
-            solution_count=args.solutions,
-            iterations=args.iterations,
-            no_improv_stop=args.no_improv_stop,
-            output_dir=args.output
-        )
+        matrices_path=args.matrices,
+        solution_count=args.solutions,
+        iterations=args.iterations,
+        no_improv_stop=args.no_improv_stop,
+        output_dir=args.output,
+        archive_max=args.archive_max
+    )
     except Exception as e:
         print(f"Error running MOVNS: {e}")
         sys.exit(1)

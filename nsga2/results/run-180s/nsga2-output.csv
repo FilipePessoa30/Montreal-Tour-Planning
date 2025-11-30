@@ -1,201 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;7;39.5;764.6;25.25
-2;Auberge L'Apero;6;34.9;619.3;35.07
-3;Auberge L'Apero;6;34.9;522.2;37.53
-4;Auberge L'Apero;15;75.7;1417.6;58.63
-5;Alternative Hostel of Old Montreal;16;80.4;1381.4;147.50
-6;The Ritz-Carlton, Montreal;12;64.0;1001.6;1111.07
-7;Hyatt Centric Montreal;13;67.2;1053.4;619.05
-8;Hyatt Centric Montreal;13;67.2;1053.4;619.05
-9;Hotel Chrome Montreal;12;59.6;925.6;273.38
-10;Le Westin Montreal;10;54.5;800.0;354.77
-11;Alternative Hostel of Old Montreal;9;50.3;747.2;84.90
-12;Hotel Kutuma;14;72.3;1153.6;468.45
-13;Alternative Hostel of Old Montreal;6;35.9;525.7;35.75
-14;Le Westin Montreal;11;58.7;887.4;354.77
-15;Alternative Hostel of Old Montreal;13;67.3;1291.0;51.08
-16;Alternative Hostel of Old Montreal;15;76.3;1261.0;146.75
-17;Auberge L'Apero;7;39.4;628.7;49.10
-18;Auberge L'Apero;12;61.9;1175.4;30.48
-19;Alternative Hostel of Old Montreal;8;44.4;716.1;35.75
-20;Alternative Hostel of Old Montreal;8;45.2;720.7;51.75
-21;Hotel Kutuma;14;72.3;1153.6;468.45
-22;Auberge L'Apero;9;48.1;820.1;30.17
-23;Auberge L'Apero;11;57.2;927.0;52.90
-24;Auberge L'Apero;10;53.3;1001.2;30.67
-25;Alternative Hostel of Old Montreal;14;72.0;1235.4;125.92
-26;Auberge L'Apero;15;75.7;1417.6;58.63
-27;Hôtel Place d'Armes Old Montreal;6;36.6;553.9;421.37
-28;Alternative Hostel of Old Montreal;15;76.9;1302.3;132.57
-29;Alternative Hostel of Old Montreal;15;75.7;1275.9;100.88
-30;Alternative Hostel of Old Montreal;14;72.8;1322.5;77.75
-31;Alternative Hostel of Old Montreal;8;45.2;683.6;79.52
-32;Auberge L'Apero;9;47.8;787.4;37.83
-33;Auberge L'Apero;10;52.2;948.7;25.25
-34;Auberge L'Apero;13;65.7;1405.8;32.12
-35;Hotel Kutuma;7;41.0;624.2;385.25
-36;Alternative Hostel of Old Montreal;10;55.1;808.8;77.75
-37;Auberge L'Apero;14;70.4;1240.4;74.85
-38;Alternative Hostel of Old Montreal;13;68.7;1195.5;77.75
-39;Auberge L'Apero;11;57.1;1011.9;30.17
-40;Alternative Hostel of Old Montreal;12;64.1;1059.1;77.75
-41;Auberge L'Apero;8;42.8;802.3;25.25
-42;Alternative Hostel of Old Montreal;11;59.9;990.8;77.75
-43;Auberge L'Apero;7;37.8;724.4;29.98
-44;Auberge L'Apero;7;38.9;590.6;37.53
-45;Auberge L'Apero;14;70.6;1382.8;46.67
-46;Alternative Hostel of Old Montreal;10;54.1;786.5;63.88
-47;Auberge L'Apero;9;48.6;849.3;30.67
-48;Auberge L'Apero;13;66.0;1287.3;32.40
-49;Auberge L'Apero;9;48.2;699.3;57.47
-50;Hôtel Place d'Armes Old Montreal;7;40.8;614.7;421.37
-51;Alternative Hostel of Old Montreal;11;58.4;1038.5;42.90
-52;Alternative Hostel of Old Montreal;7;40.6;585.3;51.75
-53;Hôtel Place d'Armes Old Montreal;9;50.1;741.3;443.25
-54;Auberge L'Apero;12;61.2;1143.0;32.40
-55;Hotel Kutuma;11;59.0;920.8;431.10
-56;Alternative Hostel of Old Montreal;11;58.9;939.5;51.75
-57;Alternative Hostel of Old Montreal;8;45.0;679.6;77.75
-58;Auberge L'Apero;8;44.2;714.2;55.12
-59;Alternative Hostel of Old Montreal;9;49.6;867.8;35.75
-60;Hotel Kutuma;12;63.6;1004.7;441.13
-61;Alternative Hostel of Old Montreal;8;44.5;672.9;114.55
-62;Auberge L'Apero;7;39.8;661.1;38.85
-63;Auberge L'Apero;10;52.5;891.0;30.17
-64;Alternative Hostel of Old Montreal;15;76.2;1362.4;90.72
-65;Alternative Hostel of Old Montreal;9;49.2;725.5;56.67
-66;Alternative Hostel of Old Montreal;6;35.9;525.7;35.75
-67;Auberge L'Apero;8;43.8;688.2;37.53
-68;Auberge L'Apero;12;61.6;1081.2;45.65
-69;Auberge L'Apero;6;34.9;522.2;37.53
-70;Alternative Hostel of Old Montreal;10;54.6;905.5;70.27
-71;Auberge L'Apero;10;53.1;1024.9;25.25
-72;Auberge L'Apero;10;52.5;863.1;36.90
-73;Alternative Hostel of Old Montreal;13;68.6;1181.5;91.75
-74;Auberge L'Apero;8;43.6;639.8;60.53
-75;Alternative Hostel of Old Montreal;11;58.6;914.8;68.50
-76;Alternative Hostel of Old Montreal;12;63.2;1020.1;58.90
-77;Auberge L'Apero;8;44.4;772.2;30.67
-78;Le Westin Montreal;13;67.0;1056.1;377.98
-79;Auberge L'Apero;9;48.5;843.8;30.67
-80;Le Westin Montreal;14;71.1;1111.1;407.43
-81;Auberge L'Apero;7;39.6;568.8;60.53
-82;Auberge L'Apero;7;39.6;568.1;61.85
-83;Alternative Hostel of Old Montreal;10;54.7;928.4;40.67
-84;Auberge L'Apero;11;57.8;1041.7;30.67
-85;Alternative Hostel of Old Montreal;14;71.5;1246.1;86.90
-86;Auberge L'Apero;8;42.8;791.6;30.48
-87;Auberge L'Apero;13;66.3;1164.5;53.53
-88;Auberge L'Apero;14;70.7;1374.5;54.38
-89;Alternative Hostel of Old Montreal;15;76.5;1299.0;121.37
-90;Alternative Hostel of Old Montreal;9;49.5;837.2;35.75
-91;Hotel Kutuma;13;68.3;1109.7;458.42
-92;Alternative Hostel of Old Montreal;14;71.0;1225.1;87.52
-93;Alternative Hostel of Old Montreal;9;49.0;833.4;35.75
-94;Alternative Hostel of Old Montreal;13;67.5;1094.5;72.90
-95;Alternative Hostel of Old Montreal;10;54.3;884.1;35.75
-96;Auberge L'Apero;7;38.2;638.3;35.90
-97;Alternative Hostel of Old Montreal;12;62.9;1132.0;35.75
-98;Auberge L'Apero;13;66.4;1247.7;43.05
-99;Alternative Hostel of Old Montreal;14;70.8;1234.2;81.95
-100;Alternative Hostel of Old Montreal;14;70.7;1217.2;93.70
-101;Alternative Hostel of Old Montreal;15;76.9;1310.4;127.33
-102;Alternative Hostel of Old Montreal;10;53.6;877.1;41.78
-103;Alternative Hostel of Old Montreal;13;66.7;1148.6;65.75
-104;Auberge L'Apero;8;43.4;745.5;31.98
-105;Hotel Kutuma;14;72.0;1173.7;447.65
-106;Auberge L'Apero;13;66.6;1343.3;46.48
-107;Auberge L'Apero;13;65.7;1405.8;32.12
-108;Alternative Hostel of Old Montreal;12;63.9;1067.1;75.75
-109;Auberge L'Apero;11;57.5;1191.7;25.25
-110;Auberge L'Apero;11;57.3;864.4;109.62
-111;Auberge L'Apero;12;61.8;1076.7;47.98
-112;Alternative Hostel of Old Montreal;7;40.5;672.8;35.75
-113;Alternative Hostel of Old Montreal;13;67.5;1065.4;143.50
-114;Alternative Hostel of Old Montreal;12;62.1;994.9;83.90
-115;Alternative Hostel of Old Montreal;13;68.1;1210.4;67.08
-116;Auberge L'Apero;7;38.2;638.3;35.90
-117;Auberge L'Apero;7;38.9;589.9;38.85
-118;Alternative Hostel of Old Montreal;13;67.9;1139.8;82.67
-119;Le Westin Montreal;13;67.1;1012.1;400.15
-120;Hotel Kutuma;15;76.7;1299.8;456.45
-121;Auberge L'Apero;8;43.1;761.0;30.67
-122;Alternative Hostel of Old Montreal;15;76.8;1328.2;107.50
-123;Alternative Hostel of Old Montreal;9;49.2;817.8;51.75
-124;Auberge L'Apero;7;39.4;628.7;49.10
-125;Auberge L'Apero;11;57.6;908.4;70.63
-126;Alternative Hostel of Old Montreal;13;67.7;1071.8;89.55
-127;Alternative Hostel of Old Montreal;12;62.8;980.0;119.53
-128;Hotel Kutuma;7;41.0;624.2;385.25
-129;Auberge L'Apero;7;39.5;654.6;32.12
-130;Auberge L'Apero;8;44.0;672.4;53.47
-131;Hotel Kutuma;13;67.9;1055.3;424.78
-132;Auberge L'Apero;10;52.8;995.3;25.25
-133;Alternative Hostel of Old Montreal;11;59.4;960.3;72.40
-134;Alternative Hostel of Old Montreal;15;75.9;1339.4;95.52
-135;Alternative Hostel of Old Montreal;13;68.2;1104.9;96.67
-136;Auberge L'Apero;11;57.2;953.3;46.17
-137;Alternative Hostel of Old Montreal;11;59.3;984.3;64.73
-138;Alternative Hostel of Old Montreal;13;67.1;1266.2;47.83
-139;Alternative Hostel of Old Montreal;14;72.0;1202.4;133.50
-140;Alternative Hostel of Old Montreal;13;66.9;1207.3;49.75
-141;Alternative Hostel of Old Montreal;12;63.5;969.2;141.48
-142;Auberge L'Apero;12;62.4;1316.5;25.25
-143;Alternative Hostel of Old Montreal;14;72.2;1272.0;102.02
-144;Alternative Hostel of Old Montreal;9;50.1;759.5;57.78
-145;Auberge L'Apero;12;61.2;1143.0;32.40
-146;Auberge L'Apero;11;57.7;964.0;41.25
-147;Auberge L'Apero;10;53.0;877.6;37.57
-148;Alternative Hostel of Old Montreal;10;53.7;831.1;56.67
-149;Auberge L'Apero;9;48.1;820.1;30.17
-150;Auberge L'Apero;11;57.9;972.7;41.25
-151;Alternative Hostel of Old Montreal;12;62.6;1085.7;56.88
-152;Alternative Hostel of Old Montreal;14;71.2;1204.0;95.52
-153;Alternative Hostel of Old Montreal;12;63.4;1157.7;51.75
-154;Alternative Hostel of Old Montreal;14;72.6;1256.1;119.28
-155;Alternative Hostel of Old Montreal;12;62.6;1103.3;35.75
-156;Alternative Hostel of Old Montreal;13;68.3;1153.1;89.12
-157;Alternative Hostel of Old Montreal;14;71.8;1180.5;129.52
-158;Le Westin Montreal;13;67.1;1012.1;400.15
-159;Alternative Hostel of Old Montreal;15;76.3;1416.2;86.90
-160;Alternative Hostel of Old Montreal;11;58.1;984.7;35.75
-161;Alternative Hostel of Old Montreal;12;62.9;970.5;139.30
-162;Auberge L'Apero;12;62.4;1316.5;25.25
-163;Alternative Hostel of Old Montreal;10;53.4;760.5;103.55
-164;Alternative Hostel of Old Montreal;14;71.7;1120.5;147.50
-165;Alternative Hostel of Old Montreal;11;59.0;999.6;61.75
-166;Hôtel Place d'Armes Old Montreal;9;50.1;741.3;443.25
-167;Auberge L'Apero;8;43.6;659.4;59.70
-168;Alternative Hostel of Old Montreal;15;76.9;1335.0;127.12
-169;Alternative Hostel of Old Montreal;12;63.3;1089.8;57.78
-170;Auberge L'Apero;7;39.5;664.4;30.67
-171;Hôtel Place d'Armes Old Montreal;7;40.8;614.7;421.37
-172;Alternative Hostel of Old Montreal;14;71.9;1192.0;121.72
-173;Auberge L'Apero;9;48.2;722.2;62.03
-174;Auberge L'Apero;10;53.2;977.1;30.67
-175;Auberge L'Apero;9;47.8;806.9;30.67
-176;Le Westin Montreal;13;67.0;1056.1;377.98
-177;Alternative Hostel of Old Montreal;14;72.3;1222.7;126.88
-178;Alternative Hostel of Old Montreal;15;76.2;1379.6;81.18
-179;Alternative Hostel of Old Montreal;15;75.8;1358.2;87.52
-180;Alternative Hostel of Old Montreal;13;68.1;1255.3;61.75
-181;Alternative Hostel of Old Montreal;10;53.7;831.1;56.67
-182;Alternative Hostel of Old Montreal;14;72.2;1236.5;125.70
-183;Alternative Hostel of Old Montreal;14;72.8;1322.5;77.75
-184;Alternative Hostel of Old Montreal;12;63.3;1117.6;40.67
-185;Alternative Hostel of Old Montreal;10;55.1;807.6;95.52
-186;Auberge L'Apero;12;61.9;1161.5;30.67
-187;Alternative Hostel of Old Montreal;13;67.0;1008.0;129.52
-188;Alternative Hostel of Old Montreal;15;76.3;1349.6;95.37
-189;Alternative Hostel of Old Montreal;14;72.1;1259.7;75.12
-190;Alternative Hostel of Old Montreal;14;72.5;1300.1;65.75
-191;Le Westin Montreal;14;71.1;1111.1;407.43
-192;Alternative Hostel of Old Montreal;13;67.7;1171.6;65.75
-193;Alternative Hostel of Old Montreal;13;67.7;1127.7;72.90
-194;Alternative Hostel of Old Montreal;15;76.3;1349.6;95.37
-195;Auberge L'Apero;14;70.7;1125.0;128.23
-196;Alternative Hostel of Old Montreal;15;75.8;1358.2;87.52
-197;Alternative Hostel of Old Montreal;14;71.7;1128.4;128.98
-198;Auberge L'Apero;7;39.5;654.6;32.12
-199;Auberge L'Apero;8;44.1;767.7;31.98
-200;Alternative Hostel of Old Montreal;15;75.7;1328.0;95.90
+1;Auberge L'Apero;8;44.4;969.6;25.25
+2;Auberge L'Apero;12;62.3;1414.4;44.17
+3;Hygie Boutique Hotel;7;35.1;796.3;100.98
+4;Auberge L'Apero;15;74.8;1401.3;118.90
+5;Warwick Le Crystal - Montréal;6;36.6;677.2;417.82
+6;Le Petit Hotel Vieux-Montréal | Saint-Paul;7;41.4;640.7;432.60
+7;Le Petit Hotel Vieux-Montréal | Saint-Paul;14;71.4;1307.5;493.65
+8;Hotel Chrome Montreal;9;45.5;913.2;213.32
+9;Residence Inn Montreal Midtown;11;56.9;1044.6;384.28
+10;Auberge L'Apero;15;74.8;1401.3;118.90
+11;Le Petit Hotel Vieux-Montréal | Saint-Paul;7;41.4;640.7;432.60
+12;Hygie Boutique Hotel;11;52.4;1012.5;139.18
+13;Novotel Montreal Centre;14;70.9;1276.9;341.12
+14;Auberge L'Apero;10;53.2;1261.8;25.25
+15;Hygie Boutique Hotel;10;49.1;1052.3;98.82
+16;Warwick Le Crystal - Montréal;9;49.8;919.2;429.45
+17;Auberge L'Apero;8;43.8;945.9;47.42
+18;Auberge L'Apero;11;57.2;1117.9;80.32
+19;Hotel le Coach;13;67.3;1159.8;273.35
+20;Deluxe Suites Downtown Montreal;13;68.2;1215.1;318.17
+21;Hotel Monville;14;71.4;1373.5;353.35
+22;Auberge L'Apero;12;62.3;1414.4;44.17
+23;Novotel Montreal Centre;7;38.9;740.3;280.75
+24;St Paul Hotel;11;56.2;1019.0;488.10
+25;Hygie Boutique Hotel;12;57.0;1102.1;133.12
+26;Warwick Le Crystal - Montréal;7;40.5;783.7;429.35
+27;Hygie Boutique Hotel;9;44.6;882.3;77.93
+28;Hygie Boutique Hotel;8;40.4;817.7;70.75
+29;Deluxe Suites Downtown Montreal;12;63.8;1258.4;259.15
+30;Le Petit Hotel Vieux-Montréal | Saint-Paul;10;55.5;960.2;440.75
+31;Novotel Montreal Centre;8;43.4;851.8;280.08
+32;Novotel Montreal Centre;7;38.9;740.3;280.75
+33;Auberge L'Apero;12;62.7;1283.8;51.53
+34;Ramada Plaza by Wyndham Montreal;14;70.0;1331.1;296.25
+35;Auberge L'Apero;13;65.4;1268.7;62.92
+36;L'Appartement Hotel;13;66.6;1198.9;262.43
+37;Le Petit Hotel Vieux-Montréal | Saint-Paul;11;58.0;1046.0;463.85
+38;Novotel Montreal Centre;9;47.6;934.1;286.47
+39;Le Petit Hotel Vieux-Montréal | Saint-Paul;12;63.3;1106.4;456.63
+40;Auberge L'Apero;10;52.3;1064.4;83.73
+41;Le Petit Hotel Vieux-Montréal | Saint-Paul;8;46.2;809.1;433.77
+42;Auberge L'Apero;12;61.8;1362.6;32.12
+43;Auberge L'Apero;12;61.1;1187.7;124.67
+44;Hygie Boutique Hotel;10;48.7;987.4;107.62
+45;Deluxe Suites Downtown Montreal;9;51.3;1010.7;271.97
+46;Auberge L'Apero;12;62.3;1241.3;67.07
+47;Deluxe Suites Downtown Montreal;13;68.2;1215.1;318.17
+48;Deluxe Suites Downtown Montreal;13;67.4;1257.8;312.25
+49;Hygie Boutique Hotel;9;45.1;993.6;91.63
+50;Deluxe Suites Downtown Montreal;10;55.0;999.9;305.55
+51;Deluxe Suites Downtown Montreal;11;59.4;1084.2;283.45
+52;Novotel Montreal Centre;8;43.1;813.4;286.63
+53;Auberge L'Apero;11;58.2;1220.7;42.53
+54;Hygie Boutique Hotel;7;35.1;796.3;100.98
+55;Deluxe Suites Downtown Montreal;11;58.9;1062.9;290.63
+56;Hygie Boutique Hotel;14;65.7;1322.2;121.17
+57;Deluxe Suites Downtown Montreal;11;59.8;1109.0;297.47
+58;Hotel Monville;13;66.3;1159.7;329.77
+59;Auberge L'Apero;12;60.5;1144.7;81.12
+60;Auberge L'Apero;9;48.2;1092.6;37.37

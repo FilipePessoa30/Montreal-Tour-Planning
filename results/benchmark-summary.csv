@@ -1,11 +1,11 @@
 time_sec,algo,hypervolume,spread,pareto_size,epsilon_vs_other,best_F1_attractions,best_F1_hotel,best_F2_quality,best_F2_hotel,best_F3_time,best_F3_hotel,best_F4_cost,best_F4_hotel
-60,NSGA-II,0.08264541473772585,1.1655091584612551,198,0.3156972925636722,16,Auberge L'Apero,81.3,Hotel William Gray,496.9,Alternative Hostel of Old Montreal,25.25,Auberge L'Apero
-60,MOVNS,0.050838737075808,0.9545724936070721,28,0.2666666666666667,12,L'Appartement Hotel,62.9,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
-120,NSGA-II,0.09944366568854866,1.2124060235977336,198,0.308482535955386,16,Auberge L'Apero,81.2,Deluxe Suites Downtown Montreal,484.7,Alternative Hostel of Old Montreal,25.25,Auberge L'Apero
-120,MOVNS,0.061400411541606345,0.9723483435773677,30,0.1507246376811595,14,Alternative Hostel of Old Montreal,70.8,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
-180,NSGA-II,0.11534447375342352,1.3105290620061318,197,0.33835808763762665,16,Alternative Hostel of Old Montreal,80.4,Alternative Hostel of Old Montreal,522.2,Auberge L'Apero,25.25,Auberge L'Apero
-180,MOVNS,0.06134870266397576,0.8682921096155443,30,0.19999999999999996,13,Auberge L'Apero,67.1,Best Western Plus Hotel Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
-240,NSGA-II,0.1164907914661267,1.30300673487034,195,0.37428166281065756,15,Alternative Hostel of Old Montreal,77.7,Le Petit Hotel Vieux-Montréal | Saint-Paul,505.2,Delta Hotels by Marriott Montreal,25.25,Auberge L'Apero
-240,MOVNS,0.0651032282497341,0.9425782681134175,30,0.11165012314351819,14,Alternative Hostel of Old Montreal,70.9,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
-300,NSGA-II,0.1148101924900948,1.2094467759733747,198,0.3816170465513401,16,Alternative Hostel of Old Montreal,80.7,Alternative Hostel of Old Montreal,578.3,"InterContinental Montreal, an IHG hotel",25.25,Auberge L'Apero
-300,MOVNS,0.06296751979543402,0.8775787311314027,30,0.1445255474452556,15,Hôtel Ac Montréal Centre-ville,76.2,Hotel William Gray,64.3,Le Westin Montreal,25.25,Auberge L'Apero
+60,NSGA-II,0.08552545180553767,1.228123072775231,59,0.4820562560620757,15,Deluxe Suites Downtown Montreal,77.5,Deluxe Suites Downtown Montreal,710.4,Alternative Hostel of Old Montreal,35.75,Alternative Hostel of Old Montreal
+60,MOVNS,0.06095304938124144,0.9825458747023451,30,0.2142857142857143,12,Deluxe Suites Downtown Montreal,64.5,Deluxe Suites Downtown Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
+120,NSGA-II,0.08876229910699629,1.106758981695779,59,0.47141891384361156,14,Le Square Phillips Hotel & Suites,71.1,Le Square Phillips Hotel & Suites,691.9,Auberge L'Apero,39.25,Auberge L'Apero
+120,MOVNS,0.05852294241403954,0.9948388556299594,30,0.15384615384615385,12,Alternative Hostel of Old Montreal,63.0,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
+180,NSGA-II,0.06130555058541908,0.9823505203993119,60,0.5227621483375959,15,Auberge L'Apero,74.8,Auberge L'Apero,640.7,Le Petit Hotel Vieux-Montréal | Saint-Paul,25.25,Auberge L'Apero
+180,MOVNS,0.06530895925094682,0.8718545306715741,30,0.0714285714285714,14,Alternative Hostel of Old Montreal,71.9,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
+240,NSGA-II,0.07490698018350535,1.1882983437887586,60,0.34768413059984815,14,Hôtel Place d'Armes Old Montreal,72.6,Hôtel Place d'Armes Old Montreal,522.2,Hotel Le Saint Andre,42.77,Auberge L'Apero
+240,MOVNS,0.0751921501843901,0.9139611680269553,30,0.0664388762338648,15,Alternative Hostel of Old Montreal,75.9,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
+300,NSGA-II,0.08983177383368125,1.0805519083264614,59,0.45682471794115476,14,Auberge Du Vieux Port,71.8,Auberge Du Vieux Port,675.3,Auberge Du Vieux Port,25.25,Auberge L'Apero
+300,MOVNS,0.06318421552090564,0.952313639722911,30,0.1067030454981196,13,Alternative Hostel of Old Montreal,67.7,Alternative Hostel of Old Montreal,64.3,Le Westin Montreal,25.25,Auberge L'Apero
