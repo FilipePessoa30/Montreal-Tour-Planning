@@ -1,0 +1,4 @@
+Iteration;ParetoSize;Time;MinAttr;MaxAttr;AvgAttr;MinQuality;MaxQuality;AvgQuality;MinTime;MaxTime;AvgTime;MinCost;MaxCost;AvgCost
+1;30;14.26;1;11;5.43;12.6;55.6;33.15;68.8;1367.0;620.01;25.25;1119.22;262.64
+2;30;44.02;1;12;5.50;12.2;62.6;33.32;64.6;1213.0;574.25;25.25;1119.22;234.68
+3;30;132.69;1;12;5.70;12.2;63.2;34.31;64.3;1329.2;590.96;25.25;1119.22;198.41

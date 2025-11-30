@@ -1,0 +1,201 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;7;38.3;592.7;25.25
+2;Auberge L'Apero;2;16.6;218.5;55.95
+3;Auberge L'Apero;15;75.6;1411.2;87.27
+4;Hotel Kutuma;16;80.9;1399.7;466.73
+5;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;13;67.4;1000.1;665.02
+6;Le Roberval;5;27.9;369.0;244.60
+7;Alternative Hostel of Old Montreal;16;80.7;1382.5;160.33
+8;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;4;25.9;334.9;569.87
+9;Hotel De Paris;3;19.7;252.1;256.18
+10;Auberge L'Apero;2;16.6;218.5;55.95
+11;Auberge L'Apero;6;33.3;511.4;37.58
+12;Hotel Kutuma;7;39.4;551.2;408.85
+13;Hôtel Place d'Armes Old Montreal;9;48.9;667.3;450.15
+14;Alternative Hostel of Old Montreal;10;53.8;874.9;88.45
+15;Alternative Hostel of Old Montreal;10;54.8;893.5;55.78
+16;Deluxe Suites Downtown Montreal;3;22.6;310.8;295.90
+17;Hotel Faubourg Montreal;12;60.6;905.0;335.55
+18;Alternative Hostel of Old Montreal;5;30.2;427.1;67.57
+19;Hotel Kutuma;16;80.9;1399.7;466.73
+20;Auberge L'Apero;9;47.2;731.9;60.03
+21;Deluxe Suites Downtown Montreal;4;26.5;346.6;271.80
+22;Alternative Hostel of Old Montreal;8;43.6;602.4;89.37
+23;Auberge L'Apero;15;75.6;1411.2;87.27
+24;Alternative Hostel of Old Montreal;8;43.9;608.1;101.95
+25;Deluxe Suites Downtown Montreal;6;36.7;525.6;302.53
+26;Alternative Hostel of Old Montreal;14;71.1;1079.0;133.02
+27;Deluxe Suites Downtown Montreal;11;59.0;876.2;323.97
+28;Auberge L'Apero;14;70.5;1145.6;111.85
+29;Hôtel Place d'Armes Old Montreal;11;57.6;821.8;464.80
+30;Deluxe Suites Downtown Montreal;15;77.4;1358.6;332.75
+31;Deluxe Suites Downtown Montreal;15;77.6;1372.5;304.35
+32;Deluxe Suites Downtown Montreal;12;63.7;939.4;335.33
+33;Alternative Hostel of Old Montreal;13;67.1;1136.4;104.92
+34;Hôtel Place d'Armes Old Montreal;13;67.5;1005.3;535.38
+35;Hotel De Paris;3;19.7;252.1;256.18
+36;Alternative Hostel of Old Montreal;3;21.8;271.7;87.08
+37;Deluxe Suites Downtown Montreal;14;72.8;1163.0;375.50
+38;Auberge L'Apero;15;74.4;1323.8;82.67
+39;Deluxe Suites Downtown Montreal;8;45.6;637.9;289.33
+40;Hôtel Saint-Sulpice;14;71.7;1108.9;612.43
+41;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;15;76.7;1254.1;639.13
+42;Deluxe Suites Downtown Montreal;14;73.0;1196.5;338.42
+43;Hotel Kutuma;15;76.8;1282.7;432.53
+44;Deluxe Suites Downtown Montreal;13;68.5;1057.3;334.68
+45;Deluxe Suites Downtown Montreal;4;26.8;346.4;319.67
+46;Hotel Kutuma;12;62.9;910.3;415.02
+47;Auberge L'Apero;10;52.0;911.9;46.75
+48;Hôtel Place d'Armes Old Montreal;14;71.7;1117.4;490.00
+49;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;15;76.7;1254.1;639.13
+50;Courtyard Montreal Downtown;6;34.2;444.4;397.95
+51;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;5;30.1;386.8;585.78
+52;Deluxe Suites Downtown Montreal;5;31.2;427.0;303.83
+53;Auberge L'Apero;9;47.2;760.6;44.83
+54;Auberge L'Apero;13;65.4;1098.4;77.45
+55;Auberge L'Apero;11;56.3;970.4;70.15
+56;David Hotel;14;71.3;1108.6;513.15
+57;Auberge L'Apero;14;70.3;1164.9;95.42
+58;Hotel De Paris;4;24.0;313.0;280.13
+59;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;5;30.1;398.1;569.87
+60;Alternative Hostel of Old Montreal;15;76.3;1236.5;141.90
+61;Hôtel Place d'Armes Old Montreal;9;48.9;667.3;450.15
+62;Deluxe Suites Downtown Montreal;8;45.5;632.0;265.50
+63;Deluxe Suites Downtown Montreal;9;50.4;715.0;280.12
+64;Hotel Kutuma;6;35.2;476.9;390.07
+65;Hotel Kutuma;12;62.9;896.7;436.33
+66;Auberge L'Apero;4;25.0;369.5;45.88
+67;Deluxe Suites Downtown Montreal;10;54.5;806.1;294.12
+68;Auberge L'Apero;8;42.4;723.9;25.25
+69;Alternative Hostel of Old Montreal;11;59.4;1007.9;58.90
+70;Auberge L'Apero;8;43.1;655.2;44.72
+71;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;13;67.2;960.1;602.17
+72;Alternative Hostel of Old Montreal;3;22.4;297.1;68.57
+73;David Hotel;14;71.3;1103.8;525.32
+74;Auberge L'Apero;5;29.6;459.5;41.17
+75;Auberge L'Apero;7;38.2;546.7;95.92
+76;Deluxe Suites Downtown Montreal;7;40.7;563.0;280.12
+77;Deluxe Suites Downtown Montreal;7;41.2;598.4;280.98
+78;Deluxe Suites Downtown Montreal;13;68.2;1026.3;368.98
+79;Auberge L'Apero;11;57.2;857.4;92.05
+80;Alternative Hostel of Old Montreal;13;67.0;969.5;157.03
+81;Alternative Hostel of Old Montreal;4;26.0;351.2;68.57
+82;Deluxe Suites Downtown Montreal;6;36.0;499.5;312.88
+83;Hôtel Place d'Armes Old Montreal;11;57.6;821.8;464.80
+84;Alternative Hostel of Old Montreal;9;50.2;795.6;55.78
+85;Deluxe Suites Downtown Montreal;9;49.6;699.2;310.20
+86;Alternative Hostel of Old Montreal;6;35.3;518.9;98.35
+87;Auberge L'Apero;10;52.7;972.3;30.48
+88;Deluxe Suites Downtown Montreal;13;68.2;1049.6;362.88
+89;Auberge L'Apero;15;75.1;1340.2;95.40
+90;Alternative Hostel of Old Montreal;10;53.6;784.8;72.65
+91;Auberge L'Apero;12;62.2;1012.7;100.37
+92;Auberge L'Apero;3;21.4;313.5;40.73
+93;Ambrose House & Café;5;28.9;388.3;269.97
+94;Hôtel Place d'Armes Old Montreal;11;58.7;833.2;473.42
+95;Alternative Hostel of Old Montreal;9;48.6;696.7;70.75
+96;Deluxe Suites Downtown Montreal;9;49.6;684.2;314.67
+97;Auberge L'Apero;5;28.7;409.6;46.43
+98;Deluxe Suites Downtown Montreal;6;36.1;526.0;286.67
+99;Alternative Hostel of Old Montreal;8;44.6;613.8;75.43
+100;Alternative Hostel of Old Montreal;10;53.6;768.7;79.92
+101;Deluxe Suites Downtown Montreal;15;77.4;1307.3;348.12
+102;Auberge L'Apero;6;33.7;464.0;64.97
+103;Auberge L'Apero;7;37.8;528.4;95.78
+104;Hôtel Place d'Armes Old Montreal;13;67.2;987.5;480.15
+105;Alternative Hostel of Old Montreal;14;72.0;1189.4;123.95
+106;Alternative Hostel of Old Montreal;12;64.0;1115.9;76.67
+107;Alternative Hostel of Old Montreal;12;63.6;1183.2;51.75
+108;Alternative Hostel of Old Montreal;14;71.1;1069.9;148.95
+109;Auberge L'Apero;3;21.4;313.5;40.73
+110;Auberge L'Apero;15;74.9;1284.7;115.57
+111;Alternative Hostel of Old Montreal;14;72.5;1135.2;147.55
+112;Alternative Hostel of Old Montreal;5;30.8;403.6;86.33
+113;Hôtel Place d'Armes Old Montreal;12;63.0;938.5;476.53
+114;David Hotel;14;71.3;1103.0;529.27
+115;Deluxe Suites Downtown Montreal;11;58.4;846.7;328.50
+116;David Hotel;14;71.3;1106.5;513.28
+117;Deluxe Suites Downtown Montreal;12;63.7;955.2;331.17
+118;Auberge L'Apero;9;47.9;877.1;40.47
+119;Alternative Hostel of Old Montreal;8;44.3;754.3;42.65
+120;Alternative Hostel of Old Montreal;10;53.1;738.4;103.07
+121;Deluxe Suites Downtown Montreal;5;31.0;439.0;302.08
+122;Hôtel Place d'Armes Old Montreal;10;53.5;720.9;471.13
+123;Auberge L'Apero;13;65.8;1074.2;81.73
+124;Auberge L'Apero;7;37.8;561.1;59.88
+125;Auberge L'Apero;13;66.5;1209.5;64.00
+126;Auberge L'Apero;7;39.2;712.2;33.25
+127;Deluxe Suites Downtown Montreal;15;77.1;1289.3;340.55
+128;Alternative Hostel of Old Montreal;15;75.9;1271.2;134.75
+129;Auberge L'Apero;4;24.8;348.0;78.83
+130;Alternative Hostel of Old Montreal;5;30.0;418.2;83.88
+131;Alternative Hostel of Old Montreal;15;75.7;1290.6;129.10
+132;Auberge L'Apero;13;66.4;1086.0;102.23
+133;Auberge L'Apero;13;65.7;1249.0;40.50
+134;Hôtel Saint-Sulpice;15;76.9;1261.6;599.93
+135;Auberge L'Apero;14;70.8;1215.3;79.68
+136;Deluxe Suites Downtown Montreal;8;45.6;647.1;281.42
+137;Hôtel Place d'Armes Old Montreal;12;62.9;886.2;486.05
+138;Alternative Hostel of Old Montreal;11;58.2;890.4;120.12
+139;Alternative Hostel of Old Montreal;8;45.1;815.8;35.75
+140;Deluxe Suites Downtown Montreal;15;77.3;1319.0;325.48
+141;Alternative Hostel of Old Montreal;6;35.0;484.2;84.63
+142;Auberge L'Apero;10;52.5;810.5;62.23
+143;Alternative Hostel of Old Montreal;13;67.0;985.7;135.27
+144;Deluxe Suites Downtown Montreal;13;68.0;1036.0;337.35
+145;Alternative Hostel of Old Montreal;11;58.8;927.5;87.87
+146;Auberge L'Apero;7;38.7;579.4;75.42
+147;Auberge L'Apero;5;29.2;424.5;61.80
+148;Hotel Faubourg Montreal;12;60.9;902.4;353.82
+149;Deluxe Suites Downtown Montreal;6;36.7;525.6;302.53
+150;Hôtel Saint-Sulpice;14;71.7;1108.9;612.43
+151;Auberge L'Apero;12;61.2;993.3;93.82
+152;Auberge L'Apero;14;71.0;1173.0;94.75
+153;Auberge L'Apero;11;56.9;1152.8;25.25
+154;Auberge L'Apero;12;61.6;1164.8;25.25
+155;Alternative Hostel of Old Montreal;6;34.7;445.6;65.50
+156;Deluxe Suites Downtown Montreal;14;72.1;1125.2;358.30
+157;Alternative Hostel of Old Montreal;9;47.7;819.7;51.95
+158;Alternative Hostel of Old Montreal;9;49.4;749.2;61.42
+159;Auberge L'Apero;12;61.8;1038.2;82.43
+160;Auberge L'Apero;12;60.9;940.5;107.88
+161;Auberge L'Apero;7;38.5;574.5;46.32
+162;Alternative Hostel of Old Montreal;7;41.1;675.2;35.75
+163;Alternative Hostel of Old Montreal;11;57.8;828.5;92.62
+164;Hotel Kutuma;6;35.2;476.9;390.07
+165;Auberge L'Apero;14;70.5;1359.7;44.67
+166;Hôtel Saint-Sulpice;8;44.7;611.7;593.52
+167;Alternative Hostel of Old Montreal;14;72.1;1300.3;64.11
+168;Alternative Hostel of Old Montreal;15;76.6;1342.2;104.67
+169;Alternative Hostel of Old Montreal;7;39.8;558.8;83.88
+170;Alternative Hostel of Old Montreal;13;66.8;1131.3;101.18
+171;Deluxe Suites Downtown Montreal;7;40.7;556.2;296.15
+172;Deluxe Suites Downtown Montreal;3;22.6;310.8;295.90
+173;Auberge L'Apero;8;43.6;800.6;40.73
+174;Alternative Hostel of Old Montreal;12;62.7;922.2;108.37
+175;Alternative Hostel of Old Montreal;10;52.7;842.9;71.87
+176;Hôtel Saint-Sulpice;8;44.7;611.7;593.52
+177;Auberge L'Apero;15;75.6;1353.4;99.58
+178;Deluxe Suites Downtown Montreal;13;68.2;1066.7;331.68
+179;Alternative Hostel of Old Montreal;11;58.0;884.2;77.92
+180;Deluxe Suites Downtown Montreal;15;76.9;1313.2;337.05
+181;Alternative Hostel of Old Montreal;6;35.2;509.5;73.60
+182;Hotel Gite du Survenant Montreal;15;76.8;1356.4;300.37
+183;Auberge L'Apero;11;57.3;1090.7;30.83
+184;Auberge L'Apero;7;39.4;583.3;46.28
+185;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;5;30.1;386.8;585.78
+186;Deluxe Suites Downtown Montreal;13;68.2;1052.3;323.38
+187;Auberge L'Apero;8;43.6;650.1;47.52
+188;Alternative Hostel of Old Montreal;3;22.4;297.1;68.57
+189;Alternative Hostel of Old Montreal;15;76.4;1289.8;143.40
+190;Alternative Hostel of Old Montreal;14;71.5;1117.8;138.30
+191;Alternative Hostel of Old Montreal;13;67.7;1142.8;72.90
+192;Auberge L'Apero;8;44.1;675.5;62.40
+193;Deluxe Suites Downtown Montreal;7;40.2;555.5;328.17
+194;Alternative Hostel of Old Montreal;12;62.8;1118.4;58.40
+195;Alternative Hostel of Old Montreal;15;75.7;1262.4;116.82
+196;Alternative Hostel of Old Montreal;6;34.8;514.0;66.12
+197;Deluxe Suites Downtown Montreal;8;45.5;632.0;265.50
+198;Deluxe Suites Downtown Montreal;13;68.4;1051.0;355.20
+199;Alternative Hostel of Old Montreal;13;67.6;1223.1;51.75
+200;Auberge L'Apero;14;71.5;1267.9;103.63

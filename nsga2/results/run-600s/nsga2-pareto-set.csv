@@ -1,0 +1,201 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;9;48.8;893.2;25.25
+2;Alternative Hostel of Old Montreal;5;31.1;387.0;60.57
+3;Alternative Hostel of Old Montreal;16;80.2;1415.2;103.17
+4;Alternative Hostel of Old Montreal;17;84.9;1409.8;156.38
+5;Hotel William Gray;15;77.4;1234.6;640.93
+6;Sonder Maisonneuve;14;72.1;1161.0;360.55
+7;Auberge Du Vieux Port;6;35.3;469.6;466.28
+8;Alternative Hostel of Old Montreal;5;31.1;387.0;60.57
+9;Hotel Omni Mont-Royal;11;57.8;808.9;335.73
+10;Hotel Omni Mont-Royal;11;57.8;808.9;335.73
+11;Alternative Hostel of Old Montreal;16;80.2;1415.2;103.17
+12;Hotel William Gray;15;77.4;1234.6;640.93
+13;Hotel William Gray;16;81.4;1291.4;613.73
+14;Sonder Maisonneuve;10;55.1;822.1;251.40
+15;Alternative Hostel of Old Montreal;7;41.3;589.8;35.75
+16;Alternative Hostel of Old Montreal;17;84.9;1411.3;149.77
+17;Alternative Hostel of Old Montreal;6;36.0;504.4;49.75
+18;Alternative Hostel of Old Montreal;7;39.9;565.1;35.75
+19;Alternative Hostel of Old Montreal;7;40.5;517.9;60.67
+20;Alternative Hostel of Old Montreal;12;63.4;976.1;102.13
+21;Alternative Hostel of Old Montreal;17;84.3;1406.7;194.84
+22;Auberge Du Vieux Port;6;35.3;451.7;475.12
+23;Alternative Hostel of Old Montreal;12;63.4;1029.2;79.75
+24;Hotel William Gray;13;68.8;1041.0;581.60
+25;Sonder Maisonneuve;9;50.5;688.9;251.40
+26;Alternative Hostel of Old Montreal;17;84.3;1406.7;194.84
+27;Auberge Du Vieux Port;9;49.8;655.7;489.43
+28;Alternative Hostel of Old Montreal;15;76.7;1240.2;112.37
+29;Hotel William Gray;8;46.1;630.7;528.52
+30;Hotel William Gray;8;46.1;630.7;528.52
+31;Alternative Hostel of Old Montreal;10;54.6;789.6;58.90
+32;Alternative Hostel of Old Montreal;6;35.1;480.5;54.27
+33;Alternative Hostel of Old Montreal;13;67.7;1162.5;65.75
+34;Alternative Hostel of Old Montreal;14;72.7;1278.0;77.75
+35;Auberge Du Vieux Port;14;72.9;1166.9;566.50
+36;Auberge L'Apero;8;43.3;869.5;30.17
+37;Alternative Hostel of Old Montreal;15;76.0;1219.1;95.57
+38;Auberge Du Vieux Port;16;81.7;1389.7;528.37
+39;Alternative Hostel of Old Montreal;15;77.5;1341.1;112.37
+40;Auberge Du Vieux Port;6;35.3;451.7;475.12
+41;Alternative Hostel of Old Montreal;12;62.5;948.0;104.67
+42;Alternative Hostel of Old Montreal;15;76.8;1245.2;172.38
+43;Hotel William Gray;9;50.7;678.0;534.75
+44;Alternative Hostel of Old Montreal;13;66.9;1152.8;49.75
+45;Alternative Hostel of Old Montreal;14;71.4;1225.9;63.75
+46;Hotel William Gray;11;60.0;912.8;564.38
+47;Hotel William Gray;12;64.3;963.1;561.15
+48;Hotel Omni Mont-Royal;8;45.0;593.0;305.67
+49;Alternative Hostel of Old Montreal;10;53.3;750.0;96.52
+50;Hotel William Gray;10;55.3;793.8;566.12
+51;Hotel William Gray;13;68.8;1041.0;581.60
+52;Hotel William Gray;8;46.2;596.4;534.75
+53;Hotel William Gray;8;46.0;654.0;512.52
+54;Sonder Maisonneuve;11;59.2;912.1;299.50
+55;Sonder Maisonneuve;13;68.4;1098.8;279.40
+56;Alternative Hostel of Old Montreal;7;40.5;533.5;40.67
+57;Hotel William Gray;8;45.8;620.2;521.15
+58;Hotel William Gray;13;68.8;1032.4;592.38
+59;Sonder Maisonneuve;11;59.2;910.0;266.65
+60;Hotel Nelligan;7;41.0;548.3;502.75
+61;Auberge L'Apero;8;44.5;684.6;30.67
+62;Alternative Hostel of Old Montreal;11;58.4;829.7;72.37
+63;Alternative Hostel of Old Montreal;6;35.1;486.1;35.75
+64;Alternative Hostel of Old Montreal;8;45.4;643.4;60.70
+65;Alternative Hostel of Old Montreal;9;50.1;698.9;57.98
+66;Hotel Nelligan;7;41.0;548.3;502.75
+67;Hotel William Gray;15;77.4;1254.9;583.13
+68;Auberge Du Vieux Port;15;76.5;1177.3;563.40
+69;Alternative Hostel of Old Montreal;16;81.2;1322.3;139.23
+70;Hotel William Gray;11;60.0;888.3;554.30
+71;Hotel William Gray;14;72.9;1164.6;599.73
+72;Alternative Hostel of Old Montreal;15;76.8;1258.8;161.10
+73;Alternative Hostel of Old Montreal;12;62.7;919.7;136.50
+74;Alternative Hostel of Old Montreal;11;58.3;900.2;49.75
+75;Alternative Hostel of Old Montreal;12;63.4;1019.6;82.67
+76;Alternative Hostel of Old Montreal;16;80.8;1348.9;121.95
+77;Auberge Du Vieux Port;10;54.9;779.5;482.28
+78;Sonder Maisonneuve;13;68.4;1098.8;279.40
+79;Alternative Hostel of Old Montreal;15;76.1;1213.1;126.55
+80;Alternative Hostel of Old Montreal;15;76.3;1207.1;134.78
+81;Hotel William Gray;11;59.6;895.4;534.62
+82;Auberge Du Vieux Port;10;53.4;737.3;527.42
+83;Alternative Hostel of Old Montreal;16;81.6;1356.0;144.75
+84;Sonder Maisonneuve;11;59.2;910.0;266.65
+85;Alternative Hostel of Old Montreal;15;77.0;1369.5;96.67
+86;Alternative Hostel of Old Montreal;9;49.2;660.7;76.67
+87;Alternative Hostel of Old Montreal;10;54.2;773.6;90.52
+88;Alternative Hostel of Old Montreal;12;63.4;989.4;95.52
+89;Alternative Hostel of Old Montreal;12;62.6;1110.2;42.93
+90;Hotel William Gray;13;68.3;1055.9;553.13
+91;Alternative Hostel of Old Montreal;10;54.7;850.5;51.75
+92;Auberge Du Vieux Port;7;40.7;576.1;466.28
+93;Alternative Hostel of Old Montreal;8;44.5;612.8;41.78
+94;Hotel William Gray;6;35.7;459.0;531.03
+95;Alternative Hostel of Old Montreal;13;67.2;1093.3;71.98
+96;Hotel William Gray;12;63.5;956.6;557.77
+97;Hotel William Gray;11;59.4;869.8;576.62
+98;Auberge L'Apero;9;49.0;805.2;30.67
+99;Alternative Hostel of Old Montreal;11;58.7;879.5;69.52
+100;Hotel William Gray;11;59.0;859.4;541.98
+101;Hotel William Gray;13;68.6;1081.3;542.00
+102;Alternative Hostel of Old Montreal;13;68.0;1073.4;155.40
+103;Alternative Hostel of Old Montreal;13;68.1;1149.7;83.52
+104;Alternative Hostel of Old Montreal;12;62.8;994.0;89.23
+105;Alternative Hostel of Old Montreal;12;63.2;1002.4;69.52
+106;Auberge Du Vieux Port;10;54.3;752.3;492.67
+107;Alternative Hostel of Old Montreal;14;72.5;1273.2;65.75
+108;Auberge Du Vieux Port;10;54.9;801.8;480.05
+109;Alternative Hostel of Old Montreal;8;44.5;600.1;53.52
+110;Alternative Hostel of Old Montreal;15;77.1;1378.2;97.98
+111;Alternative Hostel of Old Montreal;8;44.6;634.1;51.75
+112;Hotel William Gray;7;40.4;513.1;546.28
+113;Auberge Du Vieux Port;10;54.3;743.7;497.35
+114;Alternative Hostel of Old Montreal;16;80.8;1299.9;141.40
+115;Hotel Omni Mont-Royal;8;45.0;593.0;305.67
+116;Hotel William Gray;7;41.2;584.7;528.52
+117;Alternative Hostel of Old Montreal;9;49.4;717.7;35.75
+118;Alternative Hostel of Old Montreal;11;59.3;1010.4;41.98
+119;Hotel William Gray;9;50.2;671.8;534.75
+120;Hotel William Gray;15;76.9;1197.6;609.95
+121;Alternative Hostel of Old Montreal;9;49.8;725.1;56.67
+122;Alternative Hostel of Old Montreal;16;80.7;1277.5;144.78
+123;Alternative Hostel of Old Montreal;14;71.6;1219.9;71.98
+124;Alternative Hostel of Old Montreal;13;67.5;1044.7;94.67
+125;Auberge Du Vieux Port;13;68.2;1067.1;521.42
+126;Hotel William Gray;14;72.8;1107.9;572.92
+127;Auberge Du Vieux Port;12;62.9;928.1;535.13
+128;Alternative Hostel of Old Montreal;13;67.9;1138.6;77.75
+129;Alternative Hostel of Old Montreal;15;76.7;1249.6;105.75
+130;Alternative Hostel of Old Montreal;13;67.7;1051.8;72.90
+131;Alternative Hostel of Old Montreal;12;63.0;945.5;108.27
+132;Alternative Hostel of Old Montreal;15;76.1;1266.5;86.37
+133;Hotel William Gray;15;77.3;1230.4;574.62
+134;Alternative Hostel of Old Montreal;9;49.4;690.0;51.97
+135;Alternative Hostel of Old Montreal;11;59.2;932.3;56.67
+136;Alternative Hostel of Old Montreal;12;63.9;1042.4;82.67
+137;Auberge Du Vieux Port;10;54.3;765.4;474.90
+138;Hotel William Gray;16;81.4;1355.5;605.52
+139;Alternative Hostel of Old Montreal;14;72.0;1159.1;85.98
+140;Alternative Hostel of Old Montreal;15;76.8;1329.5;89.75
+141;Alternative Hostel of Old Montreal;13;68.0;1096.9;130.30
+142;Alternative Hostel of Old Montreal;13;67.3;1114.1;58.90
+143;Alternative Hostel of Old Montreal;10;54.5;865.5;40.67
+144;Auberge Du Vieux Port;12;63.2;940.7;486.67
+145;Hotel William Gray;12;64.3;963.1;561.15
+146;Alternative Hostel of Old Montreal;11;59.0;858.7;72.90
+147;Hotel William Gray;6;35.7;459.0;531.03
+148;Hotel William Gray;12;63.5;960.8;552.00
+149;Hotel Nelligan;9;50.5;674.9;547.50
+150;Alternative Hostel of Old Montreal;14;72.7;1279.2;84.37
+151;Alternative Hostel of Old Montreal;9;49.4;717.7;35.75
+152;Auberge Du Vieux Port;16;81.0;1313.2;562.08
+153;Alternative Hostel of Old Montreal;14;72.2;1208.9;91.75
+154;Auberge Du Vieux Port;16;81.0;1316.6;556.63
+155;Auberge Du Vieux Port;7;40.7;576.1;466.28
+156;Alternative Hostel of Old Montreal;10;53.7;802.2;56.67
+157;Alternative Hostel of Old Montreal;16;80.8;1297.2;145.93
+158;Alternative Hostel of Old Montreal;13;67.9;1198.2;49.75
+159;Alternative Hostel of Old Montreal;6;36.0;484.2;67.52
+160;Hotel William Gray;13;68.8;1048.6;572.92
+161;Alternative Hostel of Old Montreal;13;67.9;1243.6;35.75
+162;Hotel William Gray;14;72.6;1155.4;549.37
+163;Auberge Du Vieux Port;8;44.7;588.9;471.20
+164;Alternative Hostel of Old Montreal;14;72.7;1190.2;117.93
+165;Auberge Du Vieux Port;13;68.2;1073.3;495.75
+166;Hotel William Gray;16;81.4;1348.3;611.08
+167;Alternative Hostel of Old Montreal;12;62.8;1006.6;54.67
+168;Hotel William Gray;10;55.2;792.1;545.15
+169;Auberge Du Vieux Port;13;68.2;1067.1;521.42
+170;Alternative Hostel of Old Montreal;8;45.2;598.6;57.98
+171;Alternative Hostel of Old Montreal;15;76.8;1259.1;158.97
+172;Alternative Hostel of Old Montreal;12;63.0;970.2;103.53
+173;Alternative Hostel of Old Montreal;11;58.7;874.1;58.90
+174;Alternative Hostel of Old Montreal;14;72.0;1133.7;86.37
+175;Auberge Du Vieux Port;12;63.2;940.7;486.67
+176;Alternative Hostel of Old Montreal;10;54.0;807.6;40.67
+177;Alternative Hostel of Old Montreal;13;68.4;1336.2;57.98
+178;Auberge Du Vieux Port;10;53.4;737.3;527.42
+179;Alternative Hostel of Old Montreal;15;77.0;1262.5;129.75
+180;Alternative Hostel of Old Montreal;14;72.9;1289.3;71.98
+181;Auberge Du Vieux Port;8;44.7;588.9;471.20
+182;Alternative Hostel of Old Montreal;12;63.2;1125.8;49.75
+183;Hotel William Gray;10;54.7;763.7;535.67
+184;Hotel William Gray;10;54.7;763.7;535.67
+185;Alternative Hostel of Old Montreal;13;67.6;972.2;112.90
+186;Alternative Hostel of Old Montreal;9;49.8;725.1;56.67
+187;Alternative Hostel of Old Montreal;8;45.9;656.3;63.93
+188;Alternative Hostel of Old Montreal;12;63.2;1086.4;51.75
+189;Alternative Hostel of Old Montreal;9;50.0;787.8;35.75
+190;Alternative Hostel of Old Montreal;16;81.5;1382.6;110.67
+191;Auberge Du Vieux Port;14;72.2;1161.4;530.67
+192;Alternative Hostel of Old Montreal;11;58.5;973.9;40.67
+193;Alternative Hostel of Old Montreal;9;50.1;663.9;58.90
+194;Alternative Hostel of Old Montreal;15;76.9;1264.8;115.18
+195;Alternative Hostel of Old Montreal;15;77.2;1297.8;116.13
+196;Alternative Hostel of Old Montreal;12;63.7;1242.8;35.75
+197;Auberge Du Vieux Port;6;35.3;469.6;466.28
+198;Alternative Hostel of Old Montreal;8;45.5;663.8;35.75
+199;Alternative Hostel of Old Montreal;15;76.3;1184.0;141.02
+200;Auberge Du Vieux Port;16;81.7;1389.7;528.37

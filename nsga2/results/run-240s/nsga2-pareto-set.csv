@@ -1,0 +1,201 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;8;43.2;791.5;25.25
+2;Auberge L'Apero;3;21.1;361.4;47.50
+3;Auberge L'Apero;16;79.4;1422.4;90.07
+4;Auberge L'Apero;16;79.5;1388.3;132.38
+5;Hôtel De L'ithq;16;81.0;1383.8;497.18
+6;The Ritz-Carlton, Montreal;7;41.0;642.8;1080.37
+7;The Ritz-Carlton, Montreal;5;32.0;543.6;1035.73
+8;Hotel William Gray;14;72.6;1174.7;646.75
+9;Alternative Hostel of Old Montreal;6;35.7;565.8;35.75
+10;Auberge L'Apero;3;21.1;361.4;47.50
+11;The Ritz-Carlton, Montreal;5;32.0;543.6;1035.73
+12;Auberge L'Apero;4;25.6;546.4;31.98
+13;Auberge L'Apero;4;25.6;546.4;31.98
+14;Le St-Martin Hotel Particulier Montreal;9;49.0;762.0;281.75
+15;Hotel Nelligan;11;59.5;910.9;588.70
+16;The Ritz-Carlton, Montreal;7;41.0;642.8;1080.37
+17;Hôtel De L'ithq;15;77.4;1330.2;460.15
+18;Auberge L'Apero;16;79.4;1422.4;90.07
+19;Fairfield by Marriott Montreal Downtown;10;53.6;834.0;302.67
+20;Hotel Casa Bella;12;59.1;957.9;205.13
+21;Hôtel Spa Carré St-louis;13;65.3;1005.9;312.23
+22;Warwick Le Crystal - Montréal;9;50.6;774.3;451.07
+23;Auberge L'Apero;11;57.6;1061.3;40.73
+24;Auberge L'Apero;5;30.6;630.0;31.98
+25;Hôtel De L'ithq;8;44.7;665.0;366.32
+26;Alternative Hostel of Old Montreal;12;63.1;1097.5;65.75
+27;Alternative Hostel of Old Montreal;14;71.6;1122.3;132.05
+28;Hôtel De L'ithq;13;67.2;1017.4;412.67
+29;Warwick Le Crystal - Montréal;15;76.2;1235.7;481.52
+30;Auberge L'Apero;10;52.2;830.2;68.97
+31;Hotel Casa Bella;12;59.1;957.9;205.13
+32;Auberge L'Apero;7;38.9;621.9;35.90
+33;Hotel William Gray;13;68.1;1055.1;633.22
+34;Warwick Le Crystal - Montréal;8;45.6;680.4;434.32
+35;Auberge L'Apero;9;47.3;734.6;80.27
+36;Hotel William Gray;15;76.8;1272.3;620.17
+37;Warwick Le Crystal - Montréal;14;72.7;1203.9;499.62
+38;Auberge L'Apero;10;51.6;821.0;78.38
+39;Le St-Martin Hotel Particulier Montreal;9;49.8;750.8;302.70
+40;Alternative Hostel of Old Montreal;15;76.2;1261.4;175.08
+41;Le St-Martin Hotel Particulier Montreal;11;58.1;883.2;331.93
+42;Auberge L'Apero;8;42.7;649.7;75.78
+43;Auberge L'Apero;15;74.6;1247.9;98.68
+44;Auberge L'Apero;11;56.3;925.7;53.22
+45;Warwick Le Crystal - Montréal;10;54.8;816.2;437.88
+46;Alternative Hostel of Old Montreal;16;80.2;1353.6;160.07
+47;Warwick Le Crystal - Montréal;7;40.5;603.2;437.57
+48;Auberge L'Apero;14;69.9;1290.6;53.61
+49;Auberge L'Apero;5;30.6;630.0;31.98
+50;Hotel William Gray;11;58.9;860.4;570.10
+51;Warwick Le Crystal - Montréal;16;80.8;1368.5;533.62
+52;Warwick Le Crystal - Montréal;14;72.3;1135.8;539.43
+53;Alternative Hostel of Old Montreal;7;39.9;650.6;35.75
+54;Hotel Nelligan;12;63.7;980.4;588.58
+55;Warwick Le Crystal - Montréal;15;77.0;1282.7;509.53
+56;Le St-Martin Hotel Particulier Montreal;9;49.0;762.0;281.75
+57;Auberge L'Apero;12;61.1;1283.3;30.48
+58;Alternative Hostel of Old Montreal;14;72.4;1163.5;117.40
+59;Hôtel De L'ithq;13;67.8;1071.5;473.68
+60;Warwick Le Crystal - Montréal;13;68.0;1078.7;489.20
+61;Alternative Hostel of Old Montreal;8;44.3;715.9;35.75
+62;Le St-Martin Hotel Particulier Montreal;11;58.5;914.4;311.78
+63;Hôtel Spa Carré St-louis;13;65.3;1005.9;312.23
+64;Hôtel De L'ithq;8;45.6;705.8;390.97
+65;Hôtel De L'ithq;8;44.7;665.0;366.32
+66;Auberge L'Apero;13;66.4;1358.7;25.25
+67;Hôtel De L'ithq;10;53.5;793.8;423.13
+68;Alternative Hostel of Old Montreal;16;80.5;1403.3;164.25
+69;Alternative Hostel of Old Montreal;14;71.1;1092.9;108.78
+70;Alternative Hostel of Old Montreal;12;62.8;1007.7;103.75
+71;Alternative Hostel of Old Montreal;15;76.6;1345.0;123.90
+72;Hotel William Gray;13;67.7;1022.8;578.45
+73;Auberge L'Apero;7;38.9;603.7;51.12
+74;Auberge L'Apero;11;56.5;1127.2;25.25
+75;Hotel William Gray;13;67.7;1049.3;574.88
+76;Auberge L'Apero;10;53.0;958.4;30.67
+77;Alternative Hostel of Old Montreal;15;76.2;1303.8;145.72
+78;Le St-Martin Hotel Particulier Montreal;15;75.4;1204.2;369.48
+79;Auberge L'Apero;12;61.5;972.5;60.67
+80;Warwick Le Crystal - Montréal;15;76.3;1224.7;525.22
+81;Hôtel De L'ithq;9;49.4;732.7;381.88
+82;Le St-Martin Hotel Particulier Montreal;12;62.4;951.5;348.40
+83;Le St-Martin Hotel Particulier Montreal;12;62.4;975.2;343.82
+84;Warwick Le Crystal - Montréal;15;76.8;1311.9;504.82
+85;Auberge L'Apero;8;43.5;697.3;30.67
+86;Alternative Hostel of Old Montreal;7;40.3;605.4;53.52
+87;Hotel William Gray;15;76.8;1267.5;627.53
+88;Alternative Hostel of Old Montreal;15;76.5;1307.4;170.48
+89;Auberge L'Apero;11;57.3;909.8;90.10
+90;Hôtel De L'ithq;13;67.3;1020.6;444.67
+91;Hôtel De L'ithq;15;75.9;1255.6;464.40
+92;Hôtel De L'ithq;8;45.2;675.0;383.20
+93;Alternative Hostel of Old Montreal;11;58.7;1036.9;57.98
+94;Hôtel De L'ithq;10;54.4;807.9;375.17
+95;Warwick Le Crystal - Montréal;12;62.9;932.6;461.28
+96;Hotel William Gray;14;72.6;1197.7;639.38
+97;Auberge L'Apero;10;52.2;830.2;68.97
+98;Auberge L'Apero;8;42.9;726.5;30.48
+99;Auberge L'Apero;13;65.6;1143.2;44.48
+100;Warwick Le Crystal - Montréal;10;54.3;804.2;443.40
+101;Hôtel De L'ithq;14;71.3;1110.6;451.88
+102;Hôtel De L'ithq;15;76.3;1240.8;493.68
+103;Alternative Hostel of Old Montreal;8;43.6;659.0;46.27
+104;Alternative Hostel of Old Montreal;13;67.0;1113.6;71.98
+105;Hotel William Gray;14;72.1;1135.3;554.28
+106;Auberge L'Apero;9;48.1;856.3;31.98
+107;Hôtel De L'ithq;12;63.0;938.8;412.18
+108;Le St-Martin Hotel Particulier Montreal;15;75.5;1208.6;417.83
+109;Auberge L'Apero;15;74.9;1337.5;76.57
+110;Hôtel De L'ithq;16;80.4;1378.8;467.33
+111;Alternative Hostel of Old Montreal;13;66.6;1042.1;99.93
+112;Alternative Hostel of Old Montreal;15;76.2;1283.7;149.35
+113;Alternative Hostel of Old Montreal;14;71.5;1155.9;97.52
+114;Auberge L'Apero;12;62.0;974.5;80.90
+115;Alternative Hostel of Old Montreal;12;63.5;1103.9;70.67
+116;Hôtel De L'ithq;14;71.8;1145.5;439.75
+117;Hôtel De L'ithq;15;75.8;1215.9;449.82
+118;Alternative Hostel of Old Montreal;10;54.5;838.7;71.98
+119;Hotel William Gray;11;58.9;875.8;562.35
+120;Alt Hotel Montreal;14;71.5;1119.8;386.70
+121;Auberge L'Apero;9;48.0;769.6;54.98
+122;Auberge L'Apero;9;47.6;767.6;68.97
+123;Alternative Hostel of Old Montreal;8;44.5;691.7;40.67
+124;Le St-Martin Hotel Particulier Montreal;16;80.3;1383.7;406.38
+125;Auberge L'Apero;13;66.1;1212.0;39.25
+126;Auberge L'Apero;11;57.2;887.8;53.58
+127;Alternative Hostel of Old Montreal;14;71.6;1410.0;63.75
+128;Warwick Le Crystal - Montréal;15;76.2;1235.7;481.52
+129;Auberge L'Apero;9;47.3;717.7;87.00
+130;Warwick Le Crystal - Montréal;15;76.7;1248.8;534.63
+131;Hotel William Gray;10;54.7;789.1;559.93
+132;Alternative Hostel of Old Montreal;12;62.6;990.6;98.85
+133;Alternative Hostel of Old Montreal;8;45.0;756.3;57.78
+134;Warwick Le Crystal - Montréal;7;40.5;614.0;422.03
+135;Hôtel Place d'Armes Old Montreal;9;50.2;726.9;422.17
+136;Auberge L'Apero;13;65.8;1184.6;47.98
+137;Warwick Le Crystal - Montréal;7;40.5;614.0;422.03
+138;Alternative Hostel of Old Montreal;12;63.2;1028.3;70.67
+139;Alternative Hostel of Old Montreal;14;72.0;1149.0;114.28
+140;Auberge L'Apero;14;70.7;1318.1;74.67
+141;Auberge L'Apero;14;70.1;1133.3;87.00
+142;Auberge L'Apero;11;57.2;852.7;53.67
+143;Alternative Hostel of Old Montreal;15;75.4;1226.3;127.93
+144;Hôtel De L'ithq;12;63.2;943.2;403.17
+145;Alternative Hostel of Old Montreal;15;76.4;1321.6;109.90
+146;Hôtel De L'ithq;15;76.4;1296.2;485.17
+147;Alternative Hostel of Old Montreal;15;75.9;1263.3;128.64
+148;Alternative Hostel of Old Montreal;13;67.1;1195.1;55.98
+149;Alternative Hostel of Old Montreal;9;48.5;811.6;47.83
+150;Hôtel De L'ithq;15;75.8;1220.0;456.05
+151;Alternative Hostel of Old Montreal;10;54.0;845.3;41.78
+152;Auberge L'Apero;13;66.5;1185.9;46.67
+153;Auberge L'Apero;12;62.2;993.1;61.98
+154;Warwick Le Crystal - Montréal;8;45.2;657.1;460.05
+155;Alternative Hostel of Old Montreal;9;48.8;761.9;83.85
+156;Auberge L'Apero;10;52.4;941.3;25.25
+157;Warwick Le Crystal - Montréal;9;50.6;782.2;429.40
+158;Warwick Le Crystal - Montréal;15;76.8;1275.8;530.22
+159;Auberge L'Apero;12;61.5;1089.9;51.52
+160;Auberge L'Apero;12;61.1;1057.8;52.82
+161;Auberge L'Apero;10;52.4;898.8;30.67
+162;Alternative Hostel of Old Montreal;10;54.0;845.3;41.78
+163;Alternative Hostel of Old Montreal;15;76.6;1378.5;95.73
+164;Alternative Hostel of Old Montreal;15;76.2;1267.8;160.75
+165;Alternative Hostel of Old Montreal;8;44.6;668.5;69.52
+166;Warwick Le Crystal - Montréal;16;80.5;1299.8;508.78
+167;Alternative Hostel of Old Montreal;10;53.5;800.7;96.92
+168;Warwick Le Crystal - Montréal;11;59.3;877.2;436.92
+169;Le St-Martin Hotel Particulier Montreal;12;62.4;951.5;348.40
+170;Hôtel De L'ithq;8;45.6;686.5;396.80
+171;Auberge L'Apero;15;74.9;1337.5;76.57
+172;Hôtel De L'ithq;9;49.4;727.8;394.73
+173;Hôtel De L'ithq;12;63.4;1002.8;396.87
+174;Auberge L'Apero;9;47.5;774.5;30.67
+175;Auberge L'Apero;14;70.3;1200.5;61.98
+176;Auberge L'Apero;12;61.5;1112.7;41.25
+177;Hotel William Gray;11;58.9;875.8;562.35
+178;Alternative Hostel of Old Montreal;11;58.6;1064.5;35.75
+179;Auberge L'Apero;14;70.5;1394.6;36.90
+180;Auberge L'Apero;14;70.6;1181.6;93.73
+181;Alternative Hostel of Old Montreal;9;49.2;787.9;51.75
+182;Auberge L'Apero;13;65.6;1074.4;79.73
+183;Alternative Hostel of Old Montreal;12;62.3;984.5;88.13
+184;Alternative Hostel of Old Montreal;11;58.3;983.3;55.78
+185;Auberge L'Apero;15;74.6;1317.9;79.90
+186;Auberge L'Apero;13;66.2;1148.6;67.78
+187;Hotel Nelligan;12;63.7;980.4;588.58
+188;Hôtel De L'ithq;13;67.2;1017.4;412.67
+189;Hôtel De L'ithq;11;58.9;944.2;390.48
+190;Warwick Le Crystal - Montréal;12;63.6;980.4;456.77
+191;Alternative Hostel of Old Montreal;12;62.8;976.0;119.73
+192;Hôtel De L'ithq;15;76.4;1305.2;429.17
+193;Alternative Hostel of Old Montreal;11;58.8;926.6;87.97
+194;Hôtel De L'ithq;12;63.4;1002.8;396.87
+195;Hôtel De L'ithq;11;58.9;879.2;414.97
+196;Auberge L'Apero;10;52.4;898.8;30.67
+197;Alternative Hostel of Old Montreal;15;75.4;1238.6;122.06
+198;Auberge L'Apero;11;57.0;961.9;36.90
+199;Alternative Hostel of Old Montreal;11;58.1;943.9;51.75
+200;Alternative Hostel of Old Montreal;9;48.4;830.3;35.75
