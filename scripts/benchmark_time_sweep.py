@@ -115,6 +115,53 @@ def spread(points: List[List[float]], maximize: List[bool]) -> float:
     return total / num_obj if num_obj > 0 else 1.0
 
 
+def epsilon_indicator(points1: List[List[float]], points2: List[List[float]]) -> float:
+    """
+    Additive epsilon indicator (points2 vs points1), adapted from movns.metrics.
+    Lower is better for points2; requires both sets non-empty.
+    """
+    if not points1 or not points2:
+        return float("inf")
+
+    import numpy as np  # local import to avoid hard dependency if not installed
+
+    obj1 = np.array(points1, dtype=float)
+    obj2 = np.array(points2, dtype=float)
+
+    min_vals = np.min(np.vstack([obj1, obj2]), axis=0)
+    max_vals = np.max(np.vstack([obj1, obj2]), axis=0)
+    ranges = max_vals - min_vals
+    ranges[ranges == 0] = 1.0
+
+    norm1 = np.zeros_like(obj1, dtype=float)
+    norm2 = np.zeros_like(obj2, dtype=float)
+
+    for i, is_max in enumerate(MAXIMIZE):
+        if is_max:
+            norm1[:, i] = (obj1[:, i] - min_vals[i]) / ranges[i]
+            norm2[:, i] = (obj2[:, i] - min_vals[i]) / ranges[i]
+        else:
+            norm1[:, i] = 1.0 - (obj1[:, i] - min_vals[i]) / ranges[i]
+            norm2[:, i] = 1.0 - (obj2[:, i] - min_vals[i]) / ranges[i]
+
+    eps_values = []
+    for sol2 in norm2:
+        min_eps = float("inf")
+        for sol1 in norm1:
+            diffs = sol2 - sol1
+            max_diff = np.max(diffs)
+            if max_diff < min_eps:
+                min_eps = max_diff
+        eps_values.append(min_eps)
+
+    if not eps_values:
+        return float("inf")
+
+    epsilon = max(eps_values)
+    # clamp to reasonable bounds
+    return max(-1.0, min(1.0, float(epsilon)))
+
+
 def compute_metrics(points: List[List[float]]) -> Dict[str, float]:
     front = pareto_front(points, MAXIMIZE)
     if not front:
@@ -245,9 +292,13 @@ def run_algorithms(budgets: List[int], do_run: bool) -> None:
         all_points = nsga_points + movns_points
         ref = compute_reference_point(all_points)
 
-        for label, points, rows in [
-            ("NSGA-II", nsga_points, nsga_rows),
-            ("MOVNS", movns_points, movns_rows),
+        # epsilon indicators (each vs the other)
+        eps_nsga_vs_movns = epsilon_indicator(nsga_points, movns_points) if nsga_points and movns_points else None
+        eps_movns_vs_nsga = epsilon_indicator(movns_points, nsga_points) if nsga_points and movns_points else None
+
+        for label, points, rows, eps_vs_other in [
+            ("NSGA-II", nsga_points, nsga_rows, eps_nsga_vs_movns),
+            ("MOVNS", movns_points, movns_rows, eps_movns_vs_nsga),
         ]:
             if not points:
                 print(f"{label}: sem dados em {nsga_csv if label=='NSGA-II' else movns_csv}")
@@ -259,7 +310,8 @@ def run_algorithms(budgets: List[int], do_run: bool) -> None:
                 "pareto_size": len(front),
             }
             ex = extremes(rows)
-            print(f"{label}: HV={m['hypervolume']:.4f} | Spread={m['spread']:.4f} | Pareto={m['pareto_size']}")
+            eps_txt = f" | Epsilon_vs_other={eps_vs_other:.4f}" if eps_vs_other is not None else ""
+            print(f"{label}: HV={m['hypervolume']:.4f} | Spread={m['spread']:.4f} | Pareto={m['pareto_size']}{eps_txt}")
             if ex:
                 print(f"  Melhor F1 (atrações): {ex['F1']['TotalAttractions']} | Hotel: {ex['F1'].get('Hotel','-')}")
                 print(f"  Melhor F2 (qualidade): {ex['F2']['TotalQuality']} | Hotel: {ex['F2'].get('Hotel','-')}")
@@ -272,6 +324,7 @@ def run_algorithms(budgets: List[int], do_run: bool) -> None:
                     "hypervolume": m["hypervolume"],
                     "spread": m["spread"],
                     "pareto_size": m["pareto_size"],
+                    "epsilon_vs_other": eps_vs_other if eps_vs_other is not None else "",
                     "best_F1_attractions": ex["F1"]["TotalAttractions"],
                     "best_F1_hotel": ex["F1"].get("Hotel", "-"),
                     "best_F2_quality": ex["F2"]["TotalQuality"],
@@ -288,7 +341,7 @@ def run_algorithms(budgets: List[int], do_run: bool) -> None:
         os.makedirs(out_dir, exist_ok=True)
         out_csv = os.path.join(out_dir, "benchmark-summary.csv")
         cols = [
-            "time_sec", "algo", "hypervolume", "spread", "pareto_size",
+            "time_sec", "algo", "hypervolume", "spread", "pareto_size", "epsilon_vs_other",
             "best_F1_attractions", "best_F1_hotel",
             "best_F2_quality", "best_F2_hotel",
             "best_F3_time", "best_F3_hotel",

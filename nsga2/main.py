@@ -11,6 +11,14 @@ def main():
                         help="Directory where nsga2-output.csv will be written")
     parser.add_argument("--max-time", type=float, default=None,
                         help="Maximum wall-clock time in seconds (optional)")
+    parser.add_argument("--population-size", type=int, default=200,
+                        help="Population size (default: 200)")
+    parser.add_argument("--generations", type=int, default=100,
+                        help="Maximum generations (default: 100)")
+    parser.add_argument("--crossover-prob", type=float, default=0.90,
+                        help="Crossover probability (default: 0.90)")
+    parser.add_argument("--mutation-prob", type=float, default=0.20,
+                        help="Mutation probability (default: 0.20)")
     args = parser.parse_args()
 
     project_dir = os.path.dirname(os.path.abspath(__file__))
@@ -28,10 +36,10 @@ def main():
         return 1
 
     constructor = RouteConstructor(attractions_file, hotels_file, matrices_path)
-    population_size = 200
-    generations = 100
-    crossover_prob = 0.90
-    mutation_prob = 0.20
+    population_size = args.population_size
+    generations = args.generations
+    crossover_prob = args.crossover_prob
+    mutation_prob = args.mutation_prob
 
     nsga2 = NSGA2(constructor, population_size)
     initial_population = nsga2.initialize_population()
