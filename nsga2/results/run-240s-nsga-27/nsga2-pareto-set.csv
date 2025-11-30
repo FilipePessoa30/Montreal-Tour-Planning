@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;9;48.6;913.6;25.25
+2;Sonder Maisonneuve;5;31.6;578.7;233.15
+3;Le Petit Hotel Vieux-Montréal | Saint-Paul;15;76.4;1416.0;575.28
+4;The Ritz-Carlton, Montreal;13;68.2;1156.3;1154.18
+5;The Ritz-Carlton, Montreal;8;45.7;760.7;1082.23
+6;Sonder Maisonneuve;6;36.3;626.8;255.22
+7;David Hotel;15;74.8;1380.3;592.22
+8;Hilton Garden Inn Montreal Centre-Ville;7;39.8;677.0;403.03
+9;Auberge L'Apero;8;43.8;744.2;30.22
+10;Sonder Maisonneuve;7;40.4;692.7;271.62
+11;Auberge L'Apero;9;49.1;1126.3;30.67
+12;Alternative Hostel of Old Montreal;12;62.3;1065.2;127.55
+13;Auberge L'Apero;10;52.6;974.0;31.98
+14;David Hotel;14;71.3;1253.5;556.80
+15;Auberge L'Apero;11;57.1;1242.4;32.17
+16;Radisson Hotel Montreal Airport;7;37.2;692.7;217.12
+17;Auberge L'Apero;12;60.5;1096.0;90.08
+18;Le St-Martin Hotel Particulier Montreal;14;70.2;1318.9;358.88
+19;Le Petit Hotel Vieux-Montréal | Saint-Paul;15;76.0;1416.0;546.28
+20;Auberge L'Apero;10;51.8;922.9;62.17
+21;The Ritz-Carlton, Montreal;8;45.8;778.9;1108.23
+22;The Ritz-Carlton, Montreal;10;54.4;888.3;1102.08
+23;Auberge L'Apero;11;56.5;983.9;75.40
+24;Auberge L'Apero;13;65.2;1259.8;107.30
+25;Best Western Plus Montreal Downtown-Hotel Europa;9;47.3;800.7;386.72
+26;Alternative Hostel of Old Montreal;11;58.8;1164.6;83.98
+27;Hotel Bon Accueil;11;54.7;913.3;272.10
+28;Novotel Montreal Centre;15;72.8;1365.7;400.39
+29;Le St-Martin Hotel Particulier Montreal;14;70.2;1318.9;358.88
+30;Samesun Montreal Central;13;67.3;1146.4;174.75
+31;Alternative Hostel of Old Montreal;8;44.6;709.7;71.78
+32;Hôtel Bonaventure Montréal;14;69.3;1258.7;420.85
+33;Alternative Hostel of Old Montreal;15;75.6;1397.2;155.60
+34;Best Western Plus Montreal Downtown-Hotel Europa;9;47.3;800.7;386.72
+35;The Ritz-Carlton, Montreal;12;64.0;1046.7;1106.37
+36;Hotel Gite du Survenant Montreal;13;67.8;1156.3;320.90
+37;Alternative Hostel of Old Montreal;12;62.3;1020.1;144.30
+38;Auberge L'Apero;11;56.4;916.8;110.25
+39;Auberge L'Apero;8;44.5;867.6;30.67
+40;The Ritz-Carlton, Montreal;10;54.4;888.3;1102.08
+41;Hôtel Bonaventure Montréal;14;70.4;1335.6;436.57
+42;Le Petit Hotel Vieux-Montréal | Saint-Paul;10;53.6;869.7;499.75
+43;Hôtel De L'ithq;11;57.4;903.1;452.32
+44;Auberge L'Apero;11;56.9;1088.9;76.15
+45;Alternative Hostel of Old Montreal;11;57.8;997.1;95.78
+46;Alternative Hostel of Old Montreal;12;63.4;1344.0;65.75
+47;Auberge L'Apero;13;64.5;1324.1;73.20
+48;Le Petit Hotel Vieux-Montréal | Saint-Paul;12;62.7;1053.8;534.77
+49;Auberge du Plateau;13;66.4;1205.2;138.22
+50;David Hotel;15;74.8;1380.3;592.22
+51;Auberge L'Apero;13;65.3;1100.4;118.27
+52;Samesun Montreal Central;10;53.0;835.8;156.12
+53;Le St-Martin Hotel Particulier Montreal;14;71.4;1348.3;373.33
+54;Auberge L'Apero;12;61.2;1183.3;108.55
+55;Samesun Montreal Central;11;58.1;950.4;164.27
+56;Samesun Montreal Central;10;53.0;835.8;156.12
+57;Novotel Montreal Centre;15;73.4;1287.2;468.30
+58;The Ritz-Carlton, Montreal;13;68.5;1222.2;1144.43
+59;Alternative Hostel of Old Montreal;8;44.9;891.7;71.78
+60;Auberge du Plateau;13;66.7;1188.5;155.93
+61;Hotel Gite du Survenant Montreal;13;67.8;1156.3;320.90
+62;Novotel Montreal Centre;15;73.4;1287.2;468.30
+63;Auberge L'Apero;10;52.8;1202.3;39.25
+64;Auberge L'Apero;12;60.5;1096.0;90.08
+65;The Ritz-Carlton, Montreal;8;45.7;760.7;1082.23
+66;Auberge L'Apero;12;61.2;1232.2;98.53
+67;Auberge L'Apero;13;65.7;1274.7;123.77
+68;David Hotel;14;70.6;1262.0;515.35
+69;The Ritz-Carlton, Montreal;13;68.5;1222.2;1144.43
+70;Le Petit Hotel Vieux-Montréal | Saint-Paul;12;62.8;1099.8;525.75
+71;Samesun Montreal Central;11;58.1;950.4;164.27
+72;Hôtel De L'ithq;14;71.6;1361.1;447.17
+73;Auberge L'Apero;12;61.8;1288.4;86.97
+74;Samesun Montreal Central;12;62.2;991.7;196.90
+75;Le Petit Hotel Vieux-Montréal | Saint-Paul;10;53.6;869.7;499.75
+76;Auberge L'Apero;12;61.9;1299.9;94.13
+77;Auberge L'Apero;10;53.5;975.8;80.17
+78;Hôtel De L'ithq;14;71.6;1361.1;447.17
+79;David Hotel;15;74.1;1348.1;566.22
+80;Auberge L'Apero;10;53.1;991.5;58.97

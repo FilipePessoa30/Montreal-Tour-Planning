@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;10;52.4;1066.7;30.48
+2;Alternative Hostel of Old Montreal;3;22.1;506.6;40.55
+3;Alternative Hostel of Old Montreal;14;70.5;1379.1;122.83
+4;Alternative Hostel of Old Montreal;15;75.9;1368.6;157.03
+5;Hotel Zero 1;5;29.6;409.3;314.75
+6;Le Petit Hotel Vieux-Montréal | Saint-Paul;15;76.4;1371.0;555.02
+7;Four Seasons Hotel Montreal;14;72.7;1302.2;933.92
+8;Four Seasons Hotel Montreal;14;72.7;1321.0;918.87
+9;Hyatt Centric Montreal;10;53.7;843.9;619.25
+10;Sonder Maisonneuve;6;35.7;558.7;273.05
+11;Hotel Zero 1;5;29.6;409.3;314.75
+12;Alternative Hostel of Old Montreal;4;26.1;549.8;35.75
+13;Hotel Zero 1;7;37.4;641.3;354.72
+14;Hyatt Centric Montreal;8;44.3;689.1;559.25
+15;Hotel Zero 1;7;37.4;641.3;354.72
+16;Auberge L'Apero;9;48.1;1005.9;32.17
+17;Alternative Hostel of Old Montreal;4;26.1;549.8;35.75
+18;Hotel Zero 1;13;64.4;1175.8;392.72
+19;Alternative Hostel of Old Montreal;14;71.1;1354.9;139.33
+20;Auberge L'Apero;8;43.8;700.7;69.15
+21;Alternative Hostel of Old Montreal;11;59.0;1077.2;68.37
+22;Auberge L'Apero;9;48.6;863.5;62.15
+23;Alternative Hostel of Old Montreal;7;39.2;681.5;51.97
+24;Alternative Hostel of Old Montreal;11;58.3;1141.1;59.50
+25;Alternative Hostel of Old Montreal;13;66.7;1257.1;103.35
+26;Alternative Hostel of Old Montreal;14;70.5;1379.1;122.83
+27;Sonder Maisonneuve;12;63.5;1104.6;290.07
+28;Alternative Hostel of Old Montreal;12;62.3;1199.6;95.25
+29;Alternative Hostel of Old Montreal;8;44.9;764.3;65.75
+30;Hotel Le Cantlie Suites;14;69.1;1328.0;458.66
+31;Auberge L'Apero;8;44.4;777.0;48.17
+32;Alternative Hostel of Old Montreal;6;35.2;686.6;48.52
+33;Alternative Hostel of Old Montreal;6;35.2;686.6;48.52
+34;Auberge L'Apero;12;61.2;1044.4;120.93
+35;Alternative Hostel of Old Montreal;10;53.5;891.5;79.75
+36;Alternative Hostel of Old Montreal;5;31.1;622.7;35.75
+37;Hotel Zero 1;14;67.9;1298.9;436.50
+38;Alternative Hostel of Old Montreal;5;31.1;622.7;35.75
+39;Alternative Hostel of Old Montreal;6;34.8;517.5;51.75
+40;Hyatt Centric Montreal;10;53.7;843.9;619.25
+41;Alternative Hostel of Old Montreal;11;58.1;959.5;92.58
+42;Alternative Hostel of Old Montreal;15;75.9;1368.6;157.03
+43;Le Petit Hotel Vieux-Montréal | Saint-Paul;12;63.7;1084.3;535.18
+44;Hotel Zero 1;13;64.4;1175.8;392.72
+45;Alternative Hostel of Old Montreal;9;49.6;832.7;80.25
+46;Le Petit Hotel Vieux-Montréal | Saint-Paul;11;58.5;991.7;544.63
+47;Auberge L'Apero;10;53.0;1016.5;39.20
+48;Le Petit Hotel Vieux-Montréal | Saint-Paul;13;68.2;1245.5;536.78
+49;Sonder Maisonneuve;12;63.5;1123.8;285.08
+50;Alternative Hostel of Old Montreal;10;54.3;923.8;51.75
+51;Hotel Chez Swann;13;66.2;1114.1;444.83
+52;Alternative Hostel of Old Montreal;10;54.9;1089.6;51.75
+53;Alternative Hostel of Old Montreal;12;62.8;1162.8;154.87
+54;Auberge L'Apero;11;56.6;1080.9;60.78
+55;Hotel Kutuma;13;66.7;1099.7;490.74
+56;Sonder Maisonneuve;10;54.5;884.5;302.65
+57;Alternative Hostel of Old Montreal;8;44.1;727.4;65.75
+58;Auberge L'Apero;11;57.3;1145.5;45.97
+59;Auberge L'Apero;13;65.8;1183.7;152.57
+60;Alternative Hostel of Old Montreal;13;67.5;1305.0;111.58
+61;Auberge L'Apero;7;38.8;663.7;69.00
+62;Sonder Maisonneuve;12;62.1;995.8;316.32
+63;Hotel Kutuma;13;66.7;1099.7;490.74
+64;Auberge du Plateau;10;53.5;737.7;124.08
+65;Le Petit Hotel Vieux-Montréal | Saint-Paul;14;71.8;1248.2;552.43
+66;Alternative Hostel of Old Montreal;13;67.2;1218.3;140.92
+67;Sonder Maisonneuve;10;54.5;898.4;300.98
+68;Alternative Hostel of Old Montreal;14;71.1;1339.5;149.78
+69;Alternative Hostel of Old Montreal;6;34.8;517.5;51.75
+70;Auberge L'Apero;8;44.4;777.0;48.17
+71;Alternative Hostel of Old Montreal;8;43.8;807.0;35.75
+72;Alternative Hostel of Old Montreal;9;49.6;822.4;80.25
+73;Alternative Hostel of Old Montreal;12;62.5;1057.2;128.62
+74;Auberge L'Apero;9;48.3;916.0;35.80
+75;Alternative Hostel of Old Montreal;13;65.9;1203.4;103.27
+76;Alternative Hostel of Old Montreal;12;61.6;1332.0;77.52
+77;Alternative Hostel of Old Montreal;9;48.9;808.8;85.58
+78;Alternative Hostel of Old Montreal;13;66.7;1275.8;93.27
+79;Alternative Hostel of Old Montreal;13;67.8;1255.3;128.62
+80;Alternative Hostel of Old Montreal;13;67.1;1193.2;145.77

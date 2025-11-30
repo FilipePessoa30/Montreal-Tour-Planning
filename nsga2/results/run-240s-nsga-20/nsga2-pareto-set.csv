@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Alternative Hostel of Old Montreal;5;30.3;509.5;35.75
+2;Hotel Gite du Survenant Montreal;2;17.8;233.2;193.75
+3;Sonder Maisonneuve;14;71.7;1435.8;266.07
+4;Hotel Gault;14;72.7;1309.8;590.87
+5;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;8;45.7;753.4;656.60
+6;Hotel Gite du Survenant Montreal;3;21.6;364.2;217.50
+7;Delta Hotels by Marriott Montreal;12;62.3;1099.9;381.98
+8;Hotel Bon Accueil;4;23.8;411.1;173.52
+9;Hotel Gite du Survenant Montreal;9;50.7;890.9;238.17
+10;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;8;45.6;793.4;573.48
+11;Alternative Hostel of Old Montreal;7;39.5;657.2;68.98
+12;Delta Hotels by Marriott Montreal;10;54.1;916.9;405.47
+13;Alternative Hostel of Old Montreal;6;33.6;602.4;110.92
+14;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;8;45.7;753.4;656.60
+15;David Hotel;11;58.7;981.3;515.05
+16;Alternative Hostel of Old Montreal;4;25.2;412.3;59.50
+17;Hotel Gite du Survenant Montreal;6;36.6;611.0;222.17
+18;Sonder Maisonneuve;9;50.1;831.2;315.15
+19;Hotel Gite du Survenant Montreal;3;21.6;364.2;217.50
+20;Samesun Montreal Central;10;54.6;955.6;143.52
+21;Alternative Hostel of Old Montreal;11;58.1;1167.6;74.23
+22;Hotel Gite du Survenant Montreal;4;25.8;435.1;217.50
+23;Hôtel Place d'Armes Old Montreal;13;67.7;1225.8;466.07
+24;Sonder Maisonneuve;7;39.5;652.8;245.00
+25;Alternative Hostel of Old Montreal;8;43.7;765.5;52.50
+26;Alternative Hostel of Old Montreal;5;30.3;509.5;35.75
+27;Delta Hotels by Marriott Montreal;12;62.3;1099.9;381.98
+28;Alternative Hostel of Old Montreal;9;48.9;849.9;44.52
+29;Best Western Ville-Marie Montreal Hotel & Suites;14;70.5;1407.8;309.83
+30;Warwick Le Crystal - Montréal;13;67.7;1196.9;544.97
+31;Alternative Hostel of Old Montreal;9;49.5;879.0;98.37
+32;Hotel Gault;13;68.5;1230.1;597.67
+33;Sonder Maisonneuve;14;71.7;1435.8;266.07
+34;Alternative Hostel of Old Montreal;11;57.3;1046.2;65.75
+35;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;8;45.9;784.9;608.18
+36;Alternative Hostel of Old Montreal;6;36.4;691.3;35.75
+37;Hotel Bon Accueil;6;31.9;591.5;173.52
+38;Hotel Kutuma;14;70.9;1368.5;427.27
+39;Alternative Hostel of Old Montreal;5;29.8;470.9;87.17
+40;Warwick Le Crystal - Montréal;13;68.7;1258.3;507.77
+41;Radisson Hotel Montreal Airport;14;69.1;1292.2;207.52
+42;Sonder Maisonneuve;5;31.0;555.9;228.25
+43;Alternative Hostel of Old Montreal;8;44.6;663.1;80.78
+44;Sonder Maisonneuve;5;30.3;488.5;283.02
+45;Hotel Gite du Survenant Montreal;10;55.2;995.1;271.70
+46;Hotel Kutuma;14;70.9;1368.5;427.27
+47;Warwick Le Crystal - Montréal;11;59.0;1011.8;448.32
+48;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;11;59.6;958.5;636.97
+49;Alternative Hostel of Old Montreal;7;39.1;617.4;52.50
+50;Alternative Hostel of Old Montreal;6;35.0;624.9;51.75
+51;Sonder Maisonneuve;6;35.5;559.9;263.98
+52;Alternative Hostel of Old Montreal;10;53.4;982.2;35.75
+53;Alternative Hostel of Old Montreal;3;22.4;467.8;51.75
+54;Sonder Maisonneuve;14;71.7;1434.6;272.30
+55;Sonder Maisonneuve;10;54.2;937.5;296.42
+56;Delta Hotels by Marriott Montreal;13;67.3;1177.1;396.82
+57;Alternative Hostel of Old Montreal;12;62.4;1200.3;63.92
+58;Alternative Hostel of Old Montreal;13;66.3;1278.2;57.40
+59;Alternative Hostel of Old Montreal;12;63.4;1242.8;82.68
+60;Alternative Hostel of Old Montreal;9;49.7;814.9;114.37
+61;Sonder Maisonneuve;5;31.2;582.7;252.00
+62;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;10;54.7;921.9;639.95
+63;Hôtel Place d'Armes Old Montreal;5;30.3;460.7;441.00
+64;Alternative Hostel of Old Montreal;13;66.6;1191.9;104.35
+65;Hôtel Place d'Armes Old Montreal;13;67.7;1225.8;466.07
+66;Hotel Gite du Survenant Montreal;11;58.5;1084.8;255.93
+67;Hôtel Place d'Armes Old Montreal;12;63.5;1115.0;487.40
+68;Alternative Hostel of Old Montreal;13;67.3;1275.1;117.53
+69;Samesun Montreal Central;10;54.6;955.6;143.52
+70;Sonder Maisonneuve;8;45.4;788.9;299.55
+71;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;13;67.3;1145.1;627.48
+72;Hotel Gite du Survenant Montreal;5;30.5;500.9;233.50
+73;Hôtel Place d'Armes Old Montreal;12;63.5;1115.0;487.40
+74;Hotel Gite du Survenant Montreal;10;54.7;1003.2;206.58
+75;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;9;50.2;830.7;621.43
+76;Alternative Hostel of Old Montreal;13;68.1;1280.6;126.45
+77;Alternative Hostel of Old Montreal;12;63.5;1131.0;92.25
+78;Hotel Bon Accueil;13;64.5;1183.0;250.97
+79;Hotel Gite du Survenant Montreal;12;63.8;1141.4;244.45
+80;Warwick Le Crystal - Montréal;11;58.3;1058.5;441.43

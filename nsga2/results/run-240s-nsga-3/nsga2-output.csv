@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;8;44.1;941.3;25.25
+2;Auberge L'Apero;7;40.0;879.1;35.25
+3;Auberge L'Apero;7;37.4;706.2;62.72
+4;Auberge L'Apero;7;37.4;660.8;66.77
+5;Auberge Du Vieux Port;15;76.2;1358.6;578.37
+6;Hôtel Saint-Sulpice;12;63.4;1049.1;627.02
+7;Hotel Kutuma;14;71.6;1260.0;444.30
+8;Hotel Gault;10;53.5;885.0;520.45
+9;Auberge Du Vieux Port;15;76.2;1358.6;578.37
+10;Auberge du Plateau;12;62.9;1043.6;186.55
+11;Auberge L'Apero;14;70.9;1341.7;135.00
+12;Hotel Gault;10;54.3;859.7;532.95
+13;Auberge L'Apero;11;56.7;935.5;111.98
+14;Le St-Martin Hotel Particulier Montreal;10;53.4;886.7;360.97
+15;Auberge L'Apero;13;66.4;1128.7;129.22
+16;Hotel Gault;11;58.9;1014.8;528.52
+17;Deluxe Suites Downtown Montreal;14;72.9;1310.2;347.82
+18;Auberge L'Apero;9;48.9;1123.4;25.25
+19;Hotel Kutuma;13;67.6;1146.7;447.72
+20;Auberge L'Apero;8;42.5;751.3;51.52
+21;Deluxe Suites Downtown Montreal;10;54.6;917.0;289.80
+22;L'Appartement Hotel;8;44.3;767.2;252.20
+23;Auberge L'Apero;13;67.1;1225.1;93.82
+24;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;8;44.9;707.2;568.65
+25;Auberge L'Apero;7;37.4;706.2;62.72
+26;Auberge L'Apero;9;47.9;847.7;47.28
+27;Hotel Gault;11;59.1;949.0;532.95
+28;Auberge du Plateau;12;62.9;1043.6;186.55
+29;Hotel Gault;13;67.3;1142.7;606.20
+30;L'Appartement Hotel;9;49.1;812.7;256.10
+31;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;8;44.9;740.5;552.52
+32;Auberge L'Apero;13;67.1;1200.6;139.32
+33;Auberge L'Apero;8;42.5;825.5;39.20
+34;Auberge L'Apero;14;71.6;1293.6;136.70
+35;Auberge L'Apero;9;47.9;798.4;69.25
+36;Auberge L'Apero;11;56.4;975.8;59.02
+37;Auberge L'Apero;14;70.7;1318.6;103.78
+38;Deluxe Suites Downtown Montreal;13;68.4;1271.3;334.03
+39;Auberge L'Apero;7;40.0;879.1;35.25
+40;Deluxe Suites Downtown Montreal;13;68.5;1190.8;344.28
+41;Deluxe Suites Downtown Montreal;12;64.4;1073.3;323.15
+42;Auberge L'Apero;10;53.1;963.7;44.83
+43;Auberge L'Apero;12;61.0;1192.3;50.07
+44;Deluxe Suites Downtown Montreal;13;68.4;1157.9;356.17
+45;Deluxe Suites Downtown Montreal;13;68.2;1172.6;322.85
+46;Auberge L'Apero;13;66.1;1242.1;56.47
+47;Auberge L'Apero;11;57.4;1104.2;58.52
+48;Auberge L'Apero;10;52.1;924.2;45.60
+49;Deluxe Suites Downtown Montreal;12;63.9;1085.4;311.47
+50;Auberge L'Apero;12;61.9;1223.7;55.25
+51;Auberge L'Apero;12;61.3;1059.2;59.02
+52;Auberge L'Apero;13;67.1;1326.7;88.40
+53;Auberge L'Apero;9;49.7;990.1;30.67
+54;Auberge L'Apero;11;57.5;990.8;74.85
+55;Deluxe Suites Downtown Montreal;9;50.2;810.8;302.35
+56;Auberge L'Apero;13;66.6;1264.1;78.10
+57;Auberge L'Apero;8;43.7;747.7;68.17
+58;L'Appartement Hotel;11;57.9;1037.5;252.47
+59;Hotel Gault;11;58.5;938.7;557.62
+60;Deluxe Suites Downtown Montreal;12;64.4;1070.8;344.28
+61;Auberge L'Apero;9;47.9;794.4;74.85
+62;Hotel Gault;8;43.8;754.5;521.47
+63;Deluxe Suites Downtown Montreal;11;58.5;984.3;310.07
+64;Hotel Gault;11;58.9;1014.8;528.52
+65;Auberge L'Apero;13;65.9;1143.2;96.75
+66;Auberge L'Apero;10;53.2;846.2;91.17
+67;Auberge L'Apero;9;48.2;917.6;41.98
+68;Deluxe Suites Downtown Montreal;12;63.0;1082.0;294.98
+69;Deluxe Suites Downtown Montreal;9;50.2;810.8;302.35
+70;Auberge L'Apero;8;44.1;827.0;48.52
+71;Auberge L'Apero;8;44.1;773.3;68.10
+72;Auberge L'Apero;12;61.8;1210.6;51.40
+73;Auberge L'Apero;13;66.4;1183.5;106.92
+74;Deluxe Suites Downtown Montreal;12;63.8;1116.0;294.43
+75;Auberge L'Apero;12;61.7;1110.5;72.58
+76;Auberge L'Apero;13;66.3;1228.6;92.47
+77;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;8;44.9;707.2;568.65
+78;Auberge L'Apero;10;52.1;924.2;45.60
+79;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;11;58.0;929.9;620.45
+80;Deluxe Suites Downtown Montreal;12;64.0;1126.8;302.65

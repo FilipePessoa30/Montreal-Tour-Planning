@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Alternative Hostel of Old Montreal;6;36.0;762.2;35.75
+2;Alternative Hostel of Old Montreal;15;74.2;1405.1;169.92
+3;Alternative Hostel of Old Montreal;15;75.4;1379.8;206.45
+4;Comfort Suites Downtown;5;28.6;524.6;329.72
+5;Griffintown Hotel;15;73.2;1345.6;423.29
+6;Griffintown Hotel;7;38.5;777.4;327.22
+7;Griffintown Hotel;7;38.8;652.0;388.90
+8;Hygie Boutique Hotel;10;47.7;925.3;135.47
+9;Alternative Hostel of Old Montreal;10;54.6;1101.3;55.78
+10;Alternative Hostel of Old Montreal;12;61.0;1064.9;141.85
+11;Alternative Hostel of Old Montreal;14;70.5;1340.1;177.09
+12;Alternative Hostel of Old Montreal;14;70.1;1269.3;190.00
+13;Alternative Hostel of Old Montreal;11;57.7;1029.8;81.22
+14;Alternative Hostel of Old Montreal;8;44.8;949.4;41.78
+15;Griffintown Hotel;6;33.5;689.9;350.79
+16;Griffintown Hotel;13;64.5;1195.0;407.27
+17;Alternative Hostel of Old Montreal;13;65.8;1249.0;180.87
+18;Griffintown Hotel;8;42.8;705.9;394.32
+19;Alternative Hostel of Old Montreal;9;48.7;970.7;49.75
+20;Alternative Hostel of Old Montreal;9;49.3;941.6;75.75
+21;Hotel Zero 1;8;42.3;800.7;365.10
+22;Alternative Hostel of Old Montreal;12;61.5;1366.8;82.38
+23;Alternative Hostel of Old Montreal;11;58.8;1302.5;74.77
+24;Alternative Hostel of Old Montreal;6;36.0;762.2;35.75
+25;Griffintown Hotel;15;73.2;1345.6;423.29
+26;Alternative Hostel of Old Montreal;11;57.3;984.7;124.32
+27;Griffintown Hotel;13;64.5;1225.9;385.65
+28;Alternative Hostel of Old Montreal;10;52.7;974.2;83.88
+29;Alternative Hostel of Old Montreal;9;50.3;1044.8;47.68
+30;Alternative Hostel of Old Montreal;8;44.6;821.1;54.67
+31;Griffintown Hotel;8;42.8;705.9;394.32
+32;Alternative Hostel of Old Montreal;13;67.5;1371.2;107.13
+33;Deluxe Suites Downtown Montreal;12;63.6;1205.5;354.55
+34;Alternative Hostel of Old Montreal;12;62.4;1223.0;107.88
+35;Alternative Hostel of Old Montreal;6;36.6;881.4;35.75
+36;Comfort Suites Downtown;7;37.6;719.2;360.57
+37;Alternative Hostel of Old Montreal;10;53.8;1086.3;47.42
+38;Alternative Hostel of Old Montreal;12;63.2;1300.0;91.22
+39;Alternative Hostel of Old Montreal;14;69.6;1357.6;152.85
+40;Griffintown Hotel;7;38.5;751.2;343.99
+41;Alternative Hostel of Old Montreal;12;61.2;1192.9;121.77
+42;Alternative Hostel of Old Montreal;11;59.1;1368.1;61.75
+43;Alternative Hostel of Old Montreal;11;58.1;1069.9;66.00
+44;Alternative Hostel of Old Montreal;10;52.8;898.1;151.89
+45;Alternative Hostel of Old Montreal;9;48.4;955.2;35.75
+46;Alternative Hostel of Old Montreal;7;40.3;848.7;49.75
+47;Alternative Hostel of Old Montreal;10;54.5;996.3;97.05
+48;Alternative Hostel of Old Montreal;11;59.1;1314.5;61.75
+49;Alternative Hostel of Old Montreal;13;65.5;1326.8;112.32
+50;Alternative Hostel of Old Montreal;8;44.2;893.0;35.75
+51;Alternative Hostel of Old Montreal;11;58.8;1157.6;75.75
+52;Alternative Hostel of Old Montreal;7;39.6;783.9;47.68
+53;Alternative Hostel of Old Montreal;13;65.5;1326.8;112.32
+54;Alternative Hostel of Old Montreal;12;61.4;1134.3;124.82
+55;Griffintown Hotel;13;64.5;1195.0;407.27
+56;Hygie Boutique Hotel;7;34.1;734.8;154.79
+57;Alternative Hostel of Old Montreal;12;61.7;1176.4;157.52
+58;Alternative Hostel of Old Montreal;11;58.2;1091.9;137.29
+59;Auberge de La Fontaine;6;35.2;720.8;360.40
+60;Alternative Hostel of Old Montreal;13;66.6;1281.5;160.47
+61;Griffintown Hotel;6;33.5;689.9;350.79
+62;Hygie Boutique Hotel;8;38.1;799.7;154.79
+63;Alternative Hostel of Old Montreal;13;65.7;1239.9;141.64
+64;Alternative Hostel of Old Montreal;10;54.1;1150.3;49.75
+65;Deluxe Suites Downtown Montreal;7;41.1;788.5;354.44
+66;Alternative Hostel of Old Montreal;6;36.2;758.0;40.67
+67;Alternative Hostel of Old Montreal;12;61.4;1134.3;124.82
+68;Alternative Hostel of Old Montreal;11;58.5;1172.5;54.67
+69;Alternative Hostel of Old Montreal;7;40.5;860.6;41.78
+70;Alternative Hostel of Old Montreal;9;49.7;1141.5;42.77
+71;Alternative Hostel of Old Montreal;13;66.2;1340.5;103.57
+72;Hygie Boutique Hotel;10;47.7;925.3;135.47
+73;Alternative Hostel of Old Montreal;13;65.8;1244.9;186.84
+74;Alternative Hostel of Old Montreal;10;52.8;898.1;151.89
+75;Hygie Boutique Hotel;7;34.1;734.8;154.79
+76;Auberge de La Fontaine;6;35.2;720.8;360.40
+77;Alternative Hostel of Old Montreal;10;54.5;996.3;97.05
+78;Griffintown Hotel;7;38.5;751.2;343.99
+79;Alternative Hostel of Old Montreal;9;48.5;890.9;46.03
+80;Alternative Hostel of Old Montreal;14;70.1;1281.7;169.92

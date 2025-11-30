@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;11;58.1;1422.0;49.00
+2;Auberge L'Apero;11;58.1;1422.0;49.00
+3;Samesun Montreal Central;5;31.1;534.6;79.35
+4;Samesun Montreal Central;14;70.8;1301.8;149.22
+5;Deluxe Suites Downtown Montreal;6;36.4;529.2;307.43
+6;Deluxe Suites Downtown Montreal;14;73.3;1418.8;349.27
+7;Deluxe Suites Downtown Montreal;13;68.8;1121.6;408.25
+8;Samesun Montreal Central;5;31.1;534.6;79.35
+9;Deluxe Suites Downtown Montreal;7;40.5;688.3;264.93
+10;Samesun Montreal Central;7;39.4;598.2;113.80
+11;Deluxe Suites Downtown Montreal;12;63.9;1043.4;408.25
+12;Deluxe Suites Downtown Montreal;8;45.1;745.5;284.28
+13;Samesun Montreal Central;13;67.7;1217.9;202.13
+14;Deluxe Suites Downtown Montreal;14;72.4;1354.8;370.75
+15;Deluxe Suites Downtown Montreal;9;49.1;840.8;303.32
+16;Samesun Montreal Central;10;53.9;990.0;87.30
+17;Samesun Montreal Central;12;63.3;1356.3;111.58
+18;Samesun Montreal Central;11;58.4;1097.6;109.15
+19;Samesun Montreal Central;9;48.5;799.2;95.57
+20;Deluxe Suites Downtown Montreal;10;55.0;957.3;318.40
+21;Deluxe Suites Downtown Montreal;13;68.8;1121.6;408.25
+22;Samesun Montreal Central;8;43.5;959.8;60.00
+23;Samesun Montreal Central;9;49.9;902.2;124.58
+24;Samesun Montreal Central;7;39.3;666.7;97.63
+25;Samesun Montreal Central;6;35.3;870.9;60.00
+26;Samesun Montreal Central;13;67.3;1207.6;134.85
+27;Deluxe Suites Downtown Montreal;8;46.0;793.1;309.93
+28;Samesun Montreal Central;6;35.3;870.9;60.00
+29;Samesun Montreal Central;7;39.0;707.3;65.35
+30;Samesun Montreal Central;14;71.4;1253.4;160.45
+31;Deluxe Suites Downtown Montreal;14;72.5;1179.0;390.17
+32;Samesun Montreal Central;10;52.7;939.4;106.03
+33;Samesun Montreal Central;12;62.5;1085.8;177.28
+34;Deluxe Suites Downtown Montreal;8;44.9;766.2;281.95
+35;Deluxe Suites Downtown Montreal;13;67.6;1138.2;399.37
+36;Samesun Montreal Central;13;67.3;1207.6;134.85
+37;Deluxe Suites Downtown Montreal;13;68.9;1193.0;380.70
+38;Samesun Montreal Central;8;44.1;713.0;108.53
+39;Deluxe Suites Downtown Montreal;14;73.3;1347.6;384.12
+40;Samesun Montreal Central;12;62.2;1147.8;167.50
+41;Deluxe Suites Downtown Montreal;8;45.1;685.9;299.05
+42;Samesun Montreal Central;8;43.5;959.8;60.00
+43;Deluxe Suites Downtown Montreal;11;59.7;1018.1;343.00
+44;Deluxe Suites Downtown Montreal;14;72.4;1382.1;361.48
+45;Samesun Montreal Central;11;56.8;1296.0;60.00
+46;Auberge du Plateau;10;53.4;847.0;132.20
+47;Samesun Montreal Central;9;48.8;810.2;111.45
+48;Samesun Montreal Central;13;67.7;1282.5;150.18
+49;Auberge L'Apero;7;39.5;1032.7;59.05
+50;Auberge L'Apero;11;57.4;1325.0;62.77
+51;Samesun Montreal Central;14;72.3;1312.4;184.32
+52;Samesun Montreal Central;13;67.5;1162.2;136.85
+53;Samesun Montreal Central;11;58.7;1050.0;183.08
+54;Samesun Montreal Central;9;48.0;874.8;92.23
+55;Auberge L'Apero;12;60.6;1213.9;101.42
+56;Samesun Montreal Central;10;54.5;899.4;127.47
+57;Deluxe Suites Downtown Montreal;8;45.2;692.8;325.77
+58;Deluxe Suites Downtown Montreal;14;72.1;1247.7;376.67
+59;Samesun Montreal Central;8;43.6;862.5;81.83
+60;Deluxe Suites Downtown Montreal;8;45.9;747.6;324.52
+61;Samesun Montreal Central;7;40.0;633.4;101.52
+62;Deluxe Suites Downtown Montreal;10;55.0;957.3;318.40
+63;Auberge L'Apero;11;57.9;1375.7;72.02
+64;Auberge L'Apero;12;62.1;1302.5;77.62
+65;Samesun Montreal Central;13;67.4;1400.4;134.53
+66;Samesun Montreal Central;6;35.4;617.7;88.00
+67;Deluxe Suites Downtown Montreal;12;63.7;1059.7;355.45
+68;Samesun Montreal Central;7;39.3;666.7;97.63
+69;Samesun Montreal Central;10;53.9;972.9;98.78
+70;Deluxe Suites Downtown Montreal;7;40.4;672.6;271.17
+71;Deluxe Suites Downtown Montreal;10;55.4;933.3;341.68
+72;Deluxe Suites Downtown Montreal;9;49.3;842.7;333.12
+73;Samesun Montreal Central;11;57.6;1072.1;113.38
+74;Samesun Montreal Central;9;48.0;884.3;79.83
+75;Samesun Montreal Central;12;62.2;1040.6;195.33
+76;Samesun Montreal Central;9;48.5;1121.4;65.70
+77;Deluxe Suites Downtown Montreal;11;58.6;1021.4;332.48
+78;Deluxe Suites Downtown Montreal;11;60.2;1001.6;354.27
+79;Deluxe Suites Downtown Montreal;10;55.4;933.3;341.68
+80;Samesun Montreal Central;13;67.8;1250.3;156.05

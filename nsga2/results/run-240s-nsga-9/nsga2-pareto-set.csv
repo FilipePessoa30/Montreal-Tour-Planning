@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;8;44.0;1041.8;25.25
+2;Auberge L'Apero;6;36.0;894.3;39.75
+3;Hygie Boutique Hotel;15;70.6;1374.5;225.40
+4;Hotel le Coach;14;72.4;1424.8;321.48
+5;Hôtel De L'ithq;7;40.2;644.4;395.08
+6;Humaniti Hotel Montreal Autograph Collection;15;75.9;1388.9;595.10
+7;W Montreal;14;72.0;1300.5;656.90
+8;W Montreal;11;59.1;1009.7;601.85
+9;Hôtel De L'ithq;7;40.2;644.4;395.08
+10;Humaniti Hotel Montreal Autograph Collection;15;75.9;1388.9;595.10
+11;Hotel De Paris;10;51.6;855.7;290.50
+12;Le Petit Hotel Vieux-Montréal | Saint-Paul;11;58.6;1011.0;504.15
+13;Hôtel Le Germain Montréal;13;67.8;1180.2;402.52
+14;Auberge du Plateau;9;50.1;933.6;122.23
+15;Hotel De Paris;8;42.5;698.8;292.02
+16;Auberge L'Apero;10;52.4;1030.7;72.03
+17;Hyatt Centric Montreal;11;57.0;955.7;641.47
+18;Auberge du Plateau;6;36.6;718.1;144.97
+19;Hôtel De L'ithq;12;62.8;1082.3;454.05
+20;Hotel De Paris;9;46.0;837.8;318.05
+21;Hotel le Coach;14;72.8;1412.6;322.20
+22;Auberge L'Apero;9;48.7;897.8;61.05
+23;Hotel le Coach;14;72.4;1424.8;321.48
+24;Hôtel Le Germain Montréal;13;67.8;1180.2;402.52
+25;Auberge du Plateau;12;62.4;1161.4;143.03
+26;Hôtel De L'ithq;8;45.8;804.9;388.37
+27;Hôtel De L'ithq;8;44.5;712.6;410.07
+28;Le Petit Hotel Vieux-Montréal | Saint-Paul;11;58.6;970.0;509.95
+29;Auberge L'Apero;14;70.5;1328.5;109.62
+30;Le Petit Hotel Vieux-Montréal | Saint-Paul;14;72.0;1309.6;551.73
+31;Hôtel De L'ithq;8;45.1;750.7;393.28
+32;Auberge du Plateau;6;37.0;730.3;104.83
+33;Le Petit Hotel Vieux-Montréal | Saint-Paul;10;54.3;940.8;470.92
+34;Hotel le Coach;14;71.8;1374.8;331.75
+35;Auberge L'Apero;7;39.7;1040.3;30.83
+36;Hotel le Coach;11;58.5;1040.1;266.33
+37;Auberge du Plateau;13;67.2;1235.4;210.70
+38;Auberge L'Apero;9;48.1;1050.2;25.25
+39;Auberge L'Apero;13;66.0;1193.1;147.32
+40;Auberge du Plateau;13;66.6;1217.2;193.90
+41;Auberge du Plateau;8;44.9;798.9;140.33
+42;Hôtel De L'ithq;10;54.9;955.2;423.77
+43;Auberge L'Apero;6;36.4;917.4;59.37
+44;Auberge du Plateau;8;45.7;861.4;126.73
+45;Hotel le Coach;12;63.5;1141.2;292.10
+46;Auberge du Plateau;11;58.3;996.5;186.80
+47;Auberge du Plateau;12;61.7;1066.7;187.67
+48;Hôtel De L'ithq;9;50.0;818.1;393.28
+49;Auberge du Plateau;9;49.0;947.0;101.37
+50;Auberge L'Apero;10;52.5;1256.7;39.20
+51;Auberge L'Apero;12;60.8;1316.5;70.50
+52;Auberge du Plateau;11;57.7;1075.4;130.87
+53;Hotel le Coach;14;71.9;1374.9;293.27
+54;Auberge L'Apero;10;53.4;998.2;87.05
+55;Hôtel De L'ithq;13;67.3;1133.2;438.90
+56;Auberge du Plateau;14;70.9;1281.4;171.60
+57;Le Petit Hotel Vieux-Montréal | Saint-Paul;13;67.4;1153.9;569.20
+58;Hôtel Le Germain Montréal;14;71.8;1347.1;410.88
+59;Auberge L'Apero;13;65.5;1163.9;161.87
+60;Hôtel De L'ithq;10;52.2;966.9;417.20
+61;Humaniti Hotel Montreal Autograph Collection;12;62.2;1049.3;573.80
+62;Hotel le Coach;13;67.5;1185.9;278.13
+63;Hotel Gite du Survenant Montreal;12;63.5;1122.9;274.50
+64;W Montreal;14;72.0;1300.5;656.90
+65;Auberge du Plateau;13;66.6;1265.7;174.90
+66;Auberge L'Apero;10;52.9;1106.9;46.17
+67;Hygie Boutique Hotel;15;70.6;1374.5;225.40
+68;Hotel le Coach;14;71.5;1390.0;292.38
+69;Auberge du Plateau;14;71.2;1345.4;160.28
+70;Auberge L'Apero;9;48.7;1099.7;47.87
+71;Auberge L'Apero;10;53.7;1269.7;40.47
+72;Hôtel De L'ithq;12;62.9;1119.2;457.78
+73;Auberge du Plateau;13;67.2;1224.7;218.63
+74;Hôtel De L'ithq;11;57.2;967.1;462.90
+75;Hôtel De L'ithq;8;44.5;712.6;410.07
+76;Hôtel Le Germain Montréal;14;71.8;1280.0;428.07
+77;Auberge L'Apero;8;44.5;732.2;61.62
+78;Auberge L'Apero;12;60.8;1316.5;70.50
+79;Auberge L'Apero;9;48.5;1089.5;41.25
+80;Auberge L'Apero;13;65.5;1163.9;161.87

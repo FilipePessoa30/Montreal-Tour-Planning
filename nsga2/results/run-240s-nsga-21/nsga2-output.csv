@@ -1,0 +1,81 @@
+Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
+1;Auberge L'Apero;6;35.1;1088.0;25.25
+2;Auberge du Plateau;4;26.1;507.6;84.13
+3;Auberge du Plateau;14;71.0;1382.8;146.21
+4;Auberge du Plateau;14;71.5;1404.2;149.24
+5;Hotel Gite du Survenant Montreal;14;72.5;1343.5;272.01
+6;Hotel Gault;13;68.6;1169.2;615.02
+7;Le St-Martin Hotel Particulier Montreal;5;30.4;553.1;328.60
+8;Warwick Le Crystal - Montréal;11;59.2;1063.5;442.10
+9;Auberge du Plateau;4;26.1;507.6;84.13
+10;Auberge du Plateau;7;40.6;783.8;84.13
+11;Auberge L'Apero;8;43.0;912.9;32.43
+12;Auberge L'Apero;10;52.0;984.2;82.13
+13;Hotel Gault;13;68.6;1169.2;615.02
+14;David Hotel;10;53.6;892.2;488.87
+15;Hotel Gite du Survenant Montreal;13;68.2;1192.8;257.65
+16;Auberge du Plateau;7;40.1;718.2;123.08
+17;Auberge du Plateau;13;67.3;1318.4;168.10
+18;Auberge L'Apero;8;44.1;850.3;86.35
+19;Auberge du Plateau;14;71.5;1404.2;149.24
+20;Auberge du Plateau;12;62.9;1158.1;131.41
+21;Auberge L'Apero;12;61.9;1339.7;52.25
+22;Auberge L'Apero;6;34.7;730.8;81.98
+23;Auberge du Plateau;11;58.1;1027.8;154.85
+24;Hotel Gault;9;49.7;688.5;572.40
+25;Auberge du Plateau;14;72.0;1363.8;206.43
+26;Auberge du Plateau;5;30.2;569.2;128.30
+27;Auberge L'Apero;9;48.6;940.1;49.68
+28;Hotel Gault;10;54.7;948.2;588.22
+29;Auberge du Plateau;5;30.2;569.2;128.30
+30;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;6;36.8;623.0;565.47
+31;Warwick Le Crystal - Montréal;13;68.6;1277.4;505.88
+32;Auberge L'Apero;9;47.4;1123.8;37.57
+33;Auberge du Plateau;5;30.7;702.6;67.25
+34;Auberge du Plateau;8;45.2;837.9;103.28
+35;Auberge L'Apero;6;34.1;705.3;55.93
+36;Le Roberval;11;56.1;959.8;297.18
+37;Auberge L'Apero;12;61.2;1350.0;46.32
+38;Auberge du Plateau;6;36.0;654.6;84.13
+39;Hotel Gault;12;64.2;1035.3;582.90
+40;Auberge L'Apero;13;66.4;1212.5;123.07
+41;David Hotel;11;58.2;1024.8;532.08
+42;Hotel Gite du Survenant Montreal;12;63.1;1138.2;316.39
+43;Auberge L'Apero;8;43.7;770.4;109.42
+44;Auberge L'Apero;7;38.7;898.8;40.47
+45;Hotel Gault;9;50.2;709.5;568.90
+46;Warwick Le Crystal - Montréal;12;63.5;1189.5;451.63
+47;Auberge du Plateau;5;30.2;608.0;99.47
+48;Le Roberval;10;52.3;886.1;300.19
+49;Auberge du Plateau;13;67.4;1224.0;182.83
+50;Auberge L'Apero;13;66.7;1286.1;64.70
+51;Auberge du Plateau;14;72.0;1363.8;206.43
+52;Auberge du Plateau;6;35.6;746.0;82.72
+53;Auberge du Plateau;13;67.3;1318.4;168.10
+54;Auberge L'Apero;10;52.4;1100.8;41.83
+55;Hotel Gault;9;49.7;688.5;572.40
+56;Auberge du Plateau;10;53.8;932.7;141.43
+57;Auberge Du Vieux Port;10;54.4;912.0;520.32
+58;Le Roberval;10;52.1;918.4;294.03
+59;Warwick Le Crystal - Montréal;13;68.5;1246.0;473.73
+60;Warwick Le Crystal - Montréal;13;68.5;1249.6;463.82
+61;Hotel Nelligan;11;59.0;1016.8;552.33
+62;Auberge du Plateau;9;48.9;844.0;117.05
+63;Auberge L'Apero;10;52.9;1002.7;58.27
+64;Auberge du Plateau;6;34.2;635.3;133.17
+65;Auberge L'Apero;7;39.1;812.6;40.72
+66;Auberge L'Apero;8;43.1;1045.0;35.75
+67;Le Centre Sheraton Montreal Hotel;13;67.4;1180.2;495.18
+68;Warwick Le Crystal - Montréal;13;68.5;1256.0;473.53
+69;Hotel Gault;12;64.2;1042.1;575.47
+70;Auberge du Plateau;7;39.2;733.9;105.80
+71;Auberge L'Apero;12;61.6;1275.3;50.90
+72;Auberge L'Apero;8;44.6;920.5;39.58
+73;Auberge du Plateau;5;30.2;574.9;113.85
+74;Auberge L'Apero;11;56.8;1176.5;69.28
+75;Auberge L'Apero;6;35.0;798.3;73.65
+76;Auberge L'Apero;13;67.1;1225.7;106.44
+77;Auberge L'Apero;12;62.1;1089.0;87.65
+78;Hotel Gite du Survenant Montreal;14;72.5;1343.5;272.01
+79;Auberge L'Apero;9;48.6;862.8;103.60
+80;Auberge L'Apero;12;62.0;1078.3;76.57
