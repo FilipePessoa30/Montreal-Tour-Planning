@@ -33,3 +33,6 @@ temp/
 *.tmp
 *.bak
 *.swp
+
+# Private folders
+Apresentação/
