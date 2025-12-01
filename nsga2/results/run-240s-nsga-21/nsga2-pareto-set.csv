@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Samesun Montreal Central;7;39.8;970.3;60.00
-2;Hotel Arena Palace Montreal;5;27.5;735.2;90.65
-3;Hotel Arena Palace Montreal;5;27.1;670.8;95.13
-4;Samesun Montreal Central;14;70.5;1384.6;133.42
-5;Le Square Phillips Hotel & Suites;14;71.2;1329.4;563.35
-6;The Ritz-Carlton, Montreal;6;36.4;614.6;1034.78
-7;The Ritz-Carlton, Montreal;10;53.2;969.2;1086.77
-8;Four Seasons Hotel Montreal;13;66.1;1203.0;881.55
-9;The Ritz-Carlton, Montreal;8;45.2;794.1;1027.25
-10;Le Square Phillips Hotel & Suites;12;63.0;1185.7;549.10
-11;Le Sieur De Joliette;6;33.1;668.7;272.53
-12;Hygie Boutique Hotel;13;60.5;1249.0;136.73
-13;Samesun Montreal Central;14;70.5;1384.6;133.42
-14;Samesun Montreal Central;11;57.4;1072.3;116.28
-15;Hotel Arena Palace Montreal;6;31.7;804.3;90.65
-16;Samesun Montreal Central;11;58.1;1346.5;72.88
-17;Four Seasons Hotel Montreal;13;66.1;1203.0;881.55
-18;Samesun Montreal Central;12;61.9;1081.1;129.75
-19;Samesun Montreal Central;9;47.6;830.8;135.02
-20;Samesun Montreal Central;9;47.8;1097.5;89.32
-21;The Ritz-Carlton, Montreal;10;53.2;969.2;1086.77
-22;Hotel Arena Palace Montreal;5;27.6;781.1;78.75
-23;Best Western Plus Montreal Downtown-Hotel Europa;7;37.2;679.1;375.77
-24;Samesun Montreal Central;8;42.8;866.0;117.58
-25;Samesun Montreal Central;8;45.1;1006.3;79.20
-26;Hotel Arena Palace Montreal;5;27.1;670.8;95.13
-27;The Ritz-Carlton, Montreal;12;63.1;1164.0;1073.90
-28;Le Square Phillips Hotel & Suites;9;48.8;983.2;472.25
-29;Samesun Montreal Central;13;64.9;1294.2;154.18
-30;Le Sieur De Joliette;7;37.3;726.4;276.47
-31;Samesun Montreal Central;10;52.8;1044.9;100.93
-32;Hotel Arena Palace Montreal;6;31.7;804.3;90.65
-33;The Ritz-Carlton, Montreal;6;36.4;614.6;1034.78
-34;Samesun Montreal Central;9;49.8;1140.4;66.37
-35;The Ritz-Carlton, Montreal;13;66.9;1296.7;1079.23
-36;Le Square Phillips Hotel & Suites;11;58.4;1061.2;509.63
-37;Hotel Kutuma;9;48.0;919.0;414.48
-38;Samesun Montreal Central;13;64.9;1294.2;154.18
-39;Samesun Montreal Central;9;47.0;936.8;106.82
-40;Hotel Arena Palace Montreal;11;54.8;1027.7;116.22
-41;Ruby Foo's;13;65.1;1256.6;343.40
-42;Hotel Arena Palace Montreal;9;45.2;901.1;120.67
-43;Hotel Arena Palace Montreal;8;40.5;836.8;128.40
-44;Samesun Montreal Central;7;39.3;750.4;97.25
-45;Hotel Arena Palace Montreal;7;35.7;681.3;128.40
-46;Hotel Arena Palace Montreal;8;41.4;944.8;84.20
-47;Ruby Foo's;13;65.1;1256.6;343.40
-48;The Ritz-Carlton, Montreal;13;66.9;1270.6;1084.43
-49;Samesun Montreal Central;13;66.4;1374.1;93.87
-50;Hotel Kutuma;8;44.0;758.0;404.82
-51;Hotel Arena Palace Montreal;9;45.5;922.6;96.92
-52;The Ritz-Carlton, Montreal;7;40.1;738.1;1051.00
-53;Samesun Montreal Central;9;49.8;1140.4;66.37
-54;Le Sieur De Joliette;7;37.3;726.4;276.47
-55;Hotel Arena Palace Montreal;7;35.7;681.3;128.40
-56;Le Sieur De Joliette;6;33.1;668.7;272.53
-57;Hotel Kutuma;8;44.0;758.0;404.82
-58;Hotel Arena Palace Montreal;12;59.2;1299.3;110.80
-59;Best Western Plus Montreal Downtown-Hotel Europa;7;37.2;679.1;375.77
-60;Samesun Montreal Central;10;53.4;1302.2;71.85
+1;Auberge du Plateau;6;34.3;911.2;67.25
+2;Auberge du Plateau;12;62.5;1240.8;179.08
+3;Novotel Montreal Centre;5;30.7;558.1;351.65
+4;Le Square Phillips Hotel & Suites;12;63.3;1408.7;564.23
+5;Novotel Montreal Centre;5;31.1;581.1;304.87
+6;Auberge du Plateau;9;48.0;927.8;182.25
+7;Empire Suites;8;40.4;813.5;252.25
+8;David Hotel;9;49.1;922.2;437.00
+9;Hotel Nelligan;11;59.4;1106.4;530.75
+10;Empire Suites;7;36.2;791.7;242.90
+11;Novotel Montreal Centre;6;35.6;648.3;343.57
+12;Auberge du Plateau;11;58.6;1272.8;114.00
+13;Empire Suites;10;48.5;1035.8;300.14
+14;Auberge du Plateau;8;44.1;1202.6;67.25
+15;Novotel Montreal Centre;6;35.2;750.8;335.53
+16;Novotel Montreal Centre;5;30.7;558.1;351.65
+17;Auberge du Plateau;9;49.8;1233.2;90.32
+18;Auberge du Plateau;10;54.1;1189.2;107.18
+19;Auberge du Plateau;7;38.9;819.0;160.35
+20;Hotel Nelligan;9;50.3;1050.0;500.75
+21;Hotel Nelligan;8;44.8;822.0;500.75
+22;Novotel Montreal Centre;6;35.6;773.7;288.75
+23;Auberge du Plateau;12;62.5;1240.8;179.08
+24;Auberge du Plateau;8;43.0;819.0;173.90
+25;Auberge du Plateau;8;45.0;1059.6;81.25
+26;Auberge du Plateau;12;62.2;1199.3;149.18
+27;Auberge du Plateau;12;63.0;1373.0;165.63
+28;Auberge du Plateau;7;40.1;831.1;125.62
+29;Auberge du Plateau;10;53.2;1056.7;97.25
+30;Auberge du Plateau;9;49.5;1001.7;134.20
+31;Auberge du Plateau;7;38.7;1011.7;67.25
+32;Auberge du Plateau;8;44.3;881.4;83.25
+33;Novotel Montreal Centre;7;39.8;796.6;318.85
+34;Hotel Nelligan;11;59.0;1089.3;547.05
+35;Hotel Nelligan;10;55.1;936.5;523.65
+36;Auberge du Plateau;9;48.8;939.9;104.43
+37;L'Appartement Hotel;11;57.0;1099.3;338.94
+38;Auberge du Plateau;12;62.9;1317.9;158.47
+39;Empire Suites;7;36.2;791.7;242.90
+40;Novotel Montreal Centre;6;35.6;648.3;343.57

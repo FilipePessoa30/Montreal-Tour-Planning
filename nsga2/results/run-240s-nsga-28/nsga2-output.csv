@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Alternative Hostel of Old Montreal;9;49.6;1071.9;35.75
-2;Lelux Hotel;3;17.4;400.3;249.45
-3;Hotel William Gray;15;76.3;1409.0;662.42
-4;Lelux Hotel;4;21.6;462.6;245.40
-5;Montreal Marriott Chateau Champlain;14;71.0;1255.6;456.50
-6;Hôtel Bonaventure Montréal;5;29.7;567.6;343.20
-7;Hotel Nelligan;14;72.0;1346.0;618.62
-8;Hotel Nelligan;13;67.3;1213.8;529.25
-9;David Hotel;8;43.8;767.4;467.05
-10;Hotel Nelligan;13;67.4;1205.1;573.77
-11;Deluxe Suites Downtown Montreal;9;49.3;795.1;310.75
-12;Hôtel Ac Montréal Centre-ville;6;34.6;641.9;378.95
-13;Alternative Hostel of Old Montreal;11;58.1;974.2;110.00
-14;Alternative Hostel of Old Montreal;14;71.1;1270.5;155.30
-15;Hotel Le Cantlie Suites;6;33.1;657.8;332.68
-16;Alternative Hostel of Old Montreal;8;44.2;873.1;65.72
-17;Alternative Hostel of Old Montreal;11;58.9;1240.0;64.45
-18;Hotel le Coach;6;35.8;730.1;221.30
-19;Hôtel Bonaventure Montréal;5;29.7;567.6;343.20
-20;Deluxe Suites Downtown Montreal;12;63.4;1169.2;298.87
-21;Alternative Hostel of Old Montreal;10;52.5;1004.6;78.58
-22;Delta Hotels by Marriott Montreal;8;42.8;745.3;361.78
-23;Lelux Hotel;7;34.5;709.9;270.60
-24;Deluxe Suites Downtown Montreal;12;63.4;1169.2;298.87
-25;Alternative Hostel of Old Montreal;8;45.3;1027.8;49.75
-26;Lelux Hotel;5;26.2;582.1;245.40
-27;Lelux Hotel;7;34.5;714.6;272.28
-28;Alternative Hostel of Old Montreal;9;50.0;826.0;73.55
-29;Alternative Hostel of Old Montreal;10;54.6;1040.2;55.78
-30;Hotel Nelligan;14;72.0;1346.0;618.62
-31;Lelux Hotel;6;30.3;636.9;277.68
-32;Alternative Hostel of Old Montreal;10;52.5;1004.6;78.58
-33;Alternative Hostel of Old Montreal;6;35.9;881.0;42.77
-34;Hotel Nelligan;13;67.7;1231.5;549.77
-35;Alternative Hostel of Old Montreal;8;42.9;899.1;54.32
-36;Lelux Hotel;8;38.9;763.1;289.80
-37;Lelux Hotel;6;30.4;707.6;259.90
-38;Alternative Hostel of Old Montreal;10;52.4;957.3;85.10
-39;Alternative Hostel of Old Montreal;10;53.7;1095.9;48.63
-40;Alternative Hostel of Old Montreal;12;62.1;1117.1;135.97
-41;Lelux Hotel;5;26.2;582.1;245.40
-42;Hotel le Coach;7;40.0;782.3;239.47
-43;Alternative Hostel of Old Montreal;10;52.1;873.7;98.82
-44;Lelux Hotel;6;30.3;636.9;277.68
-45;Hotel le Coach;7;40.0;803.5;225.25
-46;Hotel Le Cantlie Suites;6;33.1;657.8;332.68
-47;Alternative Hostel of Old Montreal;14;71.6;1359.0;128.48
-48;Quality Hotel & Suites Montreal East;13;64.5;1231.5;271.77
-49;Alternative Hostel of Old Montreal;11;56.6;1130.9;68.90
-50;Alternative Hostel of Old Montreal;12;61.8;1129.2;84.13
-51;Hotel Nelligan;12;62.6;1153.7;533.27
-52;Deluxe Suites Downtown Montreal;11;58.4;1031.4;321.95
-53;Quality Hotel & Suites Montreal East;14;69.0;1257.4;271.03
-54;Deluxe Suites Downtown Montreal;7;40.7;699.1;303.50
-55;Alternative Hostel of Old Montreal;11;57.5;996.4;105.13
-56;Alternative Hostel of Old Montreal;14;71.4;1288.0;109.08
-57;Deluxe Suites Downtown Montreal;7;40.7;699.1;303.50
-58;Lelux Hotel;8;38.9;769.6;284.60
-59;Alternative Hostel of Old Montreal;14;71.6;1359.0;128.48
-60;Alternative Hostel of Old Montreal;12;62.9;1320.3;35.75
+1;Hygie Boutique Hotel;6;30.6;815.8;70.75
+2;Radisson Hotel Montreal Airport;3;20.2;603.4;187.75
+3;Cjour Apartments;11;57.1;1416.8;204.82
+4;Hotel le Coach;3;22.3;407.9;224.72
+5;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;13;67.9;1367.1;649.52
+6;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;13;67.9;1356.8;659.58
+7;Hotel le Coach;4;27.7;556.2;229.87
+8;Hotel le Coach;3;22.3;419.1;219.25
+9;Hotel le Coach;7;40.4;850.9;267.85
+10;Fairmont The Queen Elizabeth;5;30.3;546.9;475.00
+11;Hygie Boutique Hotel;5;25.9;743.4;84.75
+12;Hygie Boutique Hotel;6;30.6;815.8;70.75
+13;Cjour Apartments;10;53.4;1123.5;193.60
+14;Hôtel Ac Montréal Centre-ville;7;38.3;786.2;404.77
+15;Le Centre Sheraton Montreal Hotel;13;66.5;1375.4;521.15
+16;Hotel Arena Palace Montreal;11;55.3;1385.3;115.65
+17;Hygie Boutique Hotel;9;44.1;983.0;119.47
+18;Hotel Kutuma;10;54.2;1046.4;426.75
+19;Hotel De Paris;12;60.7;1290.0;278.52
+20;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;12;63.1;1312.0;561.95
+21;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;12;63.1;1312.0;561.95
+22;Fairmont The Queen Elizabeth;6;34.9;660.7;489.27
+23;Cjour Apartments;8;43.1;866.1;192.55
+24;Hygie Boutique Hotel;7;35.3;898.2;105.97
+25;Deluxe Suites Downtown Montreal;10;54.0;1096.6;354.77
+26;Hotel Kutuma;9;49.0;1006.5;377.35
+27;Humaniti Hotel Montreal Autograph Collection;6;35.9;700.3;461.17
+28;Deluxe Suites Downtown Montreal;12;63.7;1351.4;317.42
+29;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;12;63.3;1254.9;599.08
+30;Cjour Apartments;8;43.1;866.1;192.55
+31;Hygie Boutique Hotel;6;30.1;656.8;99.33
+32;Hygie Boutique Hotel;9;44.1;983.0;119.47
+33;Hôtel Ac Montréal Centre-ville;11;56.6;1119.2;457.03
+34;Hygie Boutique Hotel;10;47.6;1405.8;86.32
+35;LHotel;12;62.7;1347.4;393.88
+36;Cjour Apartments;10;51.3;1196.2;180.17
+37;Hotel Arena Palace Montreal;10;50.5;1090.5;140.37
+38;Deluxe Suites Downtown Montreal;11;58.6;1122.4;330.18
+39;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;12;63.1;1219.3;593.77
+40;Le Square Phillips Hotel & Suites;12;62.9;1235.6;502.90

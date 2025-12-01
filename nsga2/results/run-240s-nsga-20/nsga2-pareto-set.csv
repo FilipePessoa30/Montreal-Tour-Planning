@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;7;38.6;1075.9;25.25
-2;Auberge L'Apero;6;34.2;734.5;41.90
-3;Alternative Hostel of Old Montreal;14;70.4;1366.8;201.16
-4;Le St-Martin Hotel Particulier Montreal;7;39.9;722.2;314.73
-5;Warwick Le Crystal - Montréal;14;71.8;1433.7;524.63
-6;Warwick Le Crystal - Montréal;13;67.0;1240.2;531.33
-7;Alternative Hostel of Old Montreal;14;70.4;1366.8;201.16
-8;Hôtel Place d'Armes Old Montreal;9;49.6;871.0;511.34
-9;Hôtel Place d'Armes Old Montreal;9;49.6;839.5;515.14
-10;Le St-Martin Hotel Particulier Montreal;7;39.9;805.0;308.58
-11;Auberge L'Apero;11;57.0;1069.8;69.39
-12;Le St-Martin Hotel Particulier Montreal;12;63.4;1234.8;365.12
-13;Auberge L'Apero;8;43.6;882.2;73.40
-14;Alternative Hostel of Old Montreal;13;66.5;1240.1;164.18
-15;Auberge L'Apero;10;52.2;1050.6;30.83
-16;Alternative Hostel of Old Montreal;10;54.3;1004.8;102.83
-17;Le St-Martin Hotel Particulier Montreal;7;39.2;766.5;285.96
-18;Le St-Martin Hotel Particulier Montreal;12;63.4;1234.8;365.12
-19;Le St-Martin Hotel Particulier Montreal;8;44.5;762.4;358.54
-20;Alternative Hostel of Old Montreal;11;58.2;1135.8;96.33
-21;Auberge L'Apero;8;43.4;897.8;67.38
-22;Hotel Kutuma;12;62.9;1207.4;408.71
-23;Le St-Martin Hotel Particulier Montreal;8;44.3;742.8;339.31
-24;Alternative Hostel of Old Montreal;13;67.7;1390.5;139.82
-25;Hotel Kutuma;10;54.2;972.7;418.69
-26;Hotel Kutuma;13;67.3;1248.5;441.16
-27;Auberge L'Apero;12;60.6;1198.4;108.08
-28;Auberge L'Apero;8;43.3;872.1;37.53
-29;Warwick Le Crystal - Montréal;14;71.8;1433.7;524.63
-30;Alternative Hostel of Old Montreal;10;54.3;1004.8;102.83
-31;Hotel Kutuma;12;63.3;1203.1;467.93
-32;Alternative Hostel of Old Montreal;9;47.9;949.1;60.42
-33;Le St-Martin Hotel Particulier Montreal;7;39.2;766.5;285.96
-34;Auberge L'Apero;13;64.8;1247.5;157.86
-35;Alternative Hostel of Old Montreal;13;66.8;1301.5;128.28
-36;Alternative Hostel of Old Montreal;9;48.7;808.1;121.16
-37;Auberge L'Apero;10;52.2;1050.6;30.83
-38;Alternative Hostel of Old Montreal;11;58.8;1120.3;114.13
-39;Le St-Martin Hotel Particulier Montreal;10;53.8;968.2;314.73
-40;Auberge L'Apero;9;47.3;1148.4;25.25
-41;Auberge L'Apero;7;38.8;794.9;58.90
-42;Auberge L'Apero;13;65.9;1356.0;80.83
-43;Auberge L'Apero;13;66.2;1333.2;88.98
-44;Alternative Hostel of Old Montreal;9;49.3;1037.7;50.11
-45;Alternative Hostel of Old Montreal;11;57.4;1309.5;94.08
-46;Hôtel Place d'Armes Old Montreal;12;62.2;1172.6;481.28
-47;Alternative Hostel of Old Montreal;10;53.1;1116.4;42.77
-48;Hôtel Place d'Armes Old Montreal;9;49.4;926.9;500.58
-49;Alternative Hostel of Old Montreal;13;66.7;1259.2;112.61
-50;Warwick Le Crystal - Montréal;12;63.5;1217.4;509.43
-51;Hôtel Place d'Armes Old Montreal;11;57.7;1024.8;512.11
-52;Alternative Hostel of Old Montreal;12;62.0;1217.7;145.66
-53;Hôtel Place d'Armes Old Montreal;12;62.2;1172.6;481.28
-54;Alternative Hostel of Old Montreal;11;58.4;1089.8;134.42
-55;Auberge L'Apero;9;47.3;1148.4;25.25
-56;Alternative Hostel of Old Montreal;10;53.5;930.4;105.58
-57;Alternative Hostel of Old Montreal;13;67.1;1341.2;151.50
-58;Le St-Martin Hotel Particulier Montreal;7;39.9;805.0;308.58
-59;Alternative Hostel of Old Montreal;13;67.7;1390.5;139.82
-60;Alternative Hostel of Old Montreal;12;62.3;1352.4;66.11
+1;Alternative Hostel of Old Montreal;6;35.7;888.5;35.75
+2;Alternative Hostel of Old Montreal;13;65.5;1172.3;145.52
+3;Econo Lodge;4;23.9;484.6;284.85
+4;Hotel William Gray;13;66.5;1420.2;627.80
+5;The Ritz-Carlton, Montreal;13;67.6;1329.2;1111.83
+6;The Ritz-Carlton, Montreal;11;58.1;1165.3;1113.82
+7;Alternative Hostel of Old Montreal;12;62.0;1262.7;96.10
+8;Econo Lodge;5;28.0;677.0;288.00
+9;Alternative Hostel of Old Montreal;7;40.0;961.5;49.75
+10;Auberge L'Apero;8;42.8;724.3;73.70
+11;Le Centre Sheraton Montreal Hotel;9;46.9;854.7;493.87
+12;Four Seasons Hotel Montreal;10;53.2;1029.6;920.65
+13;Four Seasons Hotel Montreal;10;53.2;1029.6;920.65
+14;Fairmont The Queen Elizabeth;4;25.2;555.9;521.12
+15;Samesun Montreal Central;11;57.0;1060.0;163.47
+16;Fairmont The Queen Elizabeth;13;66.2;1308.6;567.95
+17;Novotel Montreal Centre;11;57.8;1120.3;416.75
+18;Alternative Hostel of Old Montreal;6;35.7;888.5;35.75
+19;Hotel Arena Palace Montreal;5;26.8;721.5;104.65
+20;Alternative Hostel of Old Montreal;6;34.2;887.4;72.75
+21;Econo Lodge;4;23.9;484.6;284.85
+22;Alternative Hostel of Old Montreal;11;58.2;1387.2;76.00
+23;The Ritz-Carlton, Montreal;11;58.0;1016.4;1111.52
+24;Alternative Hostel of Old Montreal;11;58.2;1225.2;96.10
+25;Hotel Arena Palace Montreal;10;49.7;996.5;122.65
+26;Lelux Hotel;9;43.3;903.1;297.28
+27;Lelux Hotel;9;43.3;903.1;297.28
+28;Alternative Hostel of Old Montreal;10;54.1;1037.5;112.78
+29;The Ritz-Carlton, Montreal;11;58.1;1165.3;1113.82
+30;L'Appartement Hotel;9;46.6;925.5;268.47
+31;Hotel Arena Palace Montreal;9;44.3;914.3;160.42
+32;Alternative Hostel of Old Montreal;10;52.8;1210.6;64.38
+33;L'Appartement Hotel;10;51.7;993.5;289.87
+34;Novotel Montreal Centre;13;65.8;1308.7;439.51
+35;Auberge L'Apero;9;46.5;926.5;103.17
+36;Alternative Hostel of Old Montreal;11;57.4;1147.0;96.12
+37;Fairmont The Queen Elizabeth;13;66.2;1324.1;551.58
+38;Fairmont The Queen Elizabeth;10;53.1;971.3;505.00
+39;L'Appartement Hotel;9;46.7;925.5;282.47
+40;The Ritz-Carlton, Montreal;11;58.0;1016.4;1111.52

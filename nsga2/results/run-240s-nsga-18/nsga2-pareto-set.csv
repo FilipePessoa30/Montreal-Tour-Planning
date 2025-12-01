@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;10;52.1;1297.2;25.25
-2;Auberge L'Apero;5;29.9;698.3;84.83
-3;Auberge L'Apero;14;70.0;1415.9;115.08
-4;Auberge L'Apero;14;70.0;1375.0;132.35
-5;Hôtel De L'ithq;6;35.8;649.1;437.13
-6;Hôtel Place d'Armes Old Montreal;14;72.8;1320.4;502.82
-7;Hôtel Place d'Armes Old Montreal;13;68.2;1180.1;512.05
-8;Best Western Plus Hotel Montreal;7;38.9;721.4;316.62
-9;Auberge L'Apero;5;29.9;698.3;84.83
-10;Auberge L'Apero;9;48.3;941.4;46.83
-11;Hôtel Place d'Armes Old Montreal;12;63.9;1159.0;496.43
-12;Novotel Montreal Centre;13;66.6;1241.5;396.32
-13;Cjour Apartments;12;62.8;1178.0;201.28
-14;Samesun Montreal Central;10;53.7;915.8;141.38
-15;Auberge L'Apero;6;34.6;675.2;93.20
-16;Auberge L'Apero;8;43.5;835.3;68.63
-17;Best Western Plus Hotel Montreal;9;47.6;859.4;356.65
-18;Samesun Montreal Central;11;57.9;1076.8;163.40
-19;Auberge L'Apero;7;39.1;824.2;72.13
-20;Hôtel Place d'Armes Old Montreal;9;50.8;877.4;444.40
-21;Deluxe Suites Downtown Montreal;11;60.2;1058.3;337.83
-22;Auberge L'Apero;11;57.1;1304.4;67.58
-23;Auberge L'Apero;14;70.0;1415.9;115.08
-24;Hôtel Place d'Armes Old Montreal;13;68.2;1180.1;512.05
-25;Hotel Gite du Survenant Montreal;11;57.7;1017.5;288.43
-26;Samesun Montreal Central;7;39.9;765.3;107.98
-27;Hôtel Place d'Armes Old Montreal;10;54.5;974.1;440.78
-28;Hotel Casa Bella;14;68.4;1288.5;246.53
-29;Auberge L'Apero;6;35.0;737.8;64.03
-30;Auberge L'Apero;8;43.5;835.3;68.63
-31;Hôtel Place d'Armes Old Montreal;13;67.7;1218.3;463.65
-32;Hôtel Place d'Armes Old Montreal;9;49.6;875.5;436.93
-33;Auberge L'Apero;8;44.9;889.5;78.92
-34;Auberge L'Apero;7;38.3;769.5;58.83
-35;Auberge L'Apero;14;69.6;1373.0;121.78
-36;Cjour Apartments;12;62.8;1178.0;201.28
-37;Hôtel Place d'Armes Old Montreal;9;49.6;788.0;475.00
-38;Auberge L'Apero;10;52.9;985.1;76.17
-39;Hôtel Place d'Armes Old Montreal;11;58.5;1050.9;455.55
-40;Hotel Casa Bella;14;68.4;1288.5;246.53
-41;Hôtel Place d'Armes Old Montreal;14;72.4;1320.4;489.65
-42;Auberge L'Apero;11;56.7;1395.4;53.25
-43;Auberge L'Apero;6;35.2;836.7;35.60
-44;Hotel Gite du Survenant Montreal;11;57.7;1017.5;288.43
-45;Auberge L'Apero;13;66.2;1262.4;110.47
-46;Auberge L'Apero;12;61.9;1191.7;114.17
-47;Deluxe Suites Downtown Montreal;11;60.2;1058.3;337.83
-48;Hôtel Place d'Armes Old Montreal;11;58.4;1029.1;455.55
-49;Auberge L'Apero;12;61.4;1115.7;100.83
-50;Auberge L'Apero;11;56.4;1055.5;98.22
-51;Auberge L'Apero;6;35.0;803.1;46.00
-52;Best Western Plus Hotel Montreal;12;62.7;1110.6;348.92
-53;Samesun Montreal Central;11;58.0;1104.6;135.20
-54;Auberge L'Apero;10;52.7;891.0;84.67
-55;Hôtel Place d'Armes Old Montreal;13;68.5;1311.4;478.03
-56;Auberge L'Apero;8;43.7;922.9;60.82
-57;Hôtel Place d'Armes Old Montreal;12;63.3;1137.3;486.47
-58;Samesun Montreal Central;7;39.6;746.4;133.98
-59;Auberge L'Apero;13;66.2;1183.7;143.82
-60;Hôtel Place d'Armes Old Montreal;9;50.1;833.6;444.40
+1;Alternative Hostel of Old Montreal;8;44.5;1090.0;35.75
+2;Samesun Montreal Central;4;25.8;540.0;93.32
+3;Alternative Hostel of Old Montreal;13;65.8;1188.3;127.87
+4;Hotel William Gray;13;67.2;1395.6;589.98
+5;Auberge Manoir Ville-Marie;7;38.0;760.4;219.47
+6;Hotel Gault;10;53.6;1040.5;554.33
+7;Ruby Foo's;8;42.4;860.5;370.12
+8;Residence Inn Montreal Downtown;9;47.6;940.9;443.75
+9;Samesun Montreal Central;5;30.1;637.9;107.32
+10;Hotel Gite du Survenant Montreal;12;61.6;1182.2;271.58
+11;Hotel Gault;8;44.7;880.7;563.60
+12;Alternative Hostel of Old Montreal;11;57.6;1313.8;63.98
+13;Samesun Montreal Central;5;30.5;711.2;107.32
+14;Hotel Gite du Survenant Montreal;13;66.2;1291.2;271.58
+15;Hotel Gite du Survenant Montreal;11;58.8;1129.0;235.98
+16;Alternative Hostel of Old Montreal;10;53.1;1079.2;133.57
+17;Alternative Hostel of Old Montreal;6;35.6;984.7;65.95
+18;Alternative Hostel of Old Montreal;7;39.8;1050.7;65.08
+19;Hygie Boutique Hotel;10;47.2;1011.3;159.95
+20;Alternative Hostel of Old Montreal;9;49.3;1014.6;101.78
+21;Alternative Hostel of Old Montreal;12;61.5;1351.6;86.38
+22;Auberge Manoir Ville-Marie;10;50.5;1074.3;261.10
+23;Samesun Montreal Central;5;30.5;847.7;91.55
+24;Alternative Hostel of Old Montreal;6;35.6;984.7;65.95
+25;Hotel Gault;9;49.2;903.5;577.60
+26;Alternative Hostel of Old Montreal;11;56.4;1242.3;87.73
+27;Hotel Gault;12;61.5;1048.1;578.93
+28;Alternative Hostel of Old Montreal;13;65.8;1204.5;111.98
+29;Alternative Hostel of Old Montreal;10;52.8;1302.3;51.08
+30;Residence Inn Montreal Downtown;8;43.3;853.2;406.55
+31;Samesun Montreal Central;6;34.7;863.5;94.82
+32;Auberge Manoir Ville-Marie;9;46.7;914.9;247.02
+33;Hotel Gite du Survenant Montreal;10;54.3;1108.4;239.55
+34;Samesun Montreal Central;5;30.5;805.2;119.48
+35;Samesun Montreal Central;5;30.1;637.9;107.32
+36;Samesun Montreal Central;6;34.8;717.1;123.88
+37;Alternative Hostel of Old Montreal;7;40.3;1006.8;89.93
+38;Ruby Foo's;8;42.4;860.5;370.12
+39;Comfort Suites Downtown;10;49.0;1049.7;407.92
+40;Hotel Gite du Survenant Montreal;11;58.8;1129.0;235.98

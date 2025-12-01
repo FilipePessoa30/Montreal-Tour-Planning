@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;7;38.9;1124.2;30.83
-2;Auberge du Plateau;13;66.5;1319.4;145.82
-3;Auberge du Plateau;13;66.6;1420.9;189.83
-4;Hyatt Centric Montreal;4;26.3;383.8;595.60
-5;Hotel William Gray;13;67.2;1300.0;619.57
-6;The Ritz-Carlton, Montreal;9;49.7;854.5;1119.22
-7;The Ritz-Carlton, Montreal;10;54.3;977.4;1091.62
-8;Hôtel Saint-Sulpice;8;44.2;717.2;633.98
-9;Auberge L'Apero;13;65.4;1211.0;169.52
-10;Delta Hotels by Marriott Montreal;10;52.2;944.2;436.65
-11;Hôtel Saint-Sulpice;6;36.3;672.6;554.02
-12;Auberge L'Apero;9;47.9;1331.6;47.45
-13;Hôtel Saint-Sulpice;6;36.3;672.6;554.02
-14;Hotel Kutuma;5;31.0;457.5;420.10
-15;Hotel Omni Mont-Royal;8;43.6;937.4;307.62
-16;Auberge L'Apero;12;61.5;1291.1;156.27
-17;Auberge du Plateau;11;58.0;1069.4;156.52
-18;Hotel Gault;4;26.7;415.6;546.27
-19;Auberge L'Apero;12;60.2;1247.5;103.20
-20;Auberge L'Apero;11;56.6;1143.2;99.18
-21;Hôtel Saint-Sulpice;7;40.3;748.6;587.28
-22;Hotel Kutuma;5;31.0;457.5;420.10
-23;Hôtel Saint-Sulpice;7;40.3;747.9;598.00
-24;Auberge L'Apero;8;43.4;1209.0;31.98
-25;Hyatt Centric Montreal;4;26.3;383.8;595.60
-26;Radisson Hotel Montreal Airport;11;54.9;1024.5;285.57
-27;Days Inn By Wyndham Montreal East;13;63.4;1203.9;297.70
-28;Empire Suites;6;30.3;676.8;244.38
-29;Hotel Gault;5;31.5;579.7;531.25
-30;Cjour Apartments;7;38.3;746.1;170.13
-31;Sonder Maisonneuve;8;45.1;908.7;338.90
-32;Sonder Maisonneuve;7;40.5;820.3;332.47
-33;Cjour Apartments;9;48.2;953.0;221.85
-34;Residence Inn Montreal Airport;13;66.8;1354.3;382.45
-35;Auberge L'Apero;6;33.4;772.6;129.09
-36;Hôtel Saint-Sulpice;6;35.5;557.2;615.52
-37;Hotel Kutuma;9;49.0;868.5;448.35
-38;Best Western Plus Hotel Montreal;9;48.0;805.0;371.23
-39;Hotel Kutuma;4;26.5;473.4;404.48
-40;Auberge L'Apero;9;47.0;1049.7;74.57
-41;Auberge L'Apero;10;51.6;1096.8;107.13
-42;Auberge L'Apero;8;42.8;825.4;108.78
-43;Auberge L'Apero;6;34.6;874.2;78.98
-44;Hotel Kutuma;11;58.9;1066.0;480.80
-45;Samesun Montreal Central;5;30.6;511.6;127.83
-46;Auberge du Plateau;13;66.6;1391.8;204.90
-47;Auberge L'Apero;10;52.1;998.3;110.70
-48;Hotel Omni Mont-Royal;6;35.1;626.0;320.45
-49;Auberge L'Apero;8;42.8;1179.4;49.18
-50;Hotel Kutuma;10;54.6;1014.4;472.02
-51;Humaniti Hotel Montreal Autograph Collection;6;35.1;612.0;507.62
-52;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;5;31.3;512.5;583.18
-53;Hyatt Centric Montreal;7;39.9;689.7;584.13
-54;Hotel William Gray;11;57.4;1052.3;610.22
-55;Auberge du Plateau;12;62.1;1228.7;159.42
-56;Empire Suites;6;30.3;676.8;244.38
-57;Auberge L'Apero;6;33.9;837.5;74.57
-58;Hotel Gault;8;44.4;781.6;576.07
-59;Best Western Plus Hotel Montreal;6;34.5;609.6;303.80
-60;Hôtel Saint-Sulpice;6;35.8;582.0;580.12
+1;Alternative Hostel of Old Montreal;10;53.1;1148.9;35.75
+2;Auberge L'Apero;4;25.0;462.3;35.78
+3;Alternative Hostel of Old Montreal;12;62.9;1381.7;84.28
+4;Alternative Hostel of Old Montreal;14;69.8;1346.8;197.54
+5;Hôtel Ac Montréal Centre-ville;14;68.6;1292.1;550.04
+6;Hotel Zero 1;11;55.7;1065.8;364.28
+7;L'Appartement Hotel;9;47.8;872.3;293.50
+8;Auberge L'Apero;5;29.3;641.2;59.18
+9;Hôtel Le Germain Montréal;10;53.3;992.5;440.60
+10;Hotel Terrasse Royale;8;44.3;852.1;243.75
+11;Auberge L'Apero;5;29.3;641.2;59.18
+12;Alternative Hostel of Old Montreal;7;38.0;682.0;116.25
+13;Alternative Hostel of Old Montreal;9;50.3;1121.1;63.43
+14;Alternative Hostel of Old Montreal;13;67.5;1250.7;126.43
+15;Auberge L'Apero;6;34.1;560.4;70.97
+16;Hotel Terrasse Royale;8;44.3;852.1;243.75
+17;Alternative Hostel of Old Montreal;7;38.9;700.2;103.43
+18;Hôtel Le Germain Montréal;11;57.8;1018.9;389.83
+19;Alternative Hostel of Old Montreal;14;69.8;1349.0;193.60
+20;Auberge L'Apero;6;34.1;560.4;70.97
+21;Alternative Hostel of Old Montreal;13;66.6;1258.9;116.98
+22;Alternative Hostel of Old Montreal;11;58.4;1227.2;51.75
+23;Alternative Hostel of Old Montreal;12;63.3;1156.5;142.93
+24;Auberge L'Apero;6;33.7;763.7;60.22
+25;Alternative Hostel of Old Montreal;12;62.9;1381.7;84.28
+26;Alternative Hostel of Old Montreal;10;53.4;1178.1;35.75
+27;Hôtel Spa Carré St-louis;9;46.8;906.0;276.38
+28;Alternative Hostel of Old Montreal;10;52.3;981.6;93.27
+29;Alternative Hostel of Old Montreal;14;69.8;1331.5;200.87
+30;Alternative Hostel of Old Montreal;12;61.6;1180.9;92.03
+31;Alternative Hostel of Old Montreal;8;43.5;812.0;117.67
+32;Alternative Hostel of Old Montreal;8;42.0;744.9;116.25
+33;Hôtel Le Germain Montréal;10;53.3;1012.2;439.93
+34;Auberge L'Apero;6;33.7;763.7;60.22
+35;Alternative Hostel of Old Montreal;11;56.6;1095.2;160.07
+36;Alternative Hostel of Old Montreal;7;40.7;843.1;48.63
+37;Hôtel Le Germain Montréal;11;58.4;1067.0;383.68
+38;Alternative Hostel of Old Montreal;9;49.4;917.7;99.05
+39;Auberge L'Apero;9;47.0;930.5;64.90
+40;Alternative Hostel of Old Montreal;7;39.4;824.0;77.27

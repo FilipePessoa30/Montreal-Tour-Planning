@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Alternative Hostel of Old Montreal;6;36.0;948.8;35.75
-2;Alternative Hostel of Old Montreal;13;67.1;1419.4;113.48
-3;Lelux Hotel;3;15.8;528.5;263.75
-4;Auberge Manoir Ville-Marie;14;68.2;1343.3;343.94
-5;InterContinental Montreal, an IHG hotel;14;69.2;1340.8;538.75
-6;Lelux Hotel;4;21.7;541.2;289.75
-7;Alternative Hostel of Old Montreal;5;30.6;701.6;77.95
-8;InterContinental Montreal, an IHG hotel;13;65.8;1164.2;470.10
-9;Alternative Hostel of Old Montreal;12;61.3;1091.7;144.15
-10;Lelux Hotel;12;56.1;1091.4;363.84
-11;Hotel Casa Bella;7;36.9;609.5;159.18
-12;Alternative Hostel of Old Montreal;7;40.5;1081.8;35.75
-13;InterContinental Montreal, an IHG hotel;14;69.2;1340.8;538.75
-14;Hotel Chez Swann;11;57.2;977.6;460.00
-15;Alternative Hostel of Old Montreal;11;59.1;1163.6;78.37
-16;InterContinental Montreal, an IHG hotel;10;52.7;880.7;427.45
-17;Auberge Manoir Ville-Marie;3;19.6;588.0;206.75
-18;Alternative Hostel of Old Montreal;10;53.9;1192.6;49.75
-19;Hotel Chez Swann;9;48.2;828.5;447.55
-20;Hotel Casa Bella;9;45.7;879.1;214.45
-21;Auberge Manoir Ville-Marie;14;68.2;1343.3;343.94
-22;Alternative Hostel of Old Montreal;6;34.9;872.5;89.75
-23;Hotel Arena Palace Montreal;10;50.2;903.9;178.70
-24;Alternative Hostel of Old Montreal;5;32.7;885.6;42.77
-25;Alternative Hostel of Old Montreal;7;38.4;711.4;114.20
-26;Hotel Chez Swann;9;48.2;828.5;447.55
-27;Alternative Hostel of Old Montreal;9;49.5;1025.3;73.50
-28;Alternative Hostel of Old Montreal;13;65.9;1243.8;144.15
-29;Alternative Hostel of Old Montreal;12;63.2;1317.8;68.75
-30;Alternative Hostel of Old Montreal;13;67.1;1419.4;113.48
-31;Alternative Hostel of Old Montreal;7;38.4;717.4;113.34
-32;Hotel Arena Palace Montreal;10;50.2;903.9;178.70
-33;Hotel Casa Bella;8;41.4;782.3;173.18
-34;Lelux Hotel;9;43.4;822.3;265.15
-35;Alternative Hostel of Old Montreal;6;34.7;797.8;106.37
-36;Alternative Hostel of Old Montreal;13;66.6;1276.4;206.25
-37;Alternative Hostel of Old Montreal;8;45.4;1198.9;42.77
-38;Alternative Hostel of Old Montreal;8;45.4;951.4;65.23
-39;Alternative Hostel of Old Montreal;8;45.4;1002.3;49.75
-40;Alternative Hostel of Old Montreal;13;65.4;1129.7;144.15
-41;Alternative Hostel of Old Montreal;10;54.6;1106.2;70.93
-42;Lelux Hotel;9;43.2;811.6;318.97
-43;Lelux Hotel;12;56.1;1091.4;363.84
-44;Alternative Hostel of Old Montreal;13;66.8;1355.3;77.90
-45;Alternative Hostel of Old Montreal;10;53.4;990.4;115.67
-46;Alternative Hostel of Old Montreal;11;57.5;1396.2;61.75
-47;Alternative Hostel of Old Montreal;9;47.8;900.6;90.38
-48;Hotel Gite du Survenant Montreal;10;53.7;971.5;315.47
-49;Hotel Chez Swann;10;52.9;969.6;430.87
-50;Lelux Hotel;3;16.4;586.7;263.75
-51;Auberge Manoir Ville-Marie;3;19.6;588.0;206.75
-52;Lelux Hotel;3;16.4;586.7;263.75
-53;Alternative Hostel of Old Montreal;9;48.4;881.5;92.97
-54;Alternative Hostel of Old Montreal;5;32.7;885.6;42.77
-55;Alternative Hostel of Old Montreal;12;63.2;1125.5;89.75
-56;Hotel Casa Bella;8;41.4;782.3;173.18
-57;Alternative Hostel of Old Montreal;11;58.6;1002.5;89.75
-58;Alternative Hostel of Old Montreal;5;30.6;701.6;77.95
-59;Alternative Hostel of Old Montreal;13;66.6;1276.4;206.25
-60;Alternative Hostel of Old Montreal;11;57.5;1396.2;61.75
+1;Auberge L'Apero;7;40.2;962.2;51.63
+2;Auberge L'Apero;10;53.4;1393.0;66.83
+3;Cjour Apartments;4;25.8;672.7;109.00
+4;Hotel Nelligan;13;68.6;1384.4;569.95
+5;Hotel Nelligan;12;64.0;1226.4;604.18
+6;Cjour Apartments;5;29.6;711.2;109.00
+7;Econo Lodge;11;56.1;1191.4;320.77
+8;Hotel Kutuma;8;45.1;869.6;435.43
+9;Auberge L'Apero;6;35.6;946.6;51.87
+10;L'Appartement Hotel;10;53.9;1171.5;260.25
+11;Hotel Nelligan;13;67.4;1335.0;564.27
+12;Auberge L'Apero;7;40.4;1005.0;58.77
+13;Cjour Apartments;5;30.6;825.7;142.98
+14;Auberge L'Apero;9;49.4;1024.2;80.32
+15;Cjour Apartments;5;30.0;749.0;132.75
+16;Hotel Nelligan;12;63.8;1235.2;594.99
+17;Le St-Martin Hotel Particulier Montreal;8;44.7;858.1;354.82
+18;Hotel De Paris;6;34.1;776.4;281.02
+19;Le Centre Sheraton Montreal Hotel;11;57.8;1099.1;503.10
+20;Le Centre Sheraton Montreal Hotel;10;52.5;1083.8;526.95
+21;Hotel Le Cantlie Suites;13;64.1;1368.2;405.57
+22;Auberge L'Apero;8;43.5;1083.1;72.05
+23;Auberge L'Apero;10;53.8;1255.4;84.03
+24;Hotel Nelligan;10;55.4;1041.9;555.14
+25;Econo Lodge;7;38.1;718.4;285.33
+26;Cjour Apartments;12;62.4;1267.8;186.92
+27;Le Centre Sheraton Montreal Hotel;11;57.8;1099.1;503.10
+28;Cjour Apartments;12;62.4;1267.8;186.92
+29;Auberge L'Apero;9;49.4;1024.2;80.32
+30;Hotel De Paris;6;34.1;776.4;281.02
+31;Hotel Kutuma;8;45.1;905.8;426.88
+32;Le St-Martin Hotel Particulier Montreal;12;62.4;1286.8;387.68
+33;Hotel Universel Montreal;12;61.2;1264.2;342.61
+34;Hotel Nelligan;11;59.8;1247.5;509.93
+35;Cjour Apartments;7;39.3;838.3;175.55
+36;Auberge L'Apero;11;58.2;1202.7;99.10
+37;Hotel De Paris;9;47.4;971.2;295.28
+38;InterContinental Montreal, an IHG hotel;12;62.7;1310.5;406.05
+39;Le St-Martin Hotel Particulier Montreal;11;58.1;1120.4;352.43
+40;Hotel De Paris;9;47.4;971.2;295.28

@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;8;44.4;1186.5;32.17
-2;Auberge L'Apero;3;21.9;479.1;62.87
-3;Comfort Suites Downtown;14;69.8;1299.4;388.67
-4;Renaissance Montreal Downtown Hotel;14;71.7;1393.6;860.85
-5;The Ritz-Carlton, Montreal;6;36.0;566.4;1080.63
-6;Renaissance Montreal Downtown Hotel;14;71.7;1393.6;860.85
-7;The Ritz-Carlton, Montreal;7;40.6;693.6;1079.78
-8;Le Petit Hotel Vieux-Montréal | Saint-Paul;12;63.6;1077.3;570.23
-9;Le Petit Hotel Vieux-Montréal | Saint-Paul;11;59.0;940.9;530.73
-10;Hotel le Coach;13;67.4;1157.9;299.73
-11;LHotel;6;35.2;566.4;415.38
-12;Auberge L'Apero;4;26.9;608.8;40.47
-13;Auberge Du Vieux Port;9;49.9;837.4;514.63
-14;Auberge L'Apero;5;31.0;709.7;47.33
-15;Auberge L'Apero;4;26.9;571.5;70.52
-16;Auberge L'Apero;5;31.0;730.9;40.47
-17;Auberge Du Vieux Port;12;63.9;1127.3;567.37
-18;Hôtel Le Germain Montréal;8;44.7;773.9;365.65
-19;Auberge L'Apero;7;39.8;987.9;45.97
-20;Auberge L'Apero;9;48.4;794.2;132.21
-21;Le Petit Hotel Vieux-Montréal | Saint-Paul;10;54.1;842.0;530.73
-22;Auberge L'Apero;8;44.4;1186.5;32.17
-23;Auberge L'Apero;13;67.0;1354.3;145.85
-24;Auberge L'Apero;6;34.6;643.8;68.59
-25;Auberge L'Apero;11;57.5;1101.3;111.48
-26;Auberge L'Apero;6;35.2;756.0;54.25
-27;Auberge L'Apero;8;43.4;1010.4;57.33
-28;Auberge L'Apero;12;61.7;1161.4;101.28
-29;Auberge L'Apero;10;52.9;1070.4;70.40
-30;LHotel;8;44.0;766.5;424.38
-31;Auberge L'Apero;12;62.2;946.8;155.83
-32;Auberge L'Apero;13;66.9;1312.1;189.70
-33;Auberge L'Apero;9;48.4;794.2;132.21
-34;Hotel Gite du Survenant Montreal;12;63.8;1127.1;277.30
-35;Auberge L'Apero;11;57.2;1146.5;84.40
-36;Auberge L'Apero;13;66.4;1141.3;139.63
-37;Auberge L'Apero;8;43.7;1048.9;52.53
-38;Auberge L'Apero;10;52.7;862.7;151.45
-39;Auberge L'Apero;13;66.8;1286.7;212.43
-40;Auberge L'Apero;13;66.7;1249.0;154.20
-41;Hotel le Coach;12;62.9;1086.8;278.64
-42;Auberge L'Apero;11;57.6;894.8;128.22
-43;Auberge L'Apero;7;38.9;608.6;132.27
-44;Auberge L'Apero;12;61.3;1148.2;116.72
-45;Auberge L'Apero;7;38.5;669.6;112.76
-46;Auberge L'Apero;13;66.8;1286.7;212.43
-47;Auberge L'Apero;8;44.2;808.5;96.37
-48;Auberge L'Apero;9;48.8;857.7;131.73
-49;Auberge L'Apero;10;53.3;886.2;93.89
-50;Auberge L'Apero;13;66.8;1345.8;131.95
-51;Auberge L'Apero;6;35.8;671.0;73.20
-52;Samesun Montreal Central;6;35.6;667.0;123.05
-53;Auberge L'Apero;13;66.7;1249.0;154.20
-54;Auberge L'Apero;4;26.9;571.5;70.52
-55;Auberge L'Apero;11;57.9;1071.6;146.00
-56;Auberge L'Apero;12;61.7;1180.3;123.60
-57;Auberge L'Apero;9;48.4;846.7;107.18
-58;Auberge L'Apero;7;40.2;873.7;56.00
-59;Auberge L'Apero;5;31.0;730.9;40.47
-60;Alternative Hostel of Old Montreal;10;53.7;872.2;123.52
+1;Auberge L'Apero;6;34.7;883.0;39.61
+2;Le St-Martin Hotel Particulier Montreal;3;22.5;523.0;265.75
+3;Hotel le Coach;13;66.6;1434.1;332.50
+4;Hotel Universel Montreal;13;65.1;1348.5;436.40
+5;Hotel Gault;11;58.2;1006.6;633.55
+6;Le St-Martin Hotel Particulier Montreal;4;27.2;556.4;291.75
+7;Hôtel De L'ithq;12;62.4;1095.1;462.56
+8;Auberge St Jacques;4;25.6;575.7;163.25
+9;Auberge L'Apero;10;50.7;1239.4;97.14
+10;Auberge L'Apero;7;39.4;804.4;53.47
+11;St Paul Hotel;13;65.9;1404.4;505.97
+12;Auberge L'Apero;5;30.6;601.9;63.58
+13;Delta Hotels by Marriott Montreal;9;47.1;937.0;404.05
+14;Hygie Boutique Hotel;8;39.3;893.1;145.58
+15;Hotel Gault;10;54.0;1030.1;593.87
+16;Delta Hotels by Marriott Montreal;9;48.0;966.4;397.39
+17;Auberge L'Apero;11;55.9;1088.6;167.67
+18;Deluxe Suites Downtown Montreal;8;46.1;760.7;339.03
+19;Hotel Gault;10;54.0;980.0;616.95
+20;Auberge L'Apero;11;57.1;1236.3;125.42
+21;Deluxe Suites Downtown Montreal;5;31.8;576.7;316.18
+22;Hotel Casa Bella;12;59.4;1189.6;267.62
+23;Hotel Gite du Survenant Montreal;5;32.1;720.3;241.29
+24;Le St-Martin Hotel Particulier Montreal;7;40.5;675.1;350.81
+25;Auberge L'Apero;7;39.5;943.9;76.58
+26;Residence Inn Montreal Downtown;10;52.9;945.7;494.93
+27;Hotel Gite du Survenant Montreal;8;45.1;1025.5;257.50
+28;Delta Hotels by Marriott Montreal;12;60.1;1264.2;430.11
+29;Hotel Casa Bella;8;41.5;920.7;198.57
+30;Auberge St Jacques;12;60.2;1325.6;286.42
+31;Hotel Faubourg Montreal;11;55.1;1064.3;393.41
+32;Auberge St Jacques;7;39.2;776.7;199.05
+33;Hotel Gault;11;58.2;1036.5;625.52
+34;Delta Hotels by Marriott Montreal;11;56.0;1134.7;431.56
+35;Auberge L'Apero;6;34.7;883.0;39.61
+36;Deluxe Suites Downtown Montreal;6;36.7;743.6;284.03
+37;Alt Hotel Montreal;5;31.9;669.7;305.25
+38;Auberge L'Apero;5;30.6;601.9;63.58
+39;Hotel Casa Bella;13;63.7;1421.8;279.25
+40;Hotel Casa Bella;11;54.5;1075.5;226.27

@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Alternative Hostel of Old Montreal;6;35.9;764.2;35.75
-2;Alternative Hostel of Old Montreal;12;61.1;1381.5;40.67
-3;Alternative Hostel of Old Montreal;5;30.7;566.5;75.57
-4;Deluxe Suites Downtown Montreal;15;77.0;1363.4;348.18
-5;Deluxe Suites Downtown Montreal;15;76.9;1304.0;355.28
-6;The Ritz-Carlton, Montreal;7;39.8;711.2;1061.28
-7;Four Seasons Hotel Montreal;9;48.7;817.2;905.82
-8;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;10;53.4;893.5;640.92
-9;Alternative Hostel of Old Montreal;5;30.7;566.5;75.57
-10;Empire Suites;8;38.8;769.6;291.95
-11;Auberge St Jacques;15;74.2;1354.8;262.28
-12;Alternative Hostel of Old Montreal;8;44.3;778.7;55.98
-13;Alternative Hostel of Old Montreal;10;53.7;992.9;152.83
-14;Deluxe Suites Downtown Montreal;14;72.8;1186.6;348.18
-15;Alternative Hostel of Old Montreal;9;49.4;912.7;56.65
-16;Alternative Hostel of Old Montreal;13;66.8;1259.3;72.85
-17;Alternative Hostel of Old Montreal;6;35.9;764.2;35.75
-18;Hotel Monville;6;34.9;605.7;322.25
-19;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;7;39.6;676.2;592.20
-20;Fairmont The Queen Elizabeth;10;53.3;930.7;552.33
-21;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;7;39.6;676.2;592.20
-22;Deluxe Suites Downtown Montreal;12;62.8;1059.3;412.97
-23;Alternative Hostel of Old Montreal;12;61.7;1219.1;111.28
-24;Alternative Hostel of Old Montreal;14;72.3;1323.5;134.72
-25;Alternative Hostel of Old Montreal;13;66.7;1225.3;127.37
-26;Alternative Hostel of Old Montreal;11;58.0;1076.6;120.48
-27;Alternative Hostel of Old Montreal;7;40.5;819.2;49.75
-28;Alternative Hostel of Old Montreal;11;58.0;1076.6;120.48
-29;Alternative Hostel of Old Montreal;6;35.3;661.3;65.98
-30;Alternative Hostel of Old Montreal;10;52.7;946.7;81.78
-31;Alternative Hostel of Old Montreal;9;48.4;836.3;132.88
-32;Hotel Monville;13;66.5;1154.8;383.62
-33;Deluxe Suites Downtown Montreal;12;62.8;1059.3;412.97
-34;Deluxe Suites Downtown Montreal;15;77.0;1363.4;348.18
-35;Alternative Hostel of Old Montreal;11;57.2;1134.6;42.65
-36;Alternative Hostel of Old Montreal;8;44.8;861.2;89.57
-37;Alternative Hostel of Old Montreal;14;70.3;1334.0;104.07
-38;Hotel Monville;6;34.9;605.7;322.25
-39;Alternative Hostel of Old Montreal;13;67.1;1180.3;178.83
-40;Alternative Hostel of Old Montreal;10;54.4;1199.6;40.55
-41;Alternative Hostel of Old Montreal;8;45.3;933.0;35.75
-42;Alternative Hostel of Old Montreal;11;59.1;1118.5;57.75
-43;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;9;48.4;814.2;637.43
-44;Alternative Hostel of Old Montreal;9;50.1;1116.0;35.75
-45;Hotel Kutuma;10;53.2;972.2;399.78
-46;Alternative Hostel of Old Montreal;7;39.0;744.2;86.55
-47;Deluxe Suites Downtown Montreal;12;63.6;1108.2;379.15
-48;Alternative Hostel of Old Montreal;10;54.3;1302.9;35.75
-49;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;10;54.1;990.1;554.57
-50;Auberge du Plateau;8;44.3;786.6;105.32
-51;Alternative Hostel of Old Montreal;13;67.6;1303.9;133.62
-52;Alternative Hostel of Old Montreal;11;58.3;1246.5;40.67
-53;Alternative Hostel of Old Montreal;13;66.8;1160.3;164.25
-54;Alternative Hostel of Old Montreal;12;61.9;1341.7;43.75
-55;Hotel Monville;7;39.0;685.4;351.53
-56;Alternative Hostel of Old Montreal;11;57.7;1097.9;104.87
-57;Alternative Hostel of Old Montreal;14;71.3;1320.8;132.85
-58;Alternative Hostel of Old Montreal;12;61.2;1175.7;147.00
-59;Alternative Hostel of Old Montreal;14;71.3;1253.6;135.52
-60;Deluxe Suites Downtown Montreal;12;63.6;1108.2;379.15
+1;Auberge L'Apero;7;39.5;945.1;39.25
+2;Auberge L'Apero;12;62.6;1395.3;114.45
+3;Le St-Martin Hotel Particulier Montreal;13;68.3;1287.8;357.02
+4;Courtyard Montreal Downtown;13;67.6;1251.2;451.30
+5;Hotel Nelligan;7;40.2;709.3;494.93
+6;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;12;63.3;1169.6;623.35
+7;Auberge L'Apero;13;66.2;1346.5;164.13
+8;Hygie Boutique Hotel;9;43.1;913.0;130.12
+9;Hotel Gite du Survenant Montreal;10;53.7;1083.0;233.50
+10;Courtyard Montreal Downtown;11;59.0;1095.3;401.78
+11;Deluxe Suites Downtown Montreal;8;45.5;849.5;257.25
+12;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;12;63.9;1246.0;603.85
+13;Hotel Nelligan;9;49.9;970.6;508.20
+14;Le St-Martin Hotel Particulier Montreal;10;53.6;1012.9;313.02
+15;Hotel William Gray;11;59.1;1135.9;547.75
+16;Auberge L'Apero;8;43.5;986.6;39.25
+17;Auberge L'Apero;8;43.5;986.6;39.25
+18;Auberge L'Apero;10;52.5;1217.9;56.83
+19;Hotel William Gray;11;59.4;1033.3;579.43
+20;Hotel Saint-Laurent Montreal;9;47.3;914.4;366.13
+21;Auberge L'Apero;8;43.6;821.6;47.60
+22;Auberge L'Apero;12;62.5;1324.6;62.37
+23;Hotel Omni Mont-Royal;12;63.0;1299.1;330.53
+24;Courtyard Montreal Downtown;13;67.6;1251.2;451.30
+25;Auberge L'Apero;9;48.1;1097.7;87.10
+26;Hotel Nelligan;9;49.9;994.5;486.75
+27;Le St-Martin Hotel Particulier Montreal;10;54.0;1056.1;297.78
+28;Hotel Nelligan;12;63.6;1180.8;585.12
+29;Hotel Nelligan;9;48.9;928.5;526.50
+30;Auberge L'Apero;12;62.8;1271.8;135.87
+31;Hotel William Gray;9;51.0;968.5;553.67
+32;Hotel William Gray;10;54.4;1063.9;542.53
+33;Auberge L'Apero;11;57.2;1236.1;65.00
+34;Hotel William Gray;9;50.3;1003.4;524.00
+35;Hotel William Gray;10;54.9;1037.5;558.12
+36;Hotel William Gray;10;55.2;1047.1;553.67
+37;Courtyard Montreal Downtown;10;54.0;1024.3;401.78
+38;Ambrose House & Café;9;48.4;955.9;244.25
+39;Sonder Maisonneuve;8;44.9;947.9;255.00
+40;Auberge L'Apero;11;57.2;1236.1;65.00

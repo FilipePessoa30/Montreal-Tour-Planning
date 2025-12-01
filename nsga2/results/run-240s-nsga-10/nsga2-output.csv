@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;8;43.9;862.8;25.25
-2;Auberge L'Apero;8;44.7;752.5;30.67
-3;Auberge L'Apero;13;66.1;1359.8;67.14
-4;Auberge L'Apero;13;67.1;1378.4;112.40
-5;Hotel Nelligan;13;67.9;1336.6;520.73
-6;Hôtel Saint-Sulpice;8;45.9;755.7;521.82
-7;Sofitel Montreal Golden Mile;13;66.9;1282.7;615.49
-8;Samesun Montreal Central;12;63.1;1224.2;118.85
-9;Le Westin Montreal;10;53.7;964.0;300.60
-10;Warwick Le Crystal - Montréal;9;50.8;793.8;435.48
-11;Auberge L'Apero;9;49.2;791.2;59.25
-12;Auberge L'Apero;11;56.4;1126.6;45.00
-13;Auberge L'Apero;10;52.8;909.2;25.25
-14;Le Westin Montreal;12;62.8;1192.8;381.35
-15;Auberge L'Apero;11;57.3;989.6;56.23
-16;Auberge L'Apero;9;48.8;832.8;31.98
-17;Hôtel Saint-Sulpice;8;45.9;755.7;521.82
-18;Hôtel Saint-Sulpice;10;54.6;944.8;548.33
-19;Novotel Montreal Centre;10;53.3;898.3;314.23
-20;Auberge L'Apero;11;56.9;1051.4;54.10
-21;Auberge L'Apero;13;65.9;1291.2;82.30
-22;Auberge L'Apero;12;61.5;1265.6;47.20
-23;Hotel Nelligan;12;63.1;1217.3;558.44
-24;Sofitel Montreal Golden Mile;13;66.9;1302.8;604.09
-25;Le Westin Montreal;12;62.7;1173.9;356.42
-26;Hotel Nelligan;11;59.3;1081.7;556.32
-27;Auberge L'Apero;12;60.7;1301.1;32.15
-28;Hôtel Place d'Armes Old Montreal;11;58.6;987.0;462.88
-29;Samesun Montreal Central;12;62.6;1230.9;107.44
-30;Hotel Nelligan;10;54.2;980.6;493.88
-31;Le Westin Montreal;13;67.5;1317.3;356.42
-32;Novotel Montreal Centre;10;53.3;914.2;307.03
-33;Auberge L'Apero;10;52.8;1019.3;30.48
-34;Hotel Nelligan;10;54.2;980.6;493.88
-35;Hotel Nelligan;11;59.3;1081.7;556.32
-36;Auberge L'Apero;11;58.0;1102.7;80.73
-37;Alternative Hostel of Old Montreal;11;58.5;1139.6;89.97
-38;Auberge L'Apero;11;57.8;1150.1;37.70
-39;Le Westin Montreal;12;62.8;1192.8;381.35
-40;Auberge L'Apero;13;66.5;1370.6;64.55
-41;Hôtel Place d'Armes Old Montreal;11;58.6;1008.9;449.32
-42;Auberge L'Apero;12;61.9;1164.0;52.78
-43;Auberge L'Apero;12;62.3;1327.1;46.05
-44;Auberge L'Apero;10;53.6;1202.8;30.83
-45;Auberge L'Apero;13;66.5;1304.0;70.92
-46;Auberge L'Apero;13;66.1;1359.8;67.14
-47;Samesun Montreal Central;11;58.2;1013.9;103.53
-48;Samesun Montreal Central;10;53.0;956.1;111.20
-49;Auberge L'Apero;10;53.7;978.2;89.25
-50;Auberge L'Apero;11;57.9;1089.5;52.78
-51;Samesun Montreal Central;10;53.0;964.1;101.92
-52;Le Westin Montreal;13;67.5;1317.3;356.42
-53;Auberge L'Apero;12;61.0;1297.4;39.07
-54;Auberge L'Apero;11;58.0;1094.8;96.47
-55;Auberge L'Apero;12;62.4;1121.4;112.25
-56;Auberge L'Apero;13;66.6;1229.7;110.80
-57;Auberge L'Apero;12;62.5;1164.0;96.75
-58;Hôtel Place d'Armes Old Montreal;11;58.6;987.0;462.88
-59;Auberge L'Apero;11;57.4;1184.0;35.90
-60;Hotel Nelligan;12;63.0;1196.0;556.77
+1;Alternative Hostel of Old Montreal;7;41.1;1033.8;35.75
+2;Alternative Hostel of Old Montreal;12;63.6;1356.3;64.63
+3;Alternative Hostel of Old Montreal;13;67.9;1340.2;119.23
+4;Hotel Casa Bella;6;32.3;705.0;180.25
+5;Days Inn By Wyndham Montreal East;13;64.9;1251.2;276.15
+6;Econo Lodge;6;33.8;747.6;316.50
+7;Courtyard Montreal Downtown;8;45.7;896.4;408.93
+8;Hotel Arena Palace Montreal;9;46.3;965.3;189.95
+9;Hotel Arena Palace Montreal;10;51.2;1129.2;168.58
+10;Hotel Casa Bella;7;36.9;796.7;222.87
+11;Alternative Hostel of Old Montreal;13;67.9;1340.2;119.23
+12;Alternative Hostel of Old Montreal;10;54.1;1296.8;59.50
+13;Alternative Hostel of Old Montreal;11;59.1;1327.4;52.37
+14;Sonder Maisonneuve;9;49.7;918.4;341.83
+15;Sonder Maisonneuve;12;64.6;1146.5;321.30
+16;Sonder Maisonneuve;8;45.6;736.9;326.37
+17;Hotel Arena Palace Montreal;8;42.0;1043.3;156.82
+18;Fairfield by Marriott Montreal Downtown;11;58.1;1081.2;368.15
+19;Alternative Hostel of Old Montreal;7;41.0;816.0;47.27
+20;Empire Suites;12;58.2;1101.6;302.93
+21;Empire Suites;11;54.0;1037.7;302.93
+22;Sonder Maisonneuve;8;46.3;905.4;277.30
+23;Hotel Arena Palace Montreal;9;46.1;955.2;184.37
+24;Hotel Casa Bella;7;36.9;796.7;222.87
+25;Hotel Arena Palace Montreal;10;50.6;1025.3;213.60
+26;Alternative Hostel of Old Montreal;11;59.4;1292.2;64.63
+27;Fairfield by Marriott Montreal Downtown;10;53.5;1033.8;351.40
+28;Alternative Hostel of Old Montreal;8;45.4;1109.7;35.75
+29;Alternative Hostel of Old Montreal;10;54.6;1226.0;77.75
+30;Econo Lodge;11;56.7;1076.1;317.28
+31;Alternative Hostel of Old Montreal;11;59.2;1177.1;124.80
+32;Alternative Hostel of Old Montreal;12;64.2;1203.3;98.90
+33;Hotel Arena Palace Montreal;9;45.7;1083.1;139.12
+34;Econo Lodge;6;33.8;747.6;316.50
+35;Alternative Hostel of Old Montreal;11;59.1;1284.3;72.90
+36;Alternative Hostel of Old Montreal;10;55.2;1159.4;90.63
+37;Hotel Arena Palace Montreal;8;41.6;997.4;113.08
+38;Sonder Maisonneuve;10;55.3;1053.1;283.05
+39;Sonder Maisonneuve;9;50.2;946.9;326.37
+40;Sonder Maisonneuve;8;45.6;771.5;311.03

@@ -1,61 +1,41 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;8;43.5;738.1;25.25
-2;Auberge L'Apero;11;57.1;1405.3;37.22
-3;Alternative Hostel of Old Montreal;4;26.3;456.8;48.97
-4;Alternative Hostel of Old Montreal;14;71.1;1295.0;106.27
-5;Warwick Le Crystal - Montréal;14;71.7;1342.8;459.90
-6;Hôtel Saint-Sulpice;13;66.8;1191.0;598.48
-7;Hôtel Saint-Sulpice;10;53.5;850.8;554.83
-8;Warwick Le Crystal - Montréal;12;63.4;1127.9;458.67
-9;Alternative Hostel of Old Montreal;5;31.3;517.9;48.97
-10;Alternative Hostel of Old Montreal;5;31.3;517.9;48.97
-11;Auberge L'Apero;7;38.6;645.1;31.10
-12;Quality Inn Centre-Ville;10;51.9;869.6;235.85
-13;Samesun Montreal Central;6;34.9;616.3;89.32
-14;Fairfield by Marriott Montreal Downtown;11;57.3;947.6;332.62
-15;Alternative Hostel of Old Montreal;9;49.0;817.4;77.93
-16;Samesun Montreal Central;6;34.9;600.1;96.33
-17;Alternative Hostel of Old Montreal;7;40.2;632.5;85.13
-18;Auberge L'Apero;13;65.2;1179.4;102.15
-19;Empire Suites;13;60.9;1110.0;298.93
-20;Auberge L'Apero;9;47.9;881.9;42.80
-21;Fairfield by Marriott Montreal Downtown;11;55.1;947.1;396.42
-22;Fairfield by Marriott Montreal Downtown;11;55.1;947.1;396.42
-23;Hôtel Saint-Sulpice;12;62.8;1093.8;593.43
-24;Auberge L'Apero;8;43.1;733.6;49.58
-25;Auberge L'Apero;11;57.1;1405.3;37.22
-26;Alternative Hostel of Old Montreal;13;66.7;1284.6;145.42
-27;Alternative Hostel of Old Montreal;14;71.1;1295.0;106.27
-28;Auberge L'Apero;14;70.0;1383.5;75.37
-29;Alternative Hostel of Old Montreal;13;66.9;1281.4;170.40
-30;Auberge L'Apero;10;53.4;1049.3;68.63
-31;Alternative Hostel of Old Montreal;13;66.9;1284.2;166.87
-32;Alternative Hostel of Old Montreal;9;48.7;802.4;70.82
-33;Auberge L'Apero;9;47.5;1072.2;30.83
-34;Alternative Hostel of Old Montreal;13;66.3;1161.2;111.25
-35;Samesun Montreal Central;6;34.9;600.1;96.33
-36;Empire Suites;13;61.6;1150.3;278.83
-37;Auberge L'Apero;8;43.1;733.6;49.58
-38;Alternative Hostel of Old Montreal;8;45.2;828.7;48.08
-39;Auberge L'Apero;10;51.5;1184.0;31.10
-40;Hôtel Saint-Sulpice;12;62.5;1059.8;584.12
-41;Alternative Hostel of Old Montreal;11;58.6;1127.0;59.63
-42;Alternative Hostel of Old Montreal;7;39.6;680.5;47.72
-43;Auberge L'Apero;8;43.5;738.1;25.25
-44;Alternative Hostel of Old Montreal;14;71.0;1369.8;81.48
-45;Fairfield by Marriott Montreal Downtown;10;52.7;914.0;326.08
-46;Empire Suites;13;61.6;1150.3;278.83
-47;Alternative Hostel of Old Montreal;13;66.3;1261.0;92.15
-48;Alternative Hostel of Old Montreal;11;56.9;986.3;102.97
-49;Alternative Hostel of Old Montreal;11;57.9;1021.5;79.92
-50;Hôtel Saint-Sulpice;10;53.5;850.8;554.83
-51;Auberge L'Apero;7;39.8;703.6;39.30
-52;Alternative Hostel of Old Montreal;8;44.9;697.6;58.88
-53;Samesun Montreal Central;8;43.6;696.0;71.07
-54;Auberge L'Apero;14;70.0;1334.6;88.28
-55;Alternative Hostel of Old Montreal;11;57.5;951.2;108.15
-56;Alternative Hostel of Old Montreal;11;58.4;1118.2;68.32
-57;Auberge L'Apero;11;57.0;1321.2;36.07
-58;Alternative Hostel of Old Montreal;10;53.6;920.5;80.08
-59;Alternative Hostel of Old Montreal;10;52.5;909.3;80.60
-60;Auberge L'Apero;13;65.8;1204.1;94.87
+1;Samesun Montreal Central;3;21.9;706.9;75.50
+2;Hotel Casa Bella;13;62.6;1401.0;288.47
+3;Hotel le Coach;13;66.4;1362.1;308.19
+4;Hôtel Place d'Armes Old Montreal;4;26.8;364.2;445.55
+5;W Montreal;13;67.0;1305.7;653.42
+6;W Montreal;9;48.0;912.0;679.10
+7;Hôtel Place d'Armes Old Montreal;4;26.8;364.2;445.55
+8;Hotel le Coach;11;58.2;1100.3;327.50
+9;Samesun Montreal Central;3;21.9;706.9;75.50
+10;Samesun Montreal Central;4;26.4;498.9;93.42
+11;W Montreal;8;44.2;890.7;556.75
+12;W Montreal;9;48.0;912.0;679.10
+13;Hotel le Coach;10;53.3;1066.5;238.36
+14;Samesun Montreal Central;11;57.2;1201.4;192.38
+15;Griffintown Hotel;7;37.1;702.8;312.35
+16;W Montreal;7;40.2;815.2;582.75
+17;W Montreal;12;62.4;1216.8;639.89
+18;Samesun Montreal Central;5;30.6;843.2;81.07
+19;Griffintown Hotel;12;60.2;1260.7;399.10
+20;Samesun Montreal Central;9;48.6;939.4;209.57
+21;Hotel Casa Bella;11;53.4;1140.6;277.85
+22;Samesun Montreal Central;6;35.4;572.1;161.02
+23;Griffintown Hotel;12;61.4;1283.9;392.02
+24;W Montreal;8;44.4;878.4;582.75
+25;Griffintown Hotel;13;63.6;1291.4;422.94
+26;St Paul Hotel;8;42.8;831.3;480.70
+27;Griffintown Hotel;11;56.4;1095.3;411.10
+28;Samesun Montreal Central;5;31.0;615.3;81.57
+29;W Montreal;10;53.3;1003.9;611.50
+30;Samesun Montreal Central;8;43.8;859.9;143.80
+31;Samesun Montreal Central;5;31.0;615.3;81.57
+32;Samesun Montreal Central;6;34.2;819.4;81.85
+33;Hotel Casa Bella;13;62.6;1401.0;288.47
+34;Le Roberval;10;51.8;987.6;278.28
+35;Samesun Montreal Central;6;35.0;754.0;138.62
+36;St Paul Hotel;8;42.8;831.3;480.70
+37;Samesun Montreal Central;10;53.0;987.9;142.78
+38;Samesun Montreal Central;7;39.8;1043.2;101.18
+39;Hotel le Coach;11;58.1;1264.4;262.36
+40;W Montreal;10;53.2;966.3;563.55
