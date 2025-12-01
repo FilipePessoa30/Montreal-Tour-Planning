@@ -124,12 +124,12 @@ Empirical studies show MOVNS often yields more non-dominated solutions than NSGA
 - `verify_solutions.py` - Solution validation
 - `pareto_visualizer.py` - Pareto front visualization
 
-## Experimentos (30 execuções, tempo fixo 240 s)
+## Experimentos recentes (30 execuções, tempo fixo 240 s)
 
 ### NSGA-II (parâmetros enfraquecidos)
 - Parâmetros: `--population-size 40 --generations 20 --crossover-prob 0.6 --mutation-prob 0.5`
 - Tempo por execução: 240 s
-- Execução 30 vezes (seeds implícitas 1..30 via índice da pasta):
+- Executar 30 vezes (seeds implícitas 1..30 pelo índice da pasta):
 ```powershell
 $time = 240
 $runs = 1..30
@@ -142,7 +142,7 @@ foreach ($r in $runs) {
 ### MOVNS (parâmetros leves)
 - Parâmetros: `--solutions 4 --no-improvement 2 --archive-max 60` (demais padrões; `--iterations` alto, parada por tempo)
 - Tempo por execução: 240 s
-- Execução 30 vezes (seeds implícitas 1..30 via índice da pasta):
+- Executar 30 vezes (seeds implícitas 1..30 pelo índice da pasta):
 ```powershell
 $time = 240
 $runs = 1..30
@@ -159,6 +159,7 @@ python scripts\compare_hv_runs.py --time 240 --runs 30
 ```
 
 ### Resumo obtido (240 s, 30 seeds)
+- Seeds: implícitas 1, 2, 3, ..., 30 (derivadas do índice da execução/pasta).
 - HV: MOVNS venceu 24/30
 - Spread: MOVNS venceu 5/30
 - Pareto size: MOVNS venceu 30/30
