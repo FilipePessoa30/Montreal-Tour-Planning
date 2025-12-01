@@ -65,6 +65,28 @@ def hypervolume(points: Sequence[Sequence[float]]) -> float:
     return hv / len(n)
 
 
+def igd(solutions: Sequence[Sequence[float]], reference: Sequence[Sequence[float]]) -> float:
+    """
+    Inverted Generational Distance: average distance from each ref point to nearest solution.
+    Lower is better for 'solutions' vs 'reference'.
+    """
+    import math
+    if not solutions or not reference:
+        return float("inf")
+    total = 0.0
+    for ref_pt in reference:
+        best = float("inf")
+        for sol in solutions:
+            d = 0.0
+            for a, b in zip(ref_pt, sol):
+                d += (a - b) ** 2
+            d = math.sqrt(d)
+            if d < best:
+                best = d
+        total += best
+    return total / len(reference)
+
+
 def spread(points: Sequence[Sequence[float]]) -> float:
     if len(points) < 2:
         return 1.0
@@ -125,7 +147,7 @@ def epsilon_indicator(points1: Sequence[Sequence[float]], points2: Sequence[Sequ
 
 
 def compare_runs(time_sec: int, runs: int) -> None:
-    wins_hv = wins_spread = wins_pareto = wins_eps = 0
+    wins_hv = wins_spread = wins_pareto = wins_eps = wins_igd = 0
     total = 0
     for k in range(1, runs + 1):
         # NSGA-II paths
@@ -152,6 +174,9 @@ def compare_runs(time_sec: int, runs: int) -> None:
             continue
         hv_nsga = hypervolume(nsga_pts)
         hv_movns = hypervolume(movns_pts)
+        ref = nsga_pts + movns_pts
+        igd_nsga = igd(nsga_pts, ref)
+        igd_movns = igd(movns_pts, ref)
         spread_nsga = spread(nsga_pts)
         spread_movns = spread(movns_pts)
         eps_movns_vs_nsga = epsilon_indicator(nsga_pts, movns_pts)
@@ -168,9 +193,12 @@ def compare_runs(time_sec: int, runs: int) -> None:
             wins_pareto += 1
         if eps_movns_vs_nsga < eps_nsga_vs_movns:
             wins_eps += 1
+        if igd_movns < igd_nsga:
+            wins_igd += 1
 
         print(f"run {k:02d}: "
               f"HV N={hv_nsga:.4f} M={hv_movns:.4f} | "
+              f"IGD N={igd_nsga:.4f} M={igd_movns:.4f} | "
               f"Spread N={spread_nsga:.4f} M={spread_movns:.4f} | "
               f"Pareto N={pareto_nsga} M={pareto_movns} | "
               f"eps(M vs N)={eps_movns_vs_nsga:.4f} eps(N vs M)={eps_nsga_vs_movns:.4f}")
@@ -180,6 +208,7 @@ def compare_runs(time_sec: int, runs: int) -> None:
         return
     print(f"\nResumo {time_sec}s em {total} runs:")
     print(f"  HV: MOVNS venceu {wins_hv}/{total}")
+    print(f"  IGD: MOVNS venceu {wins_igd}/{total} (menor é melhor)")
     print(f"  Spread: MOVNS venceu {wins_spread}/{total}")
     print(f"  Pareto size: MOVNS venceu {wins_pareto}/{total}")
     print(f"  epsilon (menor é melhor): MOVNS venceu {wins_eps}/{total}")
