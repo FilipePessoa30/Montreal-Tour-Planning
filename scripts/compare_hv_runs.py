@@ -15,8 +15,8 @@ import csv
 import os
 from typing import List, Sequence
 
-REF_POINT = [20.0, 100.0, 1500.0, 1000.0]
 MAXIMIZE = [True, True, False, False]
+PADDING = 1.05  # small cushion over observed maxima
 
 
 def load_pareto(path: str) -> List[List[float]]:
@@ -38,11 +38,21 @@ def load_pareto(path: str) -> List[List[float]]:
     return pts
 
 
-def normalize(points: Sequence[Sequence[float]]) -> List[List[float]]:
+def compute_reference_point(points: Sequence[Sequence[float]]) -> List[float]:
+    if not points:
+        return [20.0, 100.0, 1500.0, 1000.0]
+    ref = []
+    for j in range(len(points[0])):
+        max_val = max(p[j] for p in points)
+        ref.append(max_val * PADDING if max_val != 0 else 1.0)
+    return ref
+
+
+def normalize(points: Sequence[Sequence[float]], ref_point: Sequence[float]) -> List[List[float]]:
     norm = []
     for p in points:
         n = []
-        for v, ref, is_max in zip(p, REF_POINT, MAXIMIZE):
+        for v, ref, is_max in zip(p, ref_point, MAXIMIZE):
             if ref == 0:
                 n.append(0.0)
                 continue
@@ -52,8 +62,8 @@ def normalize(points: Sequence[Sequence[float]]) -> List[List[float]]:
     return norm
 
 
-def hypervolume(points: Sequence[Sequence[float]]) -> float:
-    n = normalize(points)
+def hypervolume(points: Sequence[Sequence[float]], ref_point: Sequence[float]) -> float:
+    n = normalize(points, ref_point)
     if not n:
         return 0.0
     hv = 0.0
@@ -172,9 +182,10 @@ def compare_runs(time_sec: int, runs: int) -> None:
         if not nsga_pts or not movns_pts:
             print(f"run {k:02d}: faltam arquivos (NSGA: {bool(nsga_pts)}, MOVNS: {bool(movns_pts)})")
             continue
-        hv_nsga = hypervolume(nsga_pts)
-        hv_movns = hypervolume(movns_pts)
         ref = nsga_pts + movns_pts
+        ref_point = compute_reference_point(ref)
+        hv_nsga = hypervolume(nsga_pts, ref_point)
+        hv_movns = hypervolume(movns_pts, ref_point)
         igd_nsga = igd(nsga_pts, ref)
         igd_movns = igd(movns_pts, ref)
         spread_nsga = spread(nsga_pts)

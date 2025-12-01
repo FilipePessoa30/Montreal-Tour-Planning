@@ -134,7 +134,7 @@ python scripts\compare_hv_runs.py --time 240 --runs 30
 
 ### Summary (240 s, 30 seeds)
 - Seeds: implicit 1..30 (from folder index)
-- HV: MOVNS won 24/30
+- HV: MOVNS won 26/30
 - IGD: MOVNS won 30/30 (lower is better)
 - Spread: MOVNS won 5/30
 - Pareto size: MOVNS won 30/30
