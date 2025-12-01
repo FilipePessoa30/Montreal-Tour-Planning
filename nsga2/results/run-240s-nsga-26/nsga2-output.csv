@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;9;48.5;1133.7;25.25
-2;Alternative Hostel of Old Montreal;15;76.4;1372.8;129.42
-3;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;3;22.7;324.8;571.70
-4;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;5;31.0;463.0;613.43
-5;Hôtel De L'ithq;12;63.6;1130.3;492.57
-6;Hotel William Gray;10;54.2;908.6;569.33
-7;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;4;26.8;438.1;580.97
-8;Novotel Montreal Centre;4;25.5;375.0;314.43
-9;Auberge L'Apero;11;57.1;1005.3;30.67
-10;Alternative Hostel of Old Montreal;5;30.6;494.1;68.85
-11;Hotel William Gray;13;68.0;1195.5;613.30
-12;Alternative Hostel of Old Montreal;14;71.4;1304.2;89.90
-13;Alternative Hostel of Old Montreal;14;72.3;1246.7;132.20
-14;Alternative Hostel of Old Montreal;15;75.1;1347.1;157.77
-15;Hôtel Spa Carré St-louis;6;33.1;563.2;245.58
-16;Hôtel Spa Carré St-louis;12;60.6;1048.3;295.32
-17;Auberge de La Fontaine;6;34.7;594.7;332.12
-18;Auberge de La Fontaine;6;34.7;594.7;332.12
-19;Novotel Montreal Centre;4;25.6;379.9;286.62
-20;Hôtel De L'ithq;8;45.1;740.3;416.95
-21;Alternative Hostel of Old Montreal;15;75.1;1347.1;157.77
-22;Auberge L'Apero;8;43.1;925.8;30.67
-23;Hôtel De L'ithq;13;67.8;1213.9;459.17
-24;Alternative Hostel of Old Montreal;11;57.6;1081.3;51.67
-25;Alternative Hostel of Old Montreal;7;40.8;751.5;51.75
-26;Auberge L'Apero;7;39.4;907.9;40.47
-27;Auberge L'Apero;10;53.4;1142.5;25.25
-28;Alternative Hostel of Old Montreal;13;66.4;1180.1;51.67
-29;Auberge L'Apero;7;38.5;762.1;49.75
-30;Alternative Hostel of Old Montreal;6;35.2;652.1;69.63
-31;Auberge L'Apero;8;43.1;925.8;30.67
-32;Alternative Hostel of Old Montreal;12;62.8;1077.0;138.12
-33;Alternative Hostel of Old Montreal;9;48.1;854.6;89.73
-34;Alternative Hostel of Old Montreal;9;50.1;915.3;51.75
-35;Hôtel Spa Carré St-louis;6;32.9;537.6;251.58
-36;Alternative Hostel of Old Montreal;10;53.4;886.4;72.90
-37;Hôtel Spa Carré St-louis;6;33.1;545.4;251.58
-38;Alternative Hostel of Old Montreal;11;58.9;946.3;58.90
-39;Hôtel De L'ithq;8;45.1;740.3;416.95
-40;Alternative Hostel of Old Montreal;6;36.1;727.2;35.75
-41;Alternative Hostel of Old Montreal;14;71.4;1319.5;83.70
-42;Auberge L'Apero;12;62.1;1062.8;67.82
-43;Alternative Hostel of Old Montreal;13;66.4;1180.1;51.67
-44;Alternative Hostel of Old Montreal;12;62.9;1110.0;130.63
-45;Alternative Hostel of Old Montreal;11;58.7;939.4;74.98
-46;Hyatt Centric Montreal;9;49.3;800.7;601.75
-47;Alternative Hostel of Old Montreal;14;72.3;1268.5;131.67
-48;Alternative Hostel of Old Montreal;8;45.4;797.7;82.73
-49;Alternative Hostel of Old Montreal;7;39.7;611.5;73.05
-50;Alternative Hostel of Old Montreal;9;48.1;854.6;89.73
-51;Alternative Hostel of Old Montreal;8;45.4;820.6;57.78
-52;Hôtel Spa Carré St-louis;6;33.1;563.2;245.58
-53;Alternative Hostel of Old Montreal;5;30.6;506.3;50.87
-54;Alternative Hostel of Old Montreal;5;31.1;576.4;35.75
-55;Hyatt Centric Montreal;8;44.8;695.7;593.40
-56;Alternative Hostel of Old Montreal;12;62.3;1229.9;35.75
-57;Alternative Hostel of Old Montreal;15;75.1;1351.5;151.75
-58;Alternative Hostel of Old Montreal;8;44.2;734.4;71.07
-59;Alternative Hostel of Old Montreal;10;53.8;965.1;51.75
-60;Alternative Hostel of Old Montreal;13;67.6;1206.5;147.25
-61;Alternative Hostel of Old Montreal;8;44.4;852.8;51.08
-62;Alternative Hostel of Old Montreal;7;40.0;717.0;84.60
-63;Alternative Hostel of Old Montreal;8;45.4;797.7;82.73
-64;Alternative Hostel of Old Montreal;11;57.4;927.2;122.35
-65;Alternative Hostel of Old Montreal;9;48.8;906.0;56.85
-66;Auberge L'Apero;9;48.5;994.5;30.67
-67;Alternative Hostel of Old Montreal;13;67.4;1175.1;109.20
-68;Alternative Hostel of Old Montreal;9;49.5;862.8;80.87
-69;Alternative Hostel of Old Montreal;12;62.5;1062.6;105.25
-70;Alternative Hostel of Old Montreal;13;67.9;1283.9;115.10
-71;Alternative Hostel of Old Montreal;9;49.3;972.4;51.52
-72;Alternative Hostel of Old Montreal;6;35.1;642.6;53.52
-73;Alternative Hostel of Old Montreal;13;67.6;1283.9;99.10
-74;Hôtel Saint-Sulpice;9;49.2;751.8;573.13
-75;Alternative Hostel of Old Montreal;9;49.0;761.7;95.03
-76;Alternative Hostel of Old Montreal;13;67.1;1137.7;88.02
-77;Alternative Hostel of Old Montreal;12;62.6;1074.2;120.03
-78;Alternative Hostel of Old Montreal;6;35.2;710.4;68.85
-79;Alternative Hostel of Old Montreal;13;67.5;1214.3;114.02
-80;Alternative Hostel of Old Montreal;7;39.2;740.7;70.13
+1;Alternative Hostel of Old Montreal;7;39.5;992.8;43.35
+2;Hotel Arena Palace Montreal;5;28.2;542.7;96.10
+3;Alternative Hostel of Old Montreal;14;71.0;1394.2;131.53
+4;Hotel William Gray;11;57.3;984.1;635.72
+5;Hôtel Le Germain Montréal;11;59.2;1091.8;480.18
+6;Doubletree By Hilton Montreal;7;39.2;699.7;398.12
+7;Sonder Maisonneuve;9;49.1;859.1;285.48
+8;Hôtel Le Germain Montréal;10;54.2;889.2;445.25
+9;Hotel Arena Palace Montreal;6;32.7;673.3;84.20
+10;Hotel Arena Palace Montreal;6;32.8;691.1;96.10
+11;Doubletree By Hilton Montreal;7;39.2;641.1;450.97
+12;Alternative Hostel of Old Montreal;14;71.0;1394.2;131.53
+13;Sonder Maisonneuve;9;49.1;859.1;285.48
+14;Hotel Arena Palace Montreal;7;36.6;676.2;140.87
+15;Alternative Hostel of Old Montreal;12;63.4;1218.0;78.37
+16;Hotel William Gray;10;55.1;936.9;561.97
+17;Hotel William Gray;12;62.5;1202.0;615.05
+18;Alternative Hostel of Old Montreal;13;67.9;1311.3;111.40
+19;Sonder Maisonneuve;13;66.2;1237.4;354.15
+20;Hotel William Gray;11;57.3;984.1;635.72
+21;Sonder Maisonneuve;13;66.2;1237.4;354.15
+22;Alternative Hostel of Old Montreal;7;39.5;992.8;43.35
+23;Alternative Hostel of Old Montreal;10;51.9;1140.6;72.33
+24;Alternative Hostel of Old Montreal;8;44.0;1121.0;43.35
+25;Alternative Hostel of Old Montreal;8;44.4;793.1;51.08
+26;Alternative Hostel of Old Montreal;8;44.0;1121.0;43.35
+27;Alternative Hostel of Old Montreal;10;54.0;932.9;171.37
+28;Alternative Hostel of Old Montreal;12;61.6;1283.2;61.95
+29;Hotel William Gray;10;54.4;1047.7;542.52
+30;Sonder Maisonneuve;8;44.4;756.8;259.92
+31;Alternative Hostel of Old Montreal;13;67.9;1311.3;111.40
+32;Alternative Hostel of Old Montreal;9;48.6;970.5;94.05
+33;Alternative Hostel of Old Montreal;12;63.2;1354.7;43.85
+34;Hotel Bon Accueil;9;46.1;891.2;218.07
+35;Hotel William Gray;11;59.1;1076.9;587.83
+36;Hotel Arena Palace Montreal;7;36.6;676.2;140.87
+37;Alternative Hostel of Old Montreal;13;65.8;1249.1;140.67
+38;Alternative Hostel of Old Montreal;8;44.4;793.1;51.08
+39;Alternative Hostel of Old Montreal;11;56.8;1054.4;136.80
+40;Hotel Bon Accueil;9;46.1;891.2;218.07
+41;Sonder Maisonneuve;8;44.4;760.6;259.48
+42;Alternative Hostel of Old Montreal;13;67.4;1313.7;92.37
+43;Hotel Arena Palace Montreal;9;45.0;862.4;147.88
+44;Alternative Hostel of Old Montreal;10;53.5;892.0;94.90
+45;Hotel Le Cantlie Suites;9;47.3;766.8;372.73
+46;Alternative Hostel of Old Montreal;11;59.1;1158.8;89.98
+47;Alternative Hostel of Old Montreal;12;62.3;1099.5;104.15
+48;Sonder Maisonneuve;9;49.0;871.8;280.90
+49;Hotel Le Cantlie Suites;9;47.3;766.8;372.73
+50;Hotel William Gray;11;58.3;1073.2;555.43
+51;Alternative Hostel of Old Montreal;9;50.0;1035.7;79.72
+52;Alternative Hostel of Old Montreal;10;53.7;920.8;125.87
+53;Alternative Hostel of Old Montreal;9;49.4;1028.5;77.92
+54;Alternative Hostel of Old Montreal;13;66.8;1242.2;162.30
+55;Hotel Arena Palace Montreal;9;45.9;873.5;144.28
+56;Hotel William Gray;13;66.9;1244.1;628.05
+57;Hotel William Gray;11;58.3;1028.7;568.33
+58;Alternative Hostel of Old Montreal;11;58.0;1279.1;57.85
+59;Hotel William Gray;9;49.5;772.6;562.22
+60;Alternative Hostel of Old Montreal;11;58.5;1084.2;106.75

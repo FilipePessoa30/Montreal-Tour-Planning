@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;8;43.8;1029.9;25.25
-2;Auberge L'Apero;13;66.3;1403.8;76.20
-3;Best Western Ville-Marie Montreal Hotel & Suites;4;26.1;521.4;317.08
-4;Hôtel Le Germain Montréal;4;26.5;482.7;333.77
-5;Hôtel Place d'Armes Old Montreal;15;76.0;1318.5;568.78
-6;Hotel Gault;14;72.1;1176.4;664.57
-7;Auberge L'Apero;6;33.9;560.1;61.33
-8;Hôtel Le Germain Montréal;4;26.8;503.3;366.63
-9;Best Western Ville-Marie Montreal Hotel & Suites;4;26.1;534.2;278.25
-10;Auberge L'Apero;7;38.1;641.7;61.33
-11;Auberge du Plateau;14;71.4;1302.3;179.33
-12;Hôtel Le Germain Montréal;4;26.9;554.8;333.77
-13;Hotel Gault;8;44.6;713.4;550.88
-14;Auberge L'Apero;6;34.0;602.5;51.70
-15;Hotel Gault;14;72.1;1176.4;664.57
-16;Deluxe Suites Downtown Montreal;14;72.3;1330.3;355.03
-17;St Paul Hotel;6;34.4;603.9;431.55
-18;Hôtel Le Germain Montréal;14;71.8;1205.8;486.08
-19;Deluxe Suites Downtown Montreal;10;53.8;914.9;339.23
-20;Hotel Gault;7;39.2;652.7;563.20
-21;Hotel Kutuma;14;72.1;1268.4;483.53
-22;Auberge L'Apero;12;61.1;1266.3;61.65
-23;Auberge L'Apero;13;65.1;1339.9;76.75
-24;Deluxe Suites Downtown Montreal;9;49.8;796.8;297.25
-25;Auberge L'Apero;9;48.1;1006.0;49.90
-26;Auberge L'Apero;8;44.3;841.5;32.12
-27;Alternative Hostel of Old Montreal;11;58.9;1072.1;103.93
-28;Alternative Hostel of Old Montreal;11;58.9;1072.1;103.93
-29;Hotel Gault;10;53.8;829.3;638.32
-30;Auberge L'Apero;10;51.5;863.1;81.18
-31;Hôtel Le Germain Montréal;9;49.9;766.9;426.50
-32;Auberge L'Apero;7;38.1;641.7;61.33
-33;Alternative Hostel of Old Montreal;11;58.5;945.1;85.02
-34;Auberge L'Apero;10;52.7;1042.2;69.37
-35;Auberge L'Apero;12;60.5;1229.8;74.30
-36;Auberge L'Apero;9;48.0;933.1;45.98
-37;Hotel Kutuma;9;49.9;766.1;434.12
-38;Auberge L'Apero;8;43.2;711.4;73.88
-39;Deluxe Suites Downtown Montreal;12;63.7;1042.9;399.08
-40;Hotel Kutuma;10;54.4;856.2;438.45
-41;Auberge du Plateau;10;52.8;910.5;154.23
-42;Hotel Gault;13;67.5;1147.2;611.97
-43;Alternative Hostel of Old Montreal;8;44.7;860.5;77.75
-44;Deluxe Suites Downtown Montreal;13;68.2;1284.3;383.63
-45;Auberge L'Apero;9;48.1;1006.0;49.90
-46;Hôtel Le Germain Montréal;7;38.8;694.2;378.72
-47;Hôtel Le Germain Montréal;13;66.4;1129.3;456.52
-48;Auberge L'Apero;11;57.4;1398.5;40.47
-49;Auberge L'Apero;14;70.3;1403.2;109.70
-50;Alternative Hostel of Old Montreal;12;62.0;1093.0;119.03
-51;Auberge L'Apero;12;59.8;1144.8;110.43
-52;Hotel Kutuma;10;53.6;854.8;474.95
-53;Auberge L'Apero;14;70.7;1368.1;139.38
-54;Auberge L'Apero;11;56.3;1037.3;75.20
-55;Auberge du Plateau;13;67.2;1250.6;162.05
-56;Hotel Gault;13;67.5;1147.2;611.97
-57;Auberge L'Apero;8;43.2;749.3;45.88
-58;Hotel Kutuma;14;71.6;1263.5;465.00
-59;Alternative Hostel of Old Montreal;12;62.1;1054.8;140.05
-60;Auberge L'Apero;6;34.0;572.7;82.78
-61;Auberge L'Apero;11;56.8;1380.9;31.98
-62;Best Western Ville-Marie Montreal Hotel & Suites;4;26.1;521.4;317.08
-63;Auberge du Plateau;9;49.3;761.0;158.40
-64;Auberge L'Apero;10;52.7;1234.7;37.70
-65;Auberge L'Apero;10;53.0;915.8;93.00
-66;Deluxe Suites Downtown Montreal;13;68.0;1159.1;389.35
-67;Auberge L'Apero;13;65.3;1349.0;81.52
-68;Alternative Hostel of Old Montreal;13;66.6;1280.9;115.07
-69;Auberge du Plateau;8;43.8;751.8;123.33
-70;Auberge L'Apero;9;48.8;1212.6;45.72
-71;Auberge L'Apero;7;38.7;657.9;30.67
-72;Alternative Hostel of Old Montreal;11;58.6;1080.8;89.93
-73;Auberge L'Apero;13;64.4;1333.3;100.30
-74;Alternative Hostel of Old Montreal;13;67.5;1192.0;167.93
-75;Alternative Hostel of Old Montreal;12;62.8;1195.3;139.78
-76;Auberge du Plateau;9;48.3;858.7;133.03
-77;Auberge L'Apero;11;57.0;1165.9;54.75
-78;Deluxe Suites Downtown Montreal;13;67.8;1185.7;374.70
-79;Hôtel Le Germain Montréal;13;66.4;1129.3;456.52
-80;Auberge L'Apero;13;65.2;1164.8;145.52
+1;Auberge L'Apero;8;43.9;862.8;25.25
+2;Auberge L'Apero;8;44.7;752.5;30.67
+3;Auberge L'Apero;13;66.1;1359.8;67.14
+4;Auberge L'Apero;13;67.1;1378.4;112.40
+5;Hotel Nelligan;13;67.9;1336.6;520.73
+6;Hôtel Saint-Sulpice;8;45.9;755.7;521.82
+7;Sofitel Montreal Golden Mile;13;66.9;1282.7;615.49
+8;Samesun Montreal Central;12;63.1;1224.2;118.85
+9;Le Westin Montreal;10;53.7;964.0;300.60
+10;Warwick Le Crystal - Montréal;9;50.8;793.8;435.48
+11;Auberge L'Apero;9;49.2;791.2;59.25
+12;Auberge L'Apero;11;56.4;1126.6;45.00
+13;Auberge L'Apero;10;52.8;909.2;25.25
+14;Le Westin Montreal;12;62.8;1192.8;381.35
+15;Auberge L'Apero;11;57.3;989.6;56.23
+16;Auberge L'Apero;9;48.8;832.8;31.98
+17;Hôtel Saint-Sulpice;8;45.9;755.7;521.82
+18;Hôtel Saint-Sulpice;10;54.6;944.8;548.33
+19;Novotel Montreal Centre;10;53.3;898.3;314.23
+20;Auberge L'Apero;11;56.9;1051.4;54.10
+21;Auberge L'Apero;13;65.9;1291.2;82.30
+22;Auberge L'Apero;12;61.5;1265.6;47.20
+23;Hotel Nelligan;12;63.1;1217.3;558.44
+24;Sofitel Montreal Golden Mile;13;66.9;1302.8;604.09
+25;Le Westin Montreal;12;62.7;1173.9;356.42
+26;Hotel Nelligan;11;59.3;1081.7;556.32
+27;Auberge L'Apero;12;60.7;1301.1;32.15
+28;Hôtel Place d'Armes Old Montreal;11;58.6;987.0;462.88
+29;Samesun Montreal Central;12;62.6;1230.9;107.44
+30;Hotel Nelligan;10;54.2;980.6;493.88
+31;Le Westin Montreal;13;67.5;1317.3;356.42
+32;Novotel Montreal Centre;10;53.3;914.2;307.03
+33;Auberge L'Apero;10;52.8;1019.3;30.48
+34;Hotel Nelligan;10;54.2;980.6;493.88
+35;Hotel Nelligan;11;59.3;1081.7;556.32
+36;Auberge L'Apero;11;58.0;1102.7;80.73
+37;Alternative Hostel of Old Montreal;11;58.5;1139.6;89.97
+38;Auberge L'Apero;11;57.8;1150.1;37.70
+39;Le Westin Montreal;12;62.8;1192.8;381.35
+40;Auberge L'Apero;13;66.5;1370.6;64.55
+41;Hôtel Place d'Armes Old Montreal;11;58.6;1008.9;449.32
+42;Auberge L'Apero;12;61.9;1164.0;52.78
+43;Auberge L'Apero;12;62.3;1327.1;46.05
+44;Auberge L'Apero;10;53.6;1202.8;30.83
+45;Auberge L'Apero;13;66.5;1304.0;70.92
+46;Auberge L'Apero;13;66.1;1359.8;67.14
+47;Samesun Montreal Central;11;58.2;1013.9;103.53
+48;Samesun Montreal Central;10;53.0;956.1;111.20
+49;Auberge L'Apero;10;53.7;978.2;89.25
+50;Auberge L'Apero;11;57.9;1089.5;52.78
+51;Samesun Montreal Central;10;53.0;964.1;101.92
+52;Le Westin Montreal;13;67.5;1317.3;356.42
+53;Auberge L'Apero;12;61.0;1297.4;39.07
+54;Auberge L'Apero;11;58.0;1094.8;96.47
+55;Auberge L'Apero;12;62.4;1121.4;112.25
+56;Auberge L'Apero;13;66.6;1229.7;110.80
+57;Auberge L'Apero;12;62.5;1164.0;96.75
+58;Hôtel Place d'Armes Old Montreal;11;58.6;987.0;462.88
+59;Auberge L'Apero;11;57.4;1184.0;35.90
+60;Hotel Nelligan;12;63.0;1196.0;556.77

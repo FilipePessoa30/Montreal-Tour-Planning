@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;7;38.6;841.1;25.25
-2;Samesun Montreal Central;15;75.8;1404.5;193.42
-3;David Hotel;3;21.7;368.6;444.90
-4;The Ritz-Carlton, Montreal;11;58.7;1035.7;1060.32
-5;The Ritz-Carlton, Montreal;12;63.3;1153.2;1041.90
-6;Hotel Nelligan;13;67.5;1239.2;595.85
-7;Samesun Montreal Central;4;25.7;453.2;71.60
-8;Samesun Montreal Central;5;29.2;555.2;146.55
-9;Samesun Montreal Central;5;29.3;643.4;138.30
-10;Samesun Montreal Central;4;25.7;424.3;77.17
-11;Hôtel De L'ithq;14;71.7;1334.2;470.27
-12;Samesun Montreal Central;15;75.8;1382.3;194.00
-13;Samesun Montreal Central;9;49.6;952.6;91.40
-14;David Hotel;7;39.4;659.2;496.37
-15;Samesun Montreal Central;8;43.5;843.9;71.60
-16;Deluxe Suites Downtown Montreal;6;36.4;643.8;288.28
-17;Auberge L'Apero;10;51.5;1155.3;30.67
-18;Samesun Montreal Central;13;66.5;1254.1;152.33
-19;Samesun Montreal Central;6;35.2;808.1;60.00
-20;Deluxe Suites Downtown Montreal;6;36.4;643.8;288.28
-21;Auberge L'Apero;11;57.2;1171.0;82.15
-22;The Ritz-Carlton, Montreal;11;58.7;1035.7;1060.32
-23;Hôtel De L'ithq;14;71.7;1334.2;470.27
-24;Hotel Nelligan;13;67.5;1239.2;595.85
-25;Samesun Montreal Central;12;62.4;1128.6;143.60
-26;Deluxe Suites Downtown Montreal;12;63.6;1160.1;341.83
-27;Auberge L'Apero;10;51.5;1155.3;30.67
-28;Hotel Nelligan;11;58.2;987.5;534.08
-29;Samesun Montreal Central;8;43.8;843.9;76.08
-30;Deluxe Suites Downtown Montreal;8;45.1;773.8;317.40
-31;Hotel Nelligan;11;58.2;996.2;547.18
-32;Auberge L'Apero;9;47.7;939.1;31.98
-33;Deluxe Suites Downtown Montreal;8;45.2;840.8;332.52
-34;Hotel le Coach;10;53.8;1019.9;235.78
-35;Deluxe Suites Downtown Montreal;13;67.8;1243.7;332.40
-36;Deluxe Suites Downtown Montreal;7;40.6;686.2;303.40
-37;Hôtel De L'ithq;12;62.7;1157.0;407.25
-38;Samesun Montreal Central;5;29.2;584.7;114.29
-39;The Ritz-Carlton, Montreal;11;59.1;1086.9;1047.62
-40;Samesun Montreal Central;14;70.6;1328.8;159.35
-41;Auberge L'Apero;11;55.8;1231.6;49.90
-42;Auberge L'Apero;13;65.4;1353.6;83.37
-43;Samesun Montreal Central;12;60.9;1375.7;60.00
-44;Samesun Montreal Central;14;71.3;1285.8;161.85
-45;Hotel Nelligan;12;62.8;1107.6;593.02
-46;Samesun Montreal Central;4;25.7;625.5;63.97
-47;Samesun Montreal Central;15;75.8;1366.8;199.57
-48;Best Western Ville-Marie Montreal Hotel & Suites;7;38.3;663.6;296.87
-49;Auberge L'Apero;9;47.7;967.1;25.25
-50;Samesun Montreal Central;7;40.1;701.5;74.00
-51;Hotel le Coach;12;62.4;1098.6;270.42
-52;Auberge L'Apero;13;66.4;1218.1;128.32
-53;Samesun Montreal Central;8;44.5;799.5;93.57
-54;Samesun Montreal Central;10;53.1;872.4;122.07
-55;Deluxe Suites Downtown Montreal;7;40.6;720.1;302.27
-56;Samesun Montreal Central;6;35.2;808.1;60.00
-57;Samesun Montreal Central;9;48.8;848.5;93.58
-58;Auberge L'Apero;7;38.9;903.7;31.98
-59;Sonder Maisonneuve;10;53.9;918.6;280.42
-60;The Ritz-Carlton, Montreal;11;58.8;1068.9;1052.15
-61;Hôtel De L'ithq;12;62.7;1103.7;423.82
-62;Samesun Montreal Central;8;43.9;741.6;147.48
-63;Samesun Montreal Central;10;53.3;879.4;102.93
-64;Hôtel De L'ithq;10;54.0;939.7;456.48
-65;Samesun Montreal Central;11;57.3;1044.6;142.95
-66;Samesun Montreal Central;13;67.1;1279.9;177.80
-67;Auberge L'Apero;10;52.3;1180.7;31.98
-68;Hôtel De L'ithq;13;66.7;1240.0;495.85
-69;Auberge L'Apero;10;52.0;1131.5;45.82
-70;Samesun Montreal Central;5;29.2;555.7;119.85
-71;Auberge L'Apero;12;61.7;1349.1;85.65
-72;Samesun Montreal Central;10;53.6;1011.6;95.42
-73;Auberge L'Apero;11;56.7;1266.6;39.25
-74;Samesun Montreal Central;13;66.6;1208.5;176.65
-75;Auberge L'Apero;11;56.6;1119.8;67.52
-76;Deluxe Suites Downtown Montreal;7;40.6;678.0;310.32
-77;Samesun Montreal Central;4;25.7;424.3;77.17
-78;Samesun Montreal Central;9;48.1;1058.5;65.70
-79;Samesun Montreal Central;10;54.4;1115.5;91.40
-80;Auberge L'Apero;11;57.0;1269.0;58.97
+1;Auberge L'Apero;9;47.9;1201.8;25.25
+2;Auberge L'Apero;3;21.5;409.7;62.25
+3;Auberge L'Apero;12;61.5;1390.1;89.23
+4;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;3;21.7;342.3;597.54
+5;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;14;72.1;1275.6;645.35
+6;The Ritz-Carlton, Montreal;12;63.2;1137.4;1133.19
+7;The Ritz-Carlton, Montreal;9;50.3;945.9;1074.79
+8;Auberge L'Apero;8;42.8;869.9;39.00
+9;Warwick Le Crystal - Montréal;13;67.0;1156.3;500.32
+10;Le Petit Hotel Vieux-Montréal | Saint-Paul;7;40.1;733.0;452.75
+11;Hotel Faubourg Montreal;6;33.2;630.2;359.80
+12;Fairfield by Marriott Montreal Downtown;5;28.9;503.2;328.72
+13;Auberge L'Apero;8;43.3;1032.8;35.90
+14;Le Petit Hotel Vieux-Montréal | Saint-Paul;7;40.1;733.0;452.75
+15;Hotel le Coach;3;21.9;361.6;221.50
+16;Hôtel Place d'Armes Old Montreal;10;54.0;950.9;485.23
+17;Auberge L'Apero;11;55.0;1117.2;116.59
+18;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;4;25.7;426.5;591.02
+19;Auberge L'Apero;13;65.3;1216.7;98.37
+20;Hotel Faubourg Montreal;6;33.2;630.2;359.80
+21;Auberge L'Apero;10;53.2;947.5;138.60
+22;Auberge L'Apero;7;39.6;635.2;106.83
+23;Auberge L'Apero;14;70.4;1362.3;106.33
+24;The Ritz-Carlton, Montreal;9;49.7;944.5;1076.29
+25;Auberge du Plateau;14;71.3;1273.0;172.72
+26;Auberge L'Apero;11;57.1;1233.0;89.73
+27;L'Appartement Hotel;9;49.4;820.1;298.30
+28;Auberge L'Apero;4;24.4;491.9;98.89
+29;L'Appartement Hotel;5;30.7;593.2;246.25
+30;Auberge L'Apero;12;61.5;1390.1;89.23
+31;Auberge L'Apero;9;47.9;1185.1;37.92
+32;Hotel Faubourg Montreal;6;33.2;609.5;371.37
+33;The Ritz-Carlton, Montreal;11;59.0;1075.3;1133.19
+34;Auberge L'Apero;3;21.5;409.7;62.25
+35;Fairmont The Queen Elizabeth;7;40.0;640.2;561.52
+36;Auberge L'Apero;8;43.7;772.0;87.88
+37;Auberge L'Apero;4;24.4;491.9;98.89
+38;Auberge L'Apero;13;66.0;1319.3;128.57
+39;L'Appartement Hotel;5;30.7;593.2;246.25
+40;Auberge L'Apero;12;61.2;1160.7;113.33
+41;Auberge L'Apero;7;40.0;662.9;52.92
+42;Auberge L'Apero;4;26.3;584.2;56.67
+43;Auberge L'Apero;10;52.0;1080.7;63.68
+44;Auberge L'Apero;11;57.5;1241.2;70.40
+45;Montreal Marriott Chateau Champlain;5;30.4;577.1;462.73
+46;Auberge L'Apero;5;29.1;516.1;61.90
+47;Auberge L'Apero;6;32.5;652.8;88.30
+48;Auberge L'Apero;9;48.1;795.3;54.08
+49;Auberge du Plateau;9;49.2;1070.4;116.32
+50;Hôtel Place d'Armes Old Montreal;11;58.2;983.1;485.65
+51;Samesun Montreal Central;12;62.8;1100.1;175.28
+52;Vogue Hotel Montreal Downtown, Curio Collection by Hilton;3;21.7;342.3;597.54
+53;Auberge L'Apero;11;57.2;991.8;130.00
+54;Auberge L'Apero;9;48.1;842.3;46.67
+55;Auberge L'Apero;3;21.5;434.7;56.67
+56;Auberge L'Apero;11;56.3;1299.1;55.72
+57;Auberge L'Apero;8;43.7;772.0;87.88
+58;Samesun Montreal Central;11;58.3;1093.3;148.27
+59;Auberge du Plateau;14;70.8;1187.8;164.72
+60;Auberge L'Apero;11;56.2;1150.1;94.10

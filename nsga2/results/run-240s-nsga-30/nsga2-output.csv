@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;8;43.0;905.2;30.67
-2;Samesun Montreal Central;4;26.9;485.9;65.70
-3;Samesun Montreal Central;4;26.9;409.8;83.00
-4;Samesun Montreal Central;12;62.6;1400.3;91.56
-5;Hygie Boutique Hotel;5;25.1;466.4;117.70
-6;Deluxe Suites Downtown Montreal;14;72.9;1325.0;335.77
-7;Doubletree By Hilton Montreal;14;71.3;1312.9;447.17
-8;The Ritz-Carlton, Montreal;4;27.9;485.9;1019.70
-9;Le Square Phillips Hotel & Suites;13;67.3;1143.8;568.97
-10;Hotel le Coach;10;54.1;883.9;244.63
-11;Samesun Montreal Central;14;70.5;1352.7;155.43
-12;Hygie Boutique Hotel;7;34.3;593.7;124.73
-13;Hotel le Coach;8;45.2;743.9;252.08
-14;Deluxe Suites Downtown Montreal;6;35.7;587.9;298.17
-15;Hygie Boutique Hotel;5;25.1;466.4;117.70
-16;Samesun Montreal Central;6;35.7;599.6;82.63
-17;Samesun Montreal Central;9;48.3;858.2;108.87
-18;Samesun Montreal Central;11;56.6;947.9;144.50
-19;Doubletree By Hilton Montreal;12;61.6;1059.1;448.97
-20;Auberge L'Apero;11;55.9;1135.7;49.90
-21;Auberge L'Apero;10;50.9;990.1;123.65
-22;Le Square Phillips Hotel & Suites;13;67.3;1143.8;568.97
-23;Samesun Montreal Central;7;40.0;648.9;129.27
-24;Samesun Montreal Central;12;62.6;1400.3;91.56
-25;Hotel le Coach;9;48.7;751.7;275.03
-26;Auberge L'Apero;5;30.7;553.7;52.92
-27;Doubletree By Hilton Montreal;12;61.8;1082.3;431.63
-28;Samesun Montreal Central;12;62.2;1264.8;120.82
-29;Cjour Apartments;7;38.7;632.4;151.73
-30;Samesun Montreal Central;14;70.5;1330.3;173.68
-31;Samesun Montreal Central;13;67.0;1311.9;162.43
-32;Le Square Phillips Hotel & Suites;12;62.5;1099.3;533.73
-33;Deluxe Suites Downtown Montreal;11;59.4;984.1;356.30
-34;Samesun Montreal Central;6;35.9;634.8;67.90
-35;Samesun Montreal Central;7;40.7;704.6;98.88
-36;Samesun Montreal Central;13;67.8;1341.6;162.78
-37;Deluxe Suites Downtown Montreal;9;49.9;842.7;280.03
-38;Samesun Montreal Central;13;65.4;1174.2;142.23
-39;Auberge de La Fontaine;12;62.4;1097.8;374.72
-40;Deluxe Suites Downtown Montreal;9;50.6;810.8;311.35
-41;Samesun Montreal Central;6;34.5;524.0;133.68
-42;Deluxe Suites Downtown Montreal;12;63.6;1104.7;352.58
-43;Samesun Montreal Central;10;53.0;1049.3;101.52
-44;Deluxe Suites Downtown Montreal;10;54.7;940.3;328.33
-45;Hygie Boutique Hotel;6;30.0;557.1;118.93
-46;Ambrose House & Café;13;66.5;1184.0;334.73
-47;Cjour Apartments;5;29.0;503.9;134.63
-48;Auberge L'Apero;10;51.6;1004.8;84.98
-49;Samesun Montreal Central;13;67.4;1385.9;101.66
-50;Auberge L'Apero;8;43.9;951.5;37.58
-51;Auberge L'Apero;9;46.7;855.3;64.40
-52;Samesun Montreal Central;13;66.9;1288.6;152.80
-53;Hotel William Gray;13;67.7;1181.0;556.00
-54;Samesun Montreal Central;7;40.5;776.2;65.20
-55;Deluxe Suites Downtown Montreal;10;55.1;900.9;341.47
-56;Samesun Montreal Central;12;62.1;1222.1;107.23
-57;Cjour Apartments;5;29.5;503.9;151.73
-58;Samesun Montreal Central;6;35.0;692.0;60.00
-59;Auberge L'Apero;12;60.6;1262.4;71.09
-60;Samesun Montreal Central;12;61.1;1024.5;153.73
-61;Samesun Montreal Central;4;26.9;447.7;73.82
-62;Auberge L'Apero;11;57.3;1026.5;107.25
-63;Samesun Montreal Central;7;39.4;680.5;92.80
-64;Auberge L'Apero;10;53.6;1111.7;52.80
-65;Samesun Montreal Central;12;63.4;1245.3;128.68
-66;Hygie Boutique Hotel;10;48.3;925.6;117.47
-67;Le Square Phillips Hotel & Suites;12;62.5;1092.6;535.40
-68;Samesun Montreal Central;4;26.9;409.8;83.00
-69;Ambrose House & Café;11;56.0;876.6;343.17
-70;Samesun Montreal Central;8;45.1;813.6;95.70
-71;Auberge L'Apero;9;47.4;901.6;77.99
-72;Auberge L'Apero;9;47.1;913.5;44.48
-73;Hyatt Place Montréal – Downtown;11;57.4;969.8;365.03
-74;Hotel le Coach;12;62.6;1152.5;265.38
-75;Samesun Montreal Central;6;35.3;664.3;65.57
-76;Samesun Montreal Central;8;44.9;726.6;103.32
-77;Auberge de La Fontaine;11;57.8;969.4;374.05
-78;Samesun Montreal Central;12;61.8;1162.7;141.21
-79;Doubletree By Hilton Montreal;14;71.3;1312.9;447.17
-80;Samesun Montreal Central;9;49.4;789.2;122.88
+1;Alternative Hostel of Old Montreal;7;39.1;1025.9;35.75
+2;Samesun Montreal Central;13;66.8;1434.0;91.73
+3;Alternative Hostel of Old Montreal;15;75.6;1372.0;125.71
+4;Quality Inn Centre-Ville;6;33.3;560.2;251.88
+5;Hôtel De L'ithq;6;35.8;710.6;415.35
+6;David Hotel;11;57.2;929.3;524.38
+7;David Hotel;7;38.7;672.4;470.65
+8;Alternative Hostel of Old Montreal;14;71.7;1251.4;112.00
+9;Hotel Bon Accueil;10;50.1;912.4;235.58
+10;Alternative Hostel of Old Montreal;15;75.6;1372.0;125.71
+11;LHotel;9;48.9;799.4;399.87
+12;Samesun Montreal Central;12;63.0;1129.9;149.23
+13;Hôtel De L'ithq;6;35.8;710.6;415.35
+14;Alternative Hostel of Old Montreal;13;66.8;1148.5;135.75
+15;Alternative Hostel of Old Montreal;8;44.3;881.5;49.75
+16;Alternative Hostel of Old Montreal;8;44.9;895.4;88.88
+17;Hotel De Paris;9;46.8;797.8;308.90
+18;Hotel De Paris;8;41.8;742.9;315.52
+19;Alternative Hostel of Old Montreal;11;57.1;1395.0;35.75
+20;Auberge L'Apero;12;61.0;1244.9;43.02
+21;Samesun Montreal Central;13;66.8;1434.0;91.73
+22;Hotel De Paris;10;51.3;830.7;349.82
+23;Alternative Hostel of Old Montreal;12;61.3;1177.4;97.27
+24;Hotel De Paris;12;60.5;1088.3;292.67
+25;Alternative Hostel of Old Montreal;10;52.9;1120.2;51.95
+26;Alternative Hostel of Old Montreal;12;63.7;1291.9;56.90
+27;Alternative Hostel of Old Montreal;7;39.4;1033.8;35.75
+28;Deluxe Suites Downtown Montreal;13;68.1;1229.8;313.53
+29;Alternative Hostel of Old Montreal;7;39.4;1033.8;35.75
+30;Alternative Hostel of Old Montreal;13;67.9;1316.0;109.68
+31;Alternative Hostel of Old Montreal;13;66.6;1394.7;87.22
+32;Alternative Hostel of Old Montreal;8;44.3;763.6;85.07
+33;Alternative Hostel of Old Montreal;7;39.7;792.3;66.45
+34;Alternative Hostel of Old Montreal;10;54.5;1256.8;35.75
+35;Alternative Hostel of Old Montreal;10;52.5;954.1;82.33
+36;Alternative Hostel of Old Montreal;12;62.3;1191.5;100.67
+37;Hotel De Paris;10;51.3;882.8;323.97
+38;Hotel De Paris;9;47.2;816.9;296.62
+39;Alternative Hostel of Old Montreal;12;63.3;1288.8;74.67
+40;Hotel De Paris;10;51.3;830.7;349.82
+41;Alternative Hostel of Old Montreal;11;59.3;1216.0;75.75
+42;Alternative Hostel of Old Montreal;11;56.8;1072.3;106.37
+43;Alternative Hostel of Old Montreal;10;53.2;1004.9;63.75
+44;Alternative Hostel of Old Montreal;11;57.4;971.5;117.83
+45;Alternative Hostel of Old Montreal;9;48.5;1197.9;44.35
+46;Alternative Hostel of Old Montreal;11;57.9;1100.7;91.95
+47;Alternative Hostel of Old Montreal;9;50.2;979.2;67.98
+48;Alternative Hostel of Old Montreal;11;58.7;1130.1;77.68
+49;Alternative Hostel of Old Montreal;10;53.4;1044.1;79.10
+50;Alternative Hostel of Old Montreal;13;66.8;1163.7;129.03
+51;Alternative Hostel of Old Montreal;13;67.6;1212.5;95.13
+52;Alternative Hostel of Old Montreal;11;58.1;1012.8;107.95
+53;Alternative Hostel of Old Montreal;10;53.6;1119.0;65.95
+54;Hotel De Paris;12;60.5;1069.3;314.65
+55;Alternative Hostel of Old Montreal;10;54.4;1232.9;49.75
+56;Best Western Plus Hotel Montreal;7;38.8;759.0;309.57
+57;Hotel De Paris;10;51.3;891.8;314.33
+58;Alternative Hostel of Old Montreal;9;49.6;1071.3;53.48
+59;Hotel De Paris;10;51.4;894.8;295.55
+60;Alternative Hostel of Old Montreal;9;48.8;981.8;49.75

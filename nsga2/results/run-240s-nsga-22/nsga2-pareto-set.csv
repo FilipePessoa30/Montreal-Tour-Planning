@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Alternative Hostel of Old Montreal;8;44.9;825.5;35.75
-2;Alternative Hostel of Old Montreal;15;75.7;1415.9;97.33
-3;Alternative Hostel of Old Montreal;7;39.0;629.6;104.17
-4;Alternative Hostel of Old Montreal;15;74.4;1354.2;190.64
-5;Hôtel De L'ithq;15;75.9;1404.2;423.38
-6;Hotel Chrome Montreal;12;58.2;1025.2;283.43
-7;LHotel;14;71.9;1240.3;386.98
-8;Alternative Hostel of Old Montreal;9;47.8;839.7;66.50
-9;Alternative Hostel of Old Montreal;10;54.0;1004.0;51.75
-10;Alternative Hostel of Old Montreal;15;74.4;1342.4;196.62
-11;Alternative Hostel of Old Montreal;13;66.4;1177.1;71.78
-12;Alternative Hostel of Old Montreal;8;43.2;778.2;49.75
-13;Alternative Hostel of Old Montreal;13;67.6;1292.4;72.12
-14;Alternative Hostel of Old Montreal;9;49.4;928.8;35.75
-15;Alternative Hostel of Old Montreal;11;56.9;929.6;98.65
-16;Alternative Hostel of Old Montreal;10;53.5;816.9;103.73
-17;Alternative Hostel of Old Montreal;8;43.2;684.8;104.17
-18;Alternative Hostel of Old Montreal;11;56.9;951.4;88.97
-19;Alternative Hostel of Old Montreal;14;71.7;1339.6;106.25
-20;Alternative Hostel of Old Montreal;12;62.9;1233.5;56.12
-21;Alternative Hostel of Old Montreal;9;48.3;709.1;71.78
-22;LHotel;14;72.0;1240.3;393.35
-23;Alternative Hostel of Old Montreal;9;49.4;928.8;35.75
-24;Alternative Hostel of Old Montreal;14;71.7;1272.3;149.83
-25;Alternative Hostel of Old Montreal;12;63.1;1168.4;72.12
-26;Alternative Hostel of Old Montreal;8;43.6;785.0;69.58
-27;Alternative Hostel of Old Montreal;10;52.8;838.6;72.12
-28;Alternative Hostel of Old Montreal;14;70.9;1236.5;102.73
-29;Alternative Hostel of Old Montreal;14;71.7;1272.3;149.83
-30;Alternative Hostel of Old Montreal;8;44.9;825.5;35.75
-31;Alternative Hostel of Old Montreal;15;74.4;1342.4;196.62
-32;Alternative Hostel of Old Montreal;11;59.2;1158.9;58.12
-33;Alternative Hostel of Old Montreal;12;60.9;1372.9;42.12
-34;Alternative Hostel of Old Montreal;14;71.3;1173.1;128.88
-35;Alternative Hostel of Old Montreal;11;58.5;1022.6;61.62
-36;Alternative Hostel of Old Montreal;12;62.4;1117.2;58.90
-37;Alternative Hostel of Old Montreal;8;43.2;684.8;104.17
-38;Hôtel Le Germain Montréal;15;75.6;1306.1;422.03
-39;Alternative Hostel of Old Montreal;11;58.0;1094.4;42.90
-40;Alternative Hostel of Old Montreal;11;57.4;993.8;72.48
-41;Alternative Hostel of Old Montreal;13;67.0;1148.9;128.13
-42;Alternative Hostel of Old Montreal;11;58.0;972.3;93.35
-43;Alternative Hostel of Old Montreal;12;60.9;1372.9;42.12
-44;Alternative Hostel of Old Montreal;12;61.4;1036.3;109.42
-45;Alternative Hostel of Old Montreal;10;53.9;963.0;65.75
-46;Hôtel Le Germain Montréal;14;71.5;1214.9;413.52
-47;Alternative Hostel of Old Montreal;11;57.6;945.3;116.85
-48;LHotel;12;62.7;1062.1;399.12
-49;Alternative Hostel of Old Montreal;13;67.0;1208.0;79.75
-50;Alternative Hostel of Old Montreal;10;53.2;932.1;88.97
-51;Alternative Hostel of Old Montreal;13;66.8;1111.3;102.40
-52;Alternative Hostel of Old Montreal;12;62.2;1051.4;79.75
-53;LHotel;12;62.7;1062.1;399.12
-54;Alternative Hostel of Old Montreal;13;67.1;1187.5;82.50
-55;Alternative Hostel of Old Montreal;12;62.1;1042.9;93.92
-56;Alternative Hostel of Old Montreal;14;71.4;1317.7;109.65
-57;Alternative Hostel of Old Montreal;12;61.9;1181.1;49.75
-58;Alternative Hostel of Old Montreal;11;57.8;1064.7;51.75
-59;Alternative Hostel of Old Montreal;13;67.3;1225.0;118.12
-60;Alternative Hostel of Old Montreal;9;48.5;831.5;98.65
-61;Hôtel Le Germain Montréal;14;71.5;1214.9;413.52
-62;Alternative Hostel of Old Montreal;15;75.6;1358.5;122.37
-63;Alternative Hostel of Old Montreal;13;67.3;1232.7;113.13
-64;Alternative Hostel of Old Montreal;11;57.7;1078.4;35.75
-65;Alternative Hostel of Old Montreal;12;62.8;1155.1;86.48
-66;Alternative Hostel of Old Montreal;12;62.7;1074.2;108.23
-67;Alternative Hostel of Old Montreal;12;62.8;1193.6;58.12
-68;Alternative Hostel of Old Montreal;13;66.7;1312.3;51.00
-69;Alternative Hostel of Old Montreal;14;71.1;1289.3;115.03
-70;Alternative Hostel of Old Montreal;12;62.8;1221.7;55.78
-71;Alternative Hostel of Old Montreal;12;62.7;1082.6;88.87
-72;Alternative Hostel of Old Montreal;10;52.8;996.8;51.75
-73;Alternative Hostel of Old Montreal;13;66.5;1285.4;77.62
-74;Alternative Hostel of Old Montreal;13;66.5;1296.9;57.98
-75;Alternative Hostel of Old Montreal;13;66.5;1291.5;76.50
-76;Alternative Hostel of Old Montreal;13;67.1;1149.3;96.67
-77;Alternative Hostel of Old Montreal;14;70.9;1285.8;102.20
-78;LHotel;14;71.9;1240.3;386.98
-79;Alternative Hostel of Old Montreal;14;71.6;1328.6;65.75
-80;Alternative Hostel of Old Montreal;14;71.6;1328.6;65.75
+1;Samesun Montreal Central;7;39.2;757.4;60.00
+2;Hygie Boutique Hotel;4;21.5;592.2;70.75
+3;Samesun Montreal Central;14;71.1;1383.3;218.01
+4;Samesun Montreal Central;14;69.9;1355.6;234.33
+5;Hyatt Place Montréal – Downtown;5;30.1;582.6;274.50
+6;Residence Inn Montreal Midtown;14;71.7;1376.3;432.73
+7;Hotel Nelligan;12;62.2;1112.5;622.74
+8;Samesun Montreal Central;8;44.6;826.3;95.57
+9;Hotel Nelligan;9;50.1;912.6;526.75
+10;Best Western Plus Hotel Montreal;14;70.8;1340.0;389.86
+11;Hilton Garden Inn Montreal Centre-Ville;11;58.8;1134.0;445.50
+12;Hotel Nelligan;8;46.3;874.0;512.75
+13;Hygie Boutique Hotel;5;26.4;663.2;78.75
+14;Samesun Montreal Central;7;40.0;727.0;79.35
+15;W Montreal;11;57.9;1001.5;563.13
+16;Hyatt Place Montréal – Downtown;9;48.6;877.2;328.50
+17;Samesun Montreal Central;13;67.2;1273.7;127.30
+18;Samesun Montreal Central;6;36.0;713.0;85.57
+19;Samesun Montreal Central;10;53.9;1075.2;100.00
+20;Sonder Maisonneuve;6;36.2;688.6;236.25
+21;Hilton Garden Inn Montreal Centre-Ville;13;66.2;1161.4;492.86
+22;Hilton Garden Inn Montreal Centre-Ville;10;54.0;940.1;430.85
+23;Auberge Du Vieux Port;13;68.0;1284.8;534.95
+24;Samesun Montreal Central;11;58.4;1094.4;139.87
+25;Hyatt Place Montréal – Downtown;6;34.9;663.4;274.50
+26;Hyatt Place Montréal – Downtown;6;35.1;601.6;314.50
+27;Hyatt Place Montréal – Downtown;7;39.1;660.8;314.50
+28;W Montreal;11;57.9;1001.5;563.13
+29;Hygie Boutique Hotel;6;30.4;685.4;78.75
+30;Samesun Montreal Central;10;51.7;1035.5;103.60
+31;Hyatt Place Montréal – Downtown;10;52.9;935.2;330.50
+32;Samesun Montreal Central;12;62.5;1178.1;81.35
+33;Samesun Montreal Central;11;57.3;1174.5;109.30
+34;Hygie Boutique Hotel;5;26.4;663.2;78.75
+35;Samesun Montreal Central;7;39.2;757.4;60.00
+36;Auberge Du Vieux Port;13;68.0;1284.8;534.95
+37;Hotel Casa Bella;13;63.4;1159.8;281.86
+38;Samesun Montreal Central;8;43.7;753.8;74.00
+39;Samesun Montreal Central;13;66.7;1249.7;146.59
+40;Samesun Montreal Central;13;67.4;1232.7;192.15
+41;Hilton Garden Inn Montreal Centre-Ville;10;54.1;968.8;437.50
+42;Hygie Boutique Hotel;6;30.2;625.1;84.75
+43;Hilton Garden Inn Montreal Centre-Ville;10;54.1;932.6;442.68
+44;Samesun Montreal Central;14;69.5;1342.3;233.56
+45;Samesun Montreal Central;13;66.6;1223.6;123.02
+46;Hilton Garden Inn Montreal Centre-Ville;10;54.0;940.1;430.85
+47;Samesun Montreal Central;12;62.5;1178.1;81.35
+48;Hygie Boutique Hotel;10;48.1;1087.0;86.97
+49;Hilton Garden Inn Montreal Centre-Ville;14;71.0;1300.1;472.31
+50;Hilton Garden Inn Montreal Centre-Ville;14;71.0;1300.1;472.31
+51;Samesun Montreal Central;8;44.9;897.8;115.85
+52;Samesun Montreal Central;8;44.4;1013.0;65.70
+53;Hotel Nelligan;7;41.5;698.5;512.75
+54;Samesun Montreal Central;13;67.1;1227.8;177.65
+55;Samesun Montreal Central;14;70.6;1359.7;207.50
+56;Samesun Montreal Central;8;44.2;849.8;60.00
+57;Samesun Montreal Central;10;53.7;998.0;107.07
+58;Auberge Manoir Ville-Marie;14;69.8;1340.0;304.61
+59;Hotel Nelligan;7;41.5;698.5;512.75
+60;Hotel Arena Palace Montreal;13;63.2;1165.6;205.44

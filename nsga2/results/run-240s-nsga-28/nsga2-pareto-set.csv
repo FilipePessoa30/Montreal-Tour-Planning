@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Alternative Hostel of Old Montreal;8;43.8;869.9;35.75
-2;Alternative Hostel of Old Montreal;12;63.0;1430.6;41.98
-3;Auberge L'Apero;5;30.1;568.0;66.57
-4;Alternative Hostel of Old Montreal;14;70.9;1373.3;112.75
-5;Alternative Hostel of Old Montreal;14;72.4;1427.5;143.88
-6;Renaissance Montreal Downtown Hotel;5;30.3;515.3;738.73
-7;The Ritz-Carlton, Montreal;11;58.9;1039.2;1091.00
-8;Hotel Nelligan;6;35.8;593.6;527.70
-9;Renaissance Montreal Downtown Hotel;5;30.3;515.3;738.73
-10;The Ritz-Carlton, Montreal;12;62.9;1194.5;1051.98
-11;Alternative Hostel of Old Montreal;13;66.0;1329.7;103.55
-12;Alternative Hostel of Old Montreal;10;52.6;949.8;96.80
-13;Hotel Nelligan;12;63.1;1202.2;580.32
-14;Samesun Montreal Central;7;38.9;597.5;127.08
-15;Alternative Hostel of Old Montreal;7;40.3;865.9;58.40
-16;Alternative Hostel of Old Montreal;12;62.3;1124.2;72.62
-17;Alternative Hostel of Old Montreal;11;58.2;1096.5;104.22
-18;Auberge L'Apero;8;42.6;671.4;72.80
-19;Alternative Hostel of Old Montreal;14;72.4;1427.5;143.88
-20;Alternative Hostel of Old Montreal;13;67.1;1258.1;103.70
-21;Auberge L'Apero;5;30.1;568.0;66.57
-22;Alternative Hostel of Old Montreal;10;52.7;1002.0;72.90
-23;Alternative Hostel of Old Montreal;9;48.7;976.9;61.75
-24;Alternative Hostel of Old Montreal;6;35.3;612.5;99.78
-25;Auberge L'Apero;6;34.3;616.7;80.17
-26;Alternative Hostel of Old Montreal;9;47.8;795.4;94.03
-27;The Ritz-Carlton, Montreal;11;58.9;1039.2;1091.00
-28;Alternative Hostel of Old Montreal;12;63.0;1430.6;41.98
-29;Auberge L'Apero;7;38.6;692.9;55.95
-30;Alternative Hostel of Old Montreal;12;61.9;1189.4;52.37
-31;Auberge L'Apero;9;46.8;791.6;78.52
-32;Auberge L'Apero;8;42.6;749.9;59.83
-33;Alternative Hostel of Old Montreal;11;59.0;1082.2;105.90
-34;Hotel Arena Palace Montreal;14;67.7;1273.9;134.22
-35;Alternative Hostel of Old Montreal;12;63.6;1228.1;75.75
-36;The Ritz-Carlton, Montreal;10;54.8;1016.4;1067.58
-37;Alternative Hostel of Old Montreal;8;43.2;712.1;82.85
-38;Alternative Hostel of Old Montreal;14;70.9;1363.6;104.78
-39;Hotel William Gray;9;49.5;813.0;570.52
-40;Alternative Hostel of Old Montreal;8;44.6;752.2;89.55
-41;Alternative Hostel of Old Montreal;11;56.6;1033.7;99.19
-42;Alternative Hostel of Old Montreal;6;34.7;536.1;95.15
-43;Alternative Hostel of Old Montreal;8;45.2;1022.3;48.80
-44;The Ritz-Carlton, Montreal;9;49.9;871.8;1090.57
-45;Alternative Hostel of Old Montreal;13;66.8;1394.4;75.42
-46;Alternative Hostel of Old Montreal;10;52.5;899.2;66.38
-47;Alternative Hostel of Old Montreal;12;63.0;1286.3;66.00
-48;Samesun Montreal Central;9;49.1;843.8;123.47
-49;Alternative Hostel of Old Montreal;7;40.3;865.9;58.40
-50;Hotel Nelligan;6;35.8;593.6;527.70
-51;Alternative Hostel of Old Montreal;10;52.5;899.2;66.38
-52;Alternative Hostel of Old Montreal;14;72.2;1374.0;138.98
-53;Alternative Hostel of Old Montreal;6;36.4;821.6;55.38
-54;Alternative Hostel of Old Montreal;10;53.3;1057.4;88.35
-55;Samesun Montreal Central;9;48.4;823.7;125.40
-56;Alternative Hostel of Old Montreal;6;35.3;640.0;93.20
-57;Alternative Hostel of Old Montreal;11;57.8;1151.1;64.07
-58;The Ritz-Carlton, Montreal;10;53.8;978.4;1079.08
-59;Alternative Hostel of Old Montreal;13;67.5;1345.4;83.95
-60;Alternative Hostel of Old Montreal;10;53.7;965.6;90.78
-61;Alternative Hostel of Old Montreal;11;58.7;1116.6;81.78
-62;Auberge L'Apero;9;47.4;897.6;60.02
-63;Alternative Hostel of Old Montreal;9;48.8;882.5;70.48
-64;Alternative Hostel of Old Montreal;13;67.6;1241.1;104.78
-65;Auberge L'Apero;6;34.5;634.5;62.18
-66;Alternative Hostel of Old Montreal;12;63.0;1221.8;122.55
-67;Alternative Hostel of Old Montreal;12;62.6;1388.4;41.98
-68;Samesun Montreal Central;8;43.6;663.2;139.38
-69;The Ritz-Carlton, Montreal;11;58.9;1067.5;1071.23
-70;Alternative Hostel of Old Montreal;10;53.1;1156.6;49.75
-71;Alternative Hostel of Old Montreal;11;57.3;1175.2;52.37
-72;Alternative Hostel of Old Montreal;9;49.3;1168.2;35.75
-73;Alternative Hostel of Old Montreal;11;58.0;1079.8;69.35
-74;Alternative Hostel of Old Montreal;14;70.9;1355.7;117.10
-75;Alternative Hostel of Old Montreal;11;58.4;1270.7;46.17
-76;The Ritz-Carlton, Montreal;10;54.0;996.8;1068.58
-77;Alternative Hostel of Old Montreal;6;36.4;821.6;55.38
-78;Alternative Hostel of Old Montreal;9;47.8;795.4;94.03
-79;Alternative Hostel of Old Montreal;11;57.6;1175.4;35.75
-80;The Ritz-Carlton, Montreal;10;54.0;996.8;1068.58
+1;Alternative Hostel of Old Montreal;9;49.6;1071.9;35.75
+2;Lelux Hotel;3;17.4;400.3;249.45
+3;Hotel William Gray;15;76.3;1409.0;662.42
+4;Lelux Hotel;4;21.6;462.6;245.40
+5;Montreal Marriott Chateau Champlain;14;71.0;1255.6;456.50
+6;Hôtel Bonaventure Montréal;5;29.7;567.6;343.20
+7;Hotel Nelligan;14;72.0;1346.0;618.62
+8;Hotel Nelligan;13;67.3;1213.8;529.25
+9;David Hotel;8;43.8;767.4;467.05
+10;Hotel Nelligan;13;67.4;1205.1;573.77
+11;Deluxe Suites Downtown Montreal;9;49.3;795.1;310.75
+12;Hôtel Ac Montréal Centre-ville;6;34.6;641.9;378.95
+13;Alternative Hostel of Old Montreal;11;58.1;974.2;110.00
+14;Alternative Hostel of Old Montreal;14;71.1;1270.5;155.30
+15;Hotel Le Cantlie Suites;6;33.1;657.8;332.68
+16;Alternative Hostel of Old Montreal;8;44.2;873.1;65.72
+17;Alternative Hostel of Old Montreal;11;58.9;1240.0;64.45
+18;Hotel le Coach;6;35.8;730.1;221.30
+19;Hôtel Bonaventure Montréal;5;29.7;567.6;343.20
+20;Deluxe Suites Downtown Montreal;12;63.4;1169.2;298.87
+21;Alternative Hostel of Old Montreal;10;52.5;1004.6;78.58
+22;Delta Hotels by Marriott Montreal;8;42.8;745.3;361.78
+23;Lelux Hotel;7;34.5;709.9;270.60
+24;Deluxe Suites Downtown Montreal;12;63.4;1169.2;298.87
+25;Alternative Hostel of Old Montreal;8;45.3;1027.8;49.75
+26;Lelux Hotel;5;26.2;582.1;245.40
+27;Lelux Hotel;7;34.5;714.6;272.28
+28;Alternative Hostel of Old Montreal;9;50.0;826.0;73.55
+29;Alternative Hostel of Old Montreal;10;54.6;1040.2;55.78
+30;Hotel Nelligan;14;72.0;1346.0;618.62
+31;Lelux Hotel;6;30.3;636.9;277.68
+32;Alternative Hostel of Old Montreal;10;52.5;1004.6;78.58
+33;Alternative Hostel of Old Montreal;6;35.9;881.0;42.77
+34;Hotel Nelligan;13;67.7;1231.5;549.77
+35;Alternative Hostel of Old Montreal;8;42.9;899.1;54.32
+36;Lelux Hotel;8;38.9;763.1;289.80
+37;Lelux Hotel;6;30.4;707.6;259.90
+38;Alternative Hostel of Old Montreal;10;52.4;957.3;85.10
+39;Alternative Hostel of Old Montreal;10;53.7;1095.9;48.63
+40;Alternative Hostel of Old Montreal;12;62.1;1117.1;135.97
+41;Lelux Hotel;5;26.2;582.1;245.40
+42;Hotel le Coach;7;40.0;782.3;239.47
+43;Alternative Hostel of Old Montreal;10;52.1;873.7;98.82
+44;Lelux Hotel;6;30.3;636.9;277.68
+45;Hotel le Coach;7;40.0;803.5;225.25
+46;Hotel Le Cantlie Suites;6;33.1;657.8;332.68
+47;Alternative Hostel of Old Montreal;14;71.6;1359.0;128.48
+48;Quality Hotel & Suites Montreal East;13;64.5;1231.5;271.77
+49;Alternative Hostel of Old Montreal;11;56.6;1130.9;68.90
+50;Alternative Hostel of Old Montreal;12;61.8;1129.2;84.13
+51;Hotel Nelligan;12;62.6;1153.7;533.27
+52;Deluxe Suites Downtown Montreal;11;58.4;1031.4;321.95
+53;Quality Hotel & Suites Montreal East;14;69.0;1257.4;271.03
+54;Deluxe Suites Downtown Montreal;7;40.7;699.1;303.50
+55;Alternative Hostel of Old Montreal;11;57.5;996.4;105.13
+56;Alternative Hostel of Old Montreal;14;71.4;1288.0;109.08
+57;Deluxe Suites Downtown Montreal;7;40.7;699.1;303.50
+58;Lelux Hotel;8;38.9;769.6;284.60
+59;Alternative Hostel of Old Montreal;14;71.6;1359.0;128.48
+60;Alternative Hostel of Old Montreal;12;62.9;1320.3;35.75

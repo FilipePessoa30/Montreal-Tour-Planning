@@ -1,81 +1,61 @@
 Solution;Hotel;TotalAttractions;TotalQuality;TotalTime;TotalCost
-1;Auberge L'Apero;10;52.3;1172.5;25.25
-2;Samesun Montreal Central;14;71.0;1418.5;135.58
-3;Hotel Casa Bella;4;23.6;401.8;154.77
-4;Hotel Zero 1;15;74.5;1373.0;373.38
-5;W Montreal;15;76.2;1407.1;597.26
-6;W Montreal;13;67.4;1193.8;660.21
-7;Hotel Casa Bella;4;23.6;401.8;154.77
-8;Deluxe Suites Downtown Montreal;5;32.1;549.2;273.00
-9;Le Petit Hotel Vieux-Montréal | Saint-Paul;6;35.1;580.8;492.47
-10;Hotel William Gray;13;68.2;1222.1;610.83
-11;Hotel Kutuma;9;48.1;824.8;420.85
-12;Auberge L'Apero;11;57.4;1314.9;50.85
-13;Hotel William Gray;6;36.4;675.4;524.90
-14;Auberge L'Apero;10;51.7;1073.7;62.28
-15;Hotel Gite du Survenant Montreal;8;43.5;761.7;282.30
-16;Hotel William Gray;5;31.7;476.0;543.83
-17;Hôtel Le Germain Montréal;14;72.2;1362.0;463.85
-18;Hotel William Gray;7;40.6;673.4;546.07
-19;Hotel William Gray;7;40.9;709.6;539.58
-20;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;12;63.5;1114.4;625.40
-21;Hôtel Le Germain Montréal;14;71.8;1362.0;433.07
-22;Auberge L'Apero;12;61.6;1297.3;52.02
-23;Samesun Montreal Central;11;57.6;1164.6;83.27
-24;Samesun Montreal Central;13;66.8;1255.8;149.30
-25;Auberge L'Apero;8;43.2;1083.7;36.52
-26;Hotel William Gray;4;27.5;437.2;513.58
-27;Samesun Montreal Central;10;54.7;918.5;144.93
-28;Auberge L'Apero;9;47.5;941.9;45.10
-29;Samesun Montreal Central;14;71.0;1418.5;135.58
-30;Samesun Montreal Central;9;49.5;863.5;114.12
-31;Deluxe Suites Downtown Montreal;11;59.0;954.9;349.78
-32;Samesun Montreal Central;6;35.1;632.9;103.20
-33;Auberge L'Apero;7;38.6;983.0;30.83
-34;W Montreal;13;67.1;1144.4;642.96
-35;Hotel William Gray;4;27.5;437.2;513.58
-36;Auberge L'Apero;10;53.4;1047.1;66.67
-37;Hotel Kutuma;13;66.2;1211.8;466.73
-38;Auberge L'Apero;6;34.5;726.2;47.57
-39;Deluxe Suites Downtown Montreal;12;62.7;1133.0;298.95
-40;Auberge L'Apero;12;60.8;1185.4;53.23
-41;Hotel William Gray;8;45.3;820.5;544.15
-42;Honeyrose Hotel Montreal A Tribute Portfolio Hotel;12;63.5;1114.4;625.40
-43;Auberge L'Apero;14;70.3;1276.8;150.60
-44;Auberge L'Apero;9;47.5;941.9;45.10
-45;Samesun Montreal Central;11;58.6;1003.3;105.20
-46;Best Western Plus Hotel Montreal;8;42.3;741.2;322.52
-47;Samesun Montreal Central;5;30.9;511.5;98.67
-48;Hotel William Gray;6;36.2;592.4;513.58
-49;Best Western Plus Hotel Montreal;8;42.3;737.0;336.03
-50;Best Western Plus Montreal Downtown-Hotel Europa;12;61.7;1027.4;369.50
-51;Auberge L'Apero;11;55.5;1060.1;98.00
-52;Hotel William Gray;8;43.7;748.0;581.57
-53;Hotel William Gray;7;40.9;701.7;567.57
-54;Samesun Montreal Central;12;62.4;1092.2;134.43
-55;Hotel Zero 1;15;74.5;1373.0;373.38
-56;Le Petit Hotel Vieux-Montréal | Saint-Paul;13;67.8;1221.0;557.66
-57;Samesun Montreal Central;6;35.6;689.3;87.85
-58;Samesun Montreal Central;8;44.3;801.8;114.60
-59;Auberge L'Apero;5;30.1;519.6;51.58
-60;Hôtel Le Germain Montréal;14;72.2;1362.0;463.85
-61;Auberge L'Apero;11;56.7;1138.3;32.12
-62;Hotel Zero 1;13;65.8;1193.3;365.37
-63;Auberge L'Apero;8;42.8;845.9;77.13
-64;Auberge L'Apero;5;30.1;570.5;37.57
-65;Auberge L'Apero;10;51.8;922.2;76.63
-66;Samesun Montreal Central;14;71.1;1233.3;154.10
-67;Deluxe Suites Downtown Montreal;12;63.2;1067.2;349.63
-68;Auberge L'Apero;13;65.2;1178.4;118.78
-69;Le Petit Hotel Vieux-Montréal | Saint-Paul;8;43.5;727.5;506.22
-70;Auberge L'Apero;8;42.1;744.2;108.37
-71;Auberge L'Apero;10;53.0;1131.4;35.75
-72;Auberge L'Apero;9;48.6;836.3;94.05
-73;Samesun Montreal Central;11;57.8;985.9;116.05
-74;Auberge L'Apero;5;30.5;532.0;51.47
-75;Samesun Montreal Central;12;62.1;1169.5;120.97
-76;Hotel William Gray;5;31.7;476.0;543.83
-77;Hotel William Gray;7;40.3;726.2;513.58
-78;Samesun Montreal Central;7;39.4;762.8;93.63
-79;Hotel Kutuma;9;48.1;824.8;420.85
-80;Samesun Montreal Central;9;50.0;833.2;120.03
+1;Auberge L'Apero;7;39.8;857.0;37.40
+2;Auberge L'Apero;13;65.9;1418.6;81.25
+3;Hotel Zero 1;3;21.6;426.3;310.77
+4;Hotel Zero 1;4;25.7;399.7;325.40
+5;L'Appartement Hotel;14;68.7;1309.6;336.17
+6;Residence Inn Montreal Airport;14;69.3;1309.6;375.45
+7;Four Seasons Hotel Montreal;11;58.2;1076.0;891.02
+8;Hotel William Gray;12;63.3;1143.5;631.65
+9;Hotel William Gray;6;36.6;596.0;557.77
+10;Hôtel Place d'Armes Old Montreal;6;35.8;612.2;477.07
+11;Auberge L'Apero;12;61.6;1162.5;159.37
+12;Le Roberval;5;29.1;485.6;250.87
+13;Hôtel Place d'Armes Old Montreal;5;31.7;483.5;479.33
+14;Le Petit Hotel Vieux-Montréal | Saint-Paul;9;50.2;874.8;497.25
+15;Hotel le Coach;10;54.2;989.7;214.42
+16;Hotel le Coach;9;49.6;835.4;226.00
+17;Auberge L'Apero;13;64.9;1242.5;145.57
+18;Auberge de La Fontaine;8;44.2;800.6;342.11
+19;Le Roberval;6;33.8;546.8;266.87
+20;Le Roberval;4;25.6;459.9;227.00
+21;Auberge L'Apero;12;60.7;1210.9;151.90
+22;Hotel le Coach;14;69.3;1326.5;314.20
+23;Courtyard Montreal Downtown;10;54.0;914.4;420.78
+24;Le Roberval;11;56.5;1037.9;271.63
+25;Hôtel Place d'Armes Old Montreal;8;45.4;720.2;479.70
+26;Auberge L'Apero;7;39.2;622.3;91.92
+27;Auberge L'Apero;7;39.2;637.5;82.03
+28;Auberge L'Apero;8;43.9;944.3;53.30
+29;Le Roberval;10;52.4;959.5;269.78
+30;Auberge L'Apero;13;65.9;1418.6;81.25
+31;Hotel Zero 1;3;21.6;436.6;312.47
+32;Le Petit Hotel Vieux-Montréal | Saint-Paul;9;50.2;796.8;509.93
+33;Hotel Zero 1;4;25.7;399.7;325.40
+34;Le Roberval;4;25.6;459.9;227.00
+35;Hotel le Coach;13;66.3;1375.4;295.67
+36;Hotel Zero 1;3;21.6;426.3;310.77
+37;L'Appartement Hotel;5;30.8;528.1;267.43
+38;Hotel le Coach;13;66.6;1263.5;317.05
+39;Auberge L'Apero;8;42.3;695.1;89.17
+40;Hotel Faubourg Montreal;12;59.3;1079.4;372.45
+41;Hotel William Gray;13;67.5;1202.2;590.70
+42;Le Roberval;5;29.1;485.6;250.87
+43;Auberge de La Fontaine;12;62.4;1195.1;396.55
+44;Hotel Zero 1;6;34.9;530.4;310.75
+45;Auberge L'Apero;7;39.8;857.0;37.40
+46;Best Western Plus Hotel Montreal;11;57.0;1056.2;349.13
+47;Hotel Zero 1;8;43.1;692.6;377.23
+48;Le Roberval;9;47.2;833.5;279.20
+49;Warwick Le Crystal - Montréal;12;63.2;1179.8;523.23
+50;Auberge L'Apero;13;64.8;1397.2;140.35
+51;Hotel le Coach;10;54.2;989.7;214.42
+52;Auberge L'Apero;12;61.7;1306.5;115.85
+53;Auberge L'Apero;9;47.2;980.9;89.03
+54;Hotel Faubourg Montreal;11;55.8;968.4;337.03
+55;Auberge L'Apero;10;53.1;1099.1;70.73
+56;Auberge L'Apero;8;44.1;1011.7;45.58
+57;Auberge L'Apero;11;57.4;1137.4;124.48
+58;Auberge L'Apero;8;43.4;892.0;98.77
+59;Hotel William Gray;13;67.5;1202.2;590.70
+60;Auberge L'Apero;10;51.9;934.5;118.10
