@@ -1,5 +1,35 @@
 # Montreal Tour Planning
 
+## Publication
+
+This project was published as a book chapter in Springer's *Lecture Notes in Computer Science*:
+
+**Multi-objective VNS Tourism Planning: Optimizing Weekend Itineraries in Montreal**
+Filipe P. Sousa, Augusto M. P. de Mendonça, Igor M. Coelho
+*Variable Neighborhood Search* — Springer Nature Switzerland, 2026
+
+- Link: https://link.springer.com/chapter/10.1007/978-3-032-19582-1_8
+- DOI: https://doi.org/10.1007/978-3-032-19582-1_8
+
+### How to Cite
+
+**APA:**
+> Sousa, F. P., de Mendonça, A. M. P., & Coelho, I. M. (2026). Multi-objective VNS Tourism Planning: Optimizing Weekend Itineraries in Montreal. In *Variable Neighborhood Search* (Lecture Notes in Computer Science). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-19582-1_8
+
+**BibTeX:**
+```bibtex
+@inbook{sousa2026montreal,
+  author    = {Sousa, Filipe P. and de Mendon{\c{c}}a, Augusto M. P. and Coelho, Igor M.},
+  title     = {Multi-objective VNS Tourism Planning: Optimizing Weekend Itineraries in Montreal},
+  booktitle = {Variable Neighborhood Search},
+  series    = {Lecture Notes in Computer Science},
+  publisher = {Springer Nature Switzerland},
+  year      = {2026},
+  doi       = {10.1007/978-3-032-19582-1_8},
+  url       = {https://link.springer.com/chapter/10.1007/978-3-032-19582-1_8}
+}
+```
+
 ## Project Overview
 This project implements two metaheuristics for a two-day tourist itinerary in Montreal:
 - MOVNS (Multi-Objective Variable Neighborhood Search)
