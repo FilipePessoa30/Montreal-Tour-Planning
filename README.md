@@ -130,7 +130,7 @@ return archive A
 
 ## Experiments (30 runs, fixed 240 s)
 
-### NSGA-II (weakened)
+### NSGA-II
 - Params: `--population-size 40 --generations 20 --crossover-prob 0.6 --mutation-prob 0.5`
 - Time per run: 240 s
 - Run 30x (implicit seeds 1..30):
